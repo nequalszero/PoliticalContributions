@@ -1,0 +1,50 @@
+{
+  "name": "PoliticalContributions",
+  "version": "1.0.0",
+  "description": "Graphics of political contributions by committees to presidential candidates for 2015-2016.",
+  "main": "./frontend/entry.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline",
+    "build:sass": "node-sass -r -o frontend/styles/css frontend/styles/scss --output-style expanded",
+    "watch:sass": "npm run build:sass && npm run build:sass -- -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nequalszero/SearchTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nequalszero/SearchTest/issues"
+  },
+  "homepage": "https://github.com/nequalszero/SearchTest#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "d3": "^4.8.0",
+    "history": "^4.6.1",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-loading-animation": "^1.1.0",
+    "react-modal": "^1.7.3",
+    "react-router-dom": "^4.0.0",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-1": "^6.22.0",
+    "css-loader": "^0.26.4",
+    "node-sass": "^4.5.2",
+    "style-loader": "^0.13.2",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
