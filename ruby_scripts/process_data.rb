@@ -139,15 +139,22 @@ def calculate_largest_contributions(result)
                        .map { |contribution| contribution[:id] }
 end
 
-def calculate_most_revenue_candidates(result)
+def find_candidates_with_contributions(result)
   result[:candidate].map { |candidate_id, candidate| { candidate_id: candidate_id, amount: candidate[:total_contributions] } }
-                    .sort { |a, b| b[:amount] <=> a[:amount] }
-                    .take(50)
+                    .select { |candidate| candidate[:amount] > 0 }
                     .map { |candidate| candidate[:candidate_id] }
 end
 
+def calculate_most_revenue_candidates(result)
+  amount_proc = Proc.new { |id| result[:candidate][id][:total_contributions] }
+  candidate_ids = result[:candidatesWithContributions];
+
+  candidate_ids.sort { |a, b| amount_proc.call(b) <=> amount_proc.call(a) }
+               .take(50)
+end
+
 def calculate_most_donation_committees(result)
-  result[:candidate].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:total_contributions] } }
+  result[:committee].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:total_contributions] } }
                     .sort { |a, b| b[:amount] <=> a[:amount] }
                     .take(50)
                     .map { |committee| committee[:committee_id] }
@@ -185,6 +192,7 @@ def main
 
   calculate_contributions_per_committee(result)
   result[:largestContributions] = calculate_largest_contributions(result)
+  result[:candidatesWithContributions] = find_candidates_with_contributions(result)
   result[:wealthiestCandidates] = calculate_most_revenue_candidates(result)
   result[:wealthiestCommittees] = calculate_most_donation_committees(result)
 

@@ -10,6 +10,18 @@ def write_largest_contributions(result)
   puts "\nDone"
 end
 
+def append_candidates_with_contributions(result)
+  puts "\nAppending candidatesWithContributions to statistics.js"
+
+  File.open("processed_data/statistics.js","a") do |f|
+    f.write("export const candidatesWithContributions = ")
+    f.write(JSON.pretty_generate(result[:candidatesWithContributions]))
+    f.write(";\n\n")
+  end
+
+  puts "\nDone"
+end
+
 def append_wealthiest_candidates(result)
   puts "\nAppending wealthiestCandidates to statistics.js"
 
@@ -36,6 +48,7 @@ end
 
 def write_statistics(result)
   write_largest_contributions(result)
+  append_candidates_with_contributions(result)
   append_wealthiest_candidates(result)
   append_wealthiest_committees(result)
 end
