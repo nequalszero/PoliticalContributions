@@ -2,7 +2,10 @@ require 'pp'
 require 'csv'
 require 'set'
 require 'byebug'
+
 require_relative 'write_results';
+require_relative 'write_associations';
+require_relative 'write_statistics';
 
 def isNumber?(string)
   string = string[1..-1] if string[0] == "-"
@@ -52,7 +55,8 @@ def process_candidate_row(line, column_map, result)
     result[:candidate][candidate_id] = {
       id: candidate_id,
       name: candidate_name,
-      party: party
+      party: party,
+      total_contributions: 0
     }
   end
 end
@@ -78,7 +82,7 @@ def process_contribution_row(line, column_map, result)
       fecRecordNumber: fec_record_number,
       reportId: report_id,
       entityType: entity_type,
-      date: date == '' ? '' : { month: date[0..1], day: date[2..3], year: date[4..-1] },
+      date: date == '' ? '' : { month: date[0..1].to_i, day: date[2..3].to_i, year: date[4..-1].to_i },
       amount: amount.to_i,
       candidateId: candidate_id,
       otherId: other_id,
@@ -107,9 +111,46 @@ def process_committee_row(line, column_map, result)
       type: type,
       designation: committee_designation,
       interestGroupCategory: interest_group_category,
-      candidateId: candidate_id
+      candidateId: candidate_id,
+      total_contributions: 0,
+      endorsed_candidates: Set.new
     }
   end
+end
+
+# Calculates the amount of contributions given by each committee and received by each
+#   presidential candidate, as well as the candidates endorsed by each committee.
+def calculate_contributions_per_committee(result)
+  result[:contribution].each do |_, contribution|
+    committee_id = contribution[:committeeId]
+    candidate_id = contribution[:candidateId]
+    amount = contribution[:amount]
+
+    result[:candidate][candidate_id][:total_contributions] += amount
+    result[:committee][committee_id][:total_contributions] += amount
+    result[:committee][committee_id][:endorsed_candidates] << candidate_id
+  end
+end
+
+def calculate_largest_contributions(result)
+  result[:contribution].map { |fecRecordNumber, contribution| { id: fecRecordNumber, amount: contribution[:amount] }}
+                       .sort { |a, b| b[:amount] <=> a[:amount] }
+                       .take(50)
+                       .map { |contribution| contribution[:fecRecordNumber] }
+end
+
+def calculate_most_revenue_candidates(result)
+  result[:candidate].map { |candidate_id, candidate| { candidate_id: candidate_id, amount: candidate[:total_contributions] } }
+                    .sort { |a, b| b[:amount] <=> a[:amount] }
+                    .take(50)
+                    .map { |candidate| candidate[:candidate_id] }
+end
+
+def calculate_most_donation_committees(result)
+  result[:candidate].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:total_contributions] } }
+                    .sort { |a, b| b[:amount] <=> a[:amount] }
+                    .take(50)
+                    .map { |committee| committee[:committee_id] }
 end
 
 def main
@@ -142,7 +183,14 @@ def main
     end
   end
 
+  calculate_contributions_per_committee(result)
+  result[:largestContributions] = calculate_largest_contributions(result)
+  result[:wealthiestCandidates] = calculate_most_revenue_candidates(result)
+  result[:wealthiestCommittees] = calculate_most_donation_committees(result)
+
   write_results(result)
+  write_associations
+  write_statistics(result)
 end
 
 if __FILE__ == $PROGRAM_NAME
