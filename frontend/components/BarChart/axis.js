@@ -98,6 +98,11 @@ class Axis extends React.Component {
     this.props.onTickClick();
   }
 
+  truncateIfNeeded = (tick) => {
+    if (String(tick).length > 40) return `${String(tick).slice(0, 40)}...`
+    return tick;
+  }
+
   renderAxis() {
     const tickRotation = this.props.tickTransformation ? (this.props.tickTransformation.tickRotation || 0) : 0;
 
@@ -113,6 +118,10 @@ class Axis extends React.Component {
                .attr("dx", dx)
                .attr("dy", dy)
                .attr("transform", `rotate(${tickRotation})`)
+               .text((d) => {
+                 if (this.props.truncateTickLabels) return this.truncateIfNeeded(d);
+                 return d;
+               })
     }
 
     // Apply an active class to the tick if it matches the selectedKey prop.
@@ -175,6 +184,7 @@ Axis.propTypes = {
   }),
   translateX: PropTypes.number.isRequired,
   translateY: PropTypes.number.isRequired,
+  truncateTickLabels: PropTypes.bool,
   values: PropTypes.oneOfType([
     PropTypes.arrayOf(PropTypes.string),
     PropTypes.arrayOf(PropTypes.number),

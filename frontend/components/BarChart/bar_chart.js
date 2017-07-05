@@ -50,6 +50,7 @@ class BarChart extends React.Component {
     tickTransformation: {
       tickRotation: -45
     },
+    truncateTickLabels: true,
     translateY: this.props.translateY + this.props.yAxisLength,
     translateX: this.props.translateX,
     values: this.extractData(this.props, 'labelKey').reverse(),

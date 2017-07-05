@@ -123,6 +123,7 @@ class App extends React.Component {
   }
 
   render() {
+    debugger
     const chartProps = {
       data: this.state.barChart.data,
       handlers: {

@@ -68,7 +68,7 @@ body {
 .bar-chart-area {
   display: block;
   height: 700px;
-  width: 1200px;
+  width: 1300px;
   border: 1px solid black;
   font-family: 'Roboto Mono', monospace;
   font-weight: normal;
@@ -130,6 +130,25 @@ body {
   fill: #189a0d;
 }
 
+rect.tip {
+  display: none;
+}
+
+rect.tip.visible {
+  display: block;
+  fill: white;
+  stroke: black;
+}
+
+text.tip {
+  display: none;
+}
+
+text.tip.visible {
+  display: block;
+  fill: black;
+}
+
 .gridline > g.tick > line {
   stroke: #ececed;
   border: 0px 0px;
@@ -137,7 +156,7 @@ body {
 
 .navigation-tabs {
   box-sizing: border-box;
-  width: 1200px;
+  width: 1300px;
   border: 1px solid black;
   display: flex;
   flex-direction: row;
