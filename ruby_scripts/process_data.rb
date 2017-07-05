@@ -136,7 +136,7 @@ def calculate_largest_contributions(result)
   result[:contribution].map { |fecRecordNumber, contribution| { id: fecRecordNumber, amount: contribution[:amount] }}
                        .sort { |a, b| b[:amount] <=> a[:amount] }
                        .take(50)
-                       .map { |contribution| contribution[:fecRecordNumber] }
+                       .map { |contribution| contribution[:id] }
 end
 
 def calculate_most_revenue_candidates(result)
