@@ -13,7 +13,8 @@ const NavigationTabs = (props) => {
   return (
     <ul className="navigation-tabs">
       <li onClick={() => props.handleClick('candidate')} className={tabClass('candidate')}>Candidates</li>
-      <li onClick={() => props.handleClick('committee')} className={tabClass('committee')}>Committees</li>
+      <li onClick={() => props.handleClick('committeeOP')} className={tabClass('committee')}>Committees (official parties)</li>
+      <li onClick={() => props.handleClick('committeeBP')} className={tabClass('committee')}>Committees (backed parties)</li>
     </ul>
   );
 }

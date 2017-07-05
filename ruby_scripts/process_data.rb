@@ -113,7 +113,7 @@ def process_committee_row(line, column_map, result)
       interestGroupCategory: interest_group_category,
       candidateId: candidate_id,
       totalContributions: 0,
-      endorsed_candidates: Set.new
+      endorsedCandidates: []
     }
   end
 end
@@ -128,7 +128,7 @@ def calculate_contributions_per_committee(result)
 
     result[:candidate][candidate_id][:totalContributions] += amount
     result[:committee][committee_id][:totalContributions] += amount
-    result[:committee][committee_id][:endorsed_candidates] << candidate_id
+    result[:committee][committee_id][:endorsedCandidates] << candidate_id
   end
 end
 

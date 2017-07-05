@@ -24,7 +24,8 @@ class App extends React.Component {
     super(props);
 
     this.candidateData = this.selectCandidateData();
-    this.committeeData = this.selectCommitteeData();
+    this.committeeOPData = this.selectCommitteeOPData();
+    this.committeeBPData = this.selectCommitteeBPData();
 
     this.state = {
       currentTab: 'candidate',
@@ -49,12 +50,29 @@ class App extends React.Component {
     return wealthiestCandidates.map((id) => (candidate[id]));
   }
 
-  selectCommitteeData() {
+  selectCommitteeOPData() {
     return wealthiestCommittees.map((id) => (committee[id]));
   }
 
+  selectCommitteeBPData() {
+    return wealthiestCommittees.map((id) => {
+      let currentCommittee = {...committee[id]};
+      let [demBack, repBack] = [0, 0];
+
+      currentCommittee.endorsedCandidates.forEach((candId) => {
+        if (candidate[candId].party === 'DEM') demBack += 1;
+        if (candidate[candId].party === 'REP') repBack += 1;
+      });
+
+      if (repBack > demBack) currentCommittee.party = 'REP';
+      if (repBack < demBack) currentCommittee.party = 'DEM';
+
+      return currentCommittee;
+    });
+  }
+
   changeTab = (tabName) => {
-    if (tabName !== 'candidate' && tabName !== 'committee') {
+    if (tabName !== 'candidate' && tabName !== 'committeeOP' && tabName !== 'committeeBP') {
       throw `Error in App#changeTab, unrecognized tabName: '${tabName}'`;
     }
     if (this.state.currentTab === tabName) return;
@@ -62,19 +80,25 @@ class App extends React.Component {
     const barChart = this.state.barChart;
 
     switch(tabName) {
-      case 'committee':
-        barChart.data.dataObjects = this.committeeData;
+      case 'committeeOP':
+        barChart.data.dataObjects = this.committeeOPData;
         barChart.xAxisText = 'Committee Name';
         barChart.yAxisText = 'Dollars Contributed ($)';
+        barChart.title = 'Committee Contributions by Official Party 2015-2016';
+        break;
+      case 'committeeBP':
+        barChart.data.dataObjects = this.committeeBPData;
+        barChart.xAxisText = 'Committee Name';
+        barChart.yAxisText = 'Dollars Contributed ($)';
+        barChart.title = 'Committee Contributions by Backed Party 2015-2016';
         break;
       case 'candidate':
         barChart.data.dataObjects = this.candidateData;
         barChart.xAxisText = 'Candidate Name';
         barChart.yAxisText = 'Dollars Raised ($)';
+        barChart.title = 'Candidate Contributions from Committees 2015-2016';
         break;
     }
-
-    console.log(barChart);
 
     this.setState({currentTab: tabName, barChart});
   }
@@ -99,7 +123,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log(this.state.currentTab);
     const chartProps = {
       data: this.state.barChart.data,
       handlers: {
