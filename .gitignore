@@ -15,6 +15,3 @@
 
 # Ignore node modules
 /node_modules
-
-# Ignore raw data files
-/raw_data

@@ -4,6 +4,7 @@
 This data in this project was parsed using Ruby, which in turn outputted data as JavaScript objects.
 The data was then visualized using React and D3.js.
 1. To parse the raw data, run `ruby ruby_scripts/process_data.rb`.  This will create all the JavaScript objects found in the `processed_data` folder.
+2. If developing further, run `npm install` to install the required node modules.
 2. To start the `webpack dev server` for further development, run `npm start` to live reload upon changing `.js` and `.css` files.  In a separate console tab, `npm run sass:build -- -w` will auto compile `.scss` files to `.css`.
 3. Running `webpack` will rebundle all the assets together into the `dist/bundle.js` file.
 4. Opening `index.html` in the browser will display the application as of the current `bundle.js` file.
