@@ -1,0 +1,26 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import classNames from 'classnames';
+
+const NavigationTabs = (props) => {
+  const tabClass = (name) => (
+    classNames({
+      active: name === props.activeTab,
+      inactive: name === props.activeTab
+    })
+  );
+
+  return (
+    <ul className="navigation-tabs">
+      <li onClick={() => props.handleClick('candidate')} className={tabClass('candidate')}>Candidates</li>
+      <li onClick={() => props.handleClick('committee')} className={tabClass('committee')}>Committees</li>
+    </ul>
+  );
+}
+
+NavigationTabs.propTypes = {
+  activeTab: PropTypes.string.isRequired,
+  handleClick: PropTypes.func.isRequired
+};
+
+export default NavigationTabs;

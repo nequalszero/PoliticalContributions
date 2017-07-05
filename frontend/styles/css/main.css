@@ -1,0 +1,166 @@
+/* PHASE 0: Reset */
+html, body, header, nav, h1, a,
+ul, li, strong, main, button, i,
+section, img, div, h2, p, form,
+fieldset, label, input, textarea,
+span, article, footer, time, small {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  color: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  box-sizing: inherit;
+  background: transparent;
+}
+
+body {
+  font-family: "Helvetica Neue, Helvetica, Liberation Sans, Arial, sans-serif";
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+input[type="password"],
+input[type="email"],
+input[type="text"],
+input[type="submit"],
+textarea,
+button {
+  /*
+  Get rid of native styling. Read more here:
+  http://css-tricks.com/almanac/properties/a/appearance/
+  */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+button,
+input[type="submit"] {
+  cursor: pointer;
+}
+
+/* Clearfix */
+.group:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.bar-chart-area {
+  display: block;
+  height: 700px;
+  width: 1200px;
+  border: 1px solid black;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: normal;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+.axis {
+  font-size: 0.9em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.axis-label {
+  font-weight: normal;
+}
+
+.axis-x > g.tick > text {
+  font-weight: normal;
+}
+
+.axis-x > g.tick > text.active {
+  fill: #e81717;
+}
+
+.axis-x > g.tick > text:hover {
+  cursor: pointer;
+}
+
+.axis-x > g.tick > text.hovering-over {
+  fill: #e81717;
+}
+
+.chart-title {
+  font-weight: bold;
+}
+
+.chart-bar {
+  fill: #8b8b8b;
+  stroke: black;
+}
+
+.chart-bar.democrat {
+  fill: #101581;
+}
+
+.chart-bar.republican {
+  fill: #ad0808;
+}
+
+.chart-bar.active {
+  fill: #17416e;
+}
+
+.chart-bar:hover {
+  cursor: pointer;
+}
+
+.chart-bar.hovering-over {
+  fill: #189a0d;
+}
+
+.gridline > g.tick > line {
+  stroke: #ececed;
+  border: 0px 0px;
+}
+
+.navigation-tabs {
+  box-sizing: border-box;
+  width: 1200px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  list-style: none;
+}
+
+.navigation-tabs li {
+  font-size: 16px;
+  width: 250px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.navigation-tabs li:hover {
+  cursor: pointer;
+}
+
+.navigation-tabs li.active {
+  border-bottom: none;
+}
+
+.navigation-tabs li.inactive {
+  background-color: #d5d0d0;
+}

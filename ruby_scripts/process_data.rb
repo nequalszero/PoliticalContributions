@@ -139,12 +139,14 @@ def calculate_largest_contributions(result)
                        .map { |contribution| contribution[:id] }
 end
 
-def find_candidates_with_contributions(result)
+# Find all presidential candidate ids whose contributions were greater than the threshhold, default $2000.
+def find_candidates_with_contributions(result, threshhold = 2000)
   result[:candidate].map { |candidate_id, candidate| { candidate_id: candidate_id, amount: candidate[:totalContributions] } }
-                    .select { |candidate| candidate[:amount] > 0 }
+                    .select { |candidate| candidate[:amount] > threshhold }
                     .map { |candidate| candidate[:candidate_id] }
 end
 
+# Sorts presidential candidate ids by contribution amount.
 def calculate_most_revenue_candidates(result)
   amount_proc = Proc.new { |id| result[:candidate][id][:totalContributions] }
   candidate_ids = result[:candidatesWithContributions];
@@ -153,6 +155,7 @@ def calculate_most_revenue_candidates(result)
                .take(50)
 end
 
+# Sorts committee ids by contribution amount.
 def calculate_most_donation_committees(result)
   result[:committee].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:totalContributions] } }
                     .sort { |a, b| b[:amount] <=> a[:amount] }

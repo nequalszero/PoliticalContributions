@@ -1,0 +1,70 @@
+.bar-chart-area {
+  display: block;
+  height: $data-area-height;
+  width: $bar-chart-area-width;
+  border: 1px solid black;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: normal;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+.axis {
+  font-size: 0.9em;
+  font-family: 'Roboto Mono', monospace;
+
+  &-label {
+    font-weight: normal;
+  }
+
+  &-x > g.tick > text {
+    // font-style: italic;
+    font-weight: normal;
+
+    &.active {
+      fill: #e81717;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &.hovering-over {
+      fill: #e81717;
+    }
+  }
+}
+
+.chart-title {
+  font-weight: bold;
+}
+
+.chart-bar {
+  fill: #8b8b8b;
+  stroke: black;
+
+  &.democrat {
+    fill: #101581;
+  }
+
+  &.republican {
+    fill: #ad0808;
+  }
+
+  &.active {
+    fill: #17416e;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &.hovering-over {
+    fill: #189a0d;
+  }
+}
+
+.gridline > g.tick > line {
+  stroke: #ececed;
+  border: 0px 0px;
+}

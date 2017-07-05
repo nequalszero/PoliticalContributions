@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   entry: './frontend/entry.js',
   output: {
-    filename: './frontend/bundle.js'
+    filename: './dist/bundle.js'
   },
   resolve: {
     extensions: ['.js', '.jsx', '*']
