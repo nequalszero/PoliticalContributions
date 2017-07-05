@@ -7,8 +7,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6693341,
-    "endorsed_candidates": "#<Set:0x0055ef0a280830>"
+    "totalContributions": 6693341,
+    "endorsed_candidates": "#<Set:0x0055d32b16dc68>"
   },
   "C00002089": {
     "id": "C00002089",
@@ -18,8 +18,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 44966,
-    "endorsed_candidates": "#<Set:0x0055ef0a2b2a10>"
+    "totalContributions": 44966,
+    "endorsed_candidates": "#<Set:0x0055d32b1a0528>"
   },
   "C00002469": {
     "id": "C00002469",
@@ -29,8 +29,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2b18b8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b18f778>"
   },
   "C00002766": {
     "id": "C00002766",
@@ -40,8 +40,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 133175,
-    "endorsed_candidates": "#<Set:0x0055ef0a2b0648>"
+    "totalContributions": 133175,
+    "endorsed_candidates": "#<Set:0x0055d32b18e850>"
   },
   "C00003160": {
     "id": "C00003160",
@@ -51,8 +51,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2a0310>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b1c3118>"
   },
   "C00003418": {
     "id": "C00003418",
@@ -62,8 +62,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20792058,
-    "endorsed_candidates": "#<Set:0x0055ef0a292670>"
+    "totalContributions": 20792058,
+    "endorsed_candidates": "#<Set:0x0055d32b1c0fd0>"
   },
   "C00003590": {
     "id": "C00003590",
@@ -73,8 +73,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 15139,
-    "endorsed_candidates": "#<Set:0x0055ef0a291810>"
+    "totalContributions": 15139,
+    "endorsed_candidates": "#<Set:0x0055d32b1c0378>"
   },
   "C00003632": {
     "id": "C00003632",
@@ -84,8 +84,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 64417,
-    "endorsed_candidates": "#<Set:0x0055ef0a291220>"
+    "totalContributions": 64417,
+    "endorsed_candidates": "#<Set:0x0055d32b1b3e48>"
   },
   "C00003806": {
     "id": "C00003806",
@@ -95,8 +95,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2908e8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b1b3498>"
   },
   "C00004036": {
     "id": "C00004036",
@@ -106,8 +106,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4881286,
-    "endorsed_candidates": "#<Set:0x0055ef0a2d6410>"
+    "totalContributions": 4881286,
+    "endorsed_candidates": "#<Set:0x0055d32b1b11e8>"
   },
   "C00004325": {
     "id": "C00004325",
@@ -117,8 +117,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2d5010>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b1e7d38>"
   },
   "C00004606": {
     "id": "C00004606",
@@ -128,8 +128,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4470,
-    "endorsed_candidates": "#<Set:0x0055ef0a2c3db0>"
+    "totalContributions": 4470,
+    "endorsed_candidates": "#<Set:0x0055d32b1e6c08>"
   },
   "C00004861": {
     "id": "C00004861",
@@ -139,8 +139,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 105350,
-    "endorsed_candidates": "#<Set:0x0055ef0a2c33b0>"
+    "totalContributions": 105350,
+    "endorsed_candidates": "#<Set:0x0055d32b1e5ba0>"
   },
   "C00006486": {
     "id": "C00006486",
@@ -150,8 +150,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 22830,
-    "endorsed_candidates": "#<Set:0x0055ef0a2e7d28>"
+    "totalContributions": 22830,
+    "endorsed_candidates": "#<Set:0x0055d32b207840>"
   },
   "C00007542": {
     "id": "C00007542",
@@ -161,8 +161,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2e6ea0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b206300>"
   },
   "C00007898": {
     "id": "C00007898",
@@ -172,8 +172,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a2e57d0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b204be0>"
   },
   "C00007922": {
     "id": "C00007922",
@@ -183,8 +183,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 289803,
-    "endorsed_candidates": "#<Set:0x0055ef0a2e51e0>"
+    "totalContributions": 289803,
+    "endorsed_candidates": "#<Set:0x0055d32b204460>"
   },
   "C00008268": {
     "id": "C00008268",
@@ -194,8 +194,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 42423,
-    "endorsed_candidates": "#<Set:0x0055ef0a31ac28>"
+    "totalContributions": 42423,
+    "endorsed_candidates": "#<Set:0x0055d32b1f5c80>"
   },
   "C00010082": {
     "id": "C00010082",
@@ -205,8 +205,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0a33fdc0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32b2283d8>"
   },
   "C00010322": {
     "id": "C00010322",
@@ -216,8 +216,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0a33ee48>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32b21b660>"
   },
   "C00010603": {
     "id": "C00010603",
@@ -227,8 +227,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 22816861,
-    "endorsed_candidates": "#<Set:0x0055ef0a33c080>"
+    "totalContributions": 22816861,
+    "endorsed_candidates": "#<Set:0x0055d32b2186e0>"
   },
   "C00011114": {
     "id": "C00011114",
@@ -238,8 +238,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 156606,
-    "endorsed_candidates": "#<Set:0x0055ef0a32e930>"
+    "totalContributions": 156606,
+    "endorsed_candidates": "#<Set:0x0055d32b24abe0>"
   },
   "C00011189": {
     "id": "C00011189",
@@ -249,8 +249,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a32e2f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b24a640>"
   },
   "C00011197": {
     "id": "C00011197",
@@ -260,8 +260,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 49348,
-    "endorsed_candidates": "#<Set:0x0055ef0a32df58>"
+    "totalContributions": 49348,
+    "endorsed_candidates": "#<Set:0x0055d32b249fb0>"
   },
   "C00011262": {
     "id": "C00011262",
@@ -271,8 +271,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a32d968>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b249ab0>"
   },
   "C00011338": {
     "id": "C00011338",
@@ -282,8 +282,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 27,
-    "endorsed_candidates": "#<Set:0x0055ef0a32d120>"
+    "totalContributions": 27,
+    "endorsed_candidates": "#<Set:0x0055d32b2494c0>"
   },
   "C00012468": {
     "id": "C00012468",
@@ -293,8 +293,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a361290>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b239f20>"
   },
   "C00012476": {
     "id": "C00012476",
@@ -304,8 +304,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 342911,
-    "endorsed_candidates": "#<Set:0x0055ef0a360cc8>"
+    "totalContributions": 342911,
+    "endorsed_candidates": "#<Set:0x0055d32b2394d0>"
   },
   "C00014555": {
     "id": "C00014555",
@@ -315,8 +315,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0a34c660>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32b26cbc8>"
   },
   "C00015552": {
     "id": "C00015552",
@@ -326,8 +326,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3835c0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b25fd88>"
   },
   "C00015933": {
     "id": "C00015933",
@@ -337,8 +337,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0a382be8>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32b25f1a8>"
   },
   "C00016386": {
     "id": "C00016386",
@@ -348,8 +348,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a382738>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b25ec80>"
   },
   "C00017525": {
     "id": "C00017525",
@@ -359,8 +359,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 15552,
-    "endorsed_candidates": "#<Set:0x0055ef0a380528>"
+    "totalContributions": 15552,
+    "endorsed_candidates": "#<Set:0x0055d32b25cae8>"
   },
   "C00017681": {
     "id": "C00017681",
@@ -370,8 +370,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a373d50>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b293cf0>"
   },
   "C00021295": {
     "id": "C00021295",
@@ -381,8 +381,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3a7178>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2828d8>"
   },
   "C00023580": {
     "id": "C00023580",
@@ -392,8 +392,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 96313,
-    "endorsed_candidates": "#<Set:0x0055ef0a3a4bd0>"
+    "totalContributions": 96313,
+    "endorsed_candidates": "#<Set:0x0055d32b280600>"
   },
   "C00024679": {
     "id": "C00024679",
@@ -403,8 +403,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a391e68>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b2b4c20>"
   },
   "C00024752": {
     "id": "C00024752",
@@ -414,8 +414,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a391710>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2b4590>"
   },
   "C00024869": {
     "id": "C00024869",
@@ -425,8 +425,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a390e78>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2a7ca0>"
   },
   "C00027342": {
     "id": "C00027342",
@@ -436,8 +436,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 11959,
-    "endorsed_candidates": "#<Set:0x0055ef0a3c5ec0>"
+    "totalContributions": 11959,
+    "endorsed_candidates": "#<Set:0x0055d32b2a4be0>"
   },
   "C00028860": {
     "id": "C00028860",
@@ -447,8 +447,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3b7d70>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2d6668>"
   },
   "C00029447": {
     "id": "C00029447",
@@ -458,8 +458,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3b72a8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b2d58d0>"
   },
   "C00029504": {
     "id": "C00029504",
@@ -469,8 +469,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3b6ad8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2d5470>"
   },
   "C00032979": {
     "id": "C00032979",
@@ -480,8 +480,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a3e6df0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2c54a8>"
   },
   "C00033589": {
     "id": "C00033589",
@@ -491,8 +491,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5904,
-    "endorsed_candidates": "#<Set:0x0055ef0a3e4730>"
+    "totalContributions": 5904,
+    "endorsed_candidates": "#<Set:0x0055d32b2faae0>"
   },
   "C00034488": {
     "id": "C00034488",
@@ -502,8 +502,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a40b510>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b2e5848>"
   },
   "C00034595": {
     "id": "C00034595",
@@ -513,8 +513,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a40b060>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b2e52a8>"
   },
   "C00035600": {
     "id": "C00035600",
@@ -524,8 +524,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 960,
-    "endorsed_candidates": "#<Set:0x0055ef0a3f9ea0>"
+    "totalContributions": 960,
+    "endorsed_candidates": "#<Set:0x0055d32b30b4d0>"
   },
   "C00039123": {
     "id": "C00039123",
@@ -535,8 +535,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0a42cbe8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32b33e8d0>"
   },
   "C00040881": {
     "id": "C00040881",
@@ -546,8 +546,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a43fe50>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b36eda0>"
   },
   "C00041061": {
     "id": "C00041061",
@@ -557,8 +557,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 400,
-    "endorsed_candidates": "#<Set:0x0055ef0a43e050>"
+    "totalContributions": 400,
+    "endorsed_candidates": "#<Set:0x0055d32b36d068>"
   },
   "C00041160": {
     "id": "C00041160",
@@ -568,8 +568,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7544,
-    "endorsed_candidates": "#<Set:0x0055ef0a43dad8>"
+    "totalContributions": 7544,
+    "endorsed_candidates": "#<Set:0x0055d32b36c820>"
   },
   "C00041590": {
     "id": "C00041590",
@@ -579,8 +579,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0a43c688>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32b35eb58>"
   },
   "C00042002": {
     "id": "C00042002",
@@ -590,8 +590,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a46eae8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b35ca38>"
   },
   "C00042366": {
     "id": "C00042366",
@@ -601,8 +601,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1530767,
-    "endorsed_candidates": "#<Set:0x0055ef0a46e228>"
+    "totalContributions": 1530767,
+    "endorsed_candidates": "#<Set:0x0055d32b34fbf8>"
   },
   "C00044842": {
     "id": "C00044842",
@@ -612,8 +612,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 425,
-    "endorsed_candidates": "#<Set:0x0055ef0a45d4f0>"
+    "totalContributions": 425,
+    "endorsed_candidates": "#<Set:0x0055d32b38ed80>"
   },
   "C00048181": {
     "id": "C00048181",
@@ -623,8 +623,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0a492d30>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32b38cb98>"
   },
   "C00048579": {
     "id": "C00048579",
@@ -634,8 +634,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4921c8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b38c080>"
   },
   "C00051979": {
     "id": "C00051979",
@@ -645,8 +645,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0a491048>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32b37ef98>"
   },
   "C00053553": {
     "id": "C00053553",
@@ -656,8 +656,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 9315814,
-    "endorsed_candidates": "#<Set:0x0055ef0a490990>"
+    "totalContributions": 9315814,
+    "endorsed_candidates": "#<Set:0x0055d32b37e890>"
   },
   "C00063164": {
     "id": "C00063164",
@@ -667,8 +667,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4806a8>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32b3b22a8>"
   },
   "C00064774": {
     "id": "C00064774",
@@ -678,8 +678,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4b7630>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b3b15d8>"
   },
   "C00065219": {
     "id": "C00065219",
@@ -689,8 +689,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4b7180>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32b3b0f70>"
   },
   "C00065870": {
     "id": "C00065870",
@@ -700,8 +700,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4b6cf8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b3b0908>"
   },
   "C00066472": {
     "id": "C00066472",
@@ -711,8 +711,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4b6370>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32b3a3e88>"
   },
   "C00072967": {
     "id": "C00072967",
@@ -722,8 +722,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0a4a6ad8>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32b3e3f38>"
   },
   "C00074096": {
     "id": "C00074096",
@@ -733,8 +733,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4500,
-    "endorsed_candidates": "#<Set:0x0055ef0a4a5250>"
+    "totalContributions": 4500,
+    "endorsed_candidates": "#<Set:0x0055d32b3e1da0>"
   },
   "C00074633": {
     "id": "C00074633",
@@ -744,8 +744,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4ebc00>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b3e0bd0>"
   },
   "C00076174": {
     "id": "C00076174",
@@ -755,8 +755,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4e8e88>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b3d12e8>"
   },
   "C00076737": {
     "id": "C00076737",
@@ -766,8 +766,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1250,
-    "endorsed_candidates": "#<Set:0x0055ef0a4db3f0>"
+    "totalContributions": 1250,
+    "endorsed_candidates": "#<Set:0x0055d32b3c3b98>"
   },
   "C00077552": {
     "id": "C00077552",
@@ -777,8 +777,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4c72d8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b3c0600>"
   },
   "C00079541": {
     "id": "C00079541",
@@ -788,8 +788,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 140459,
-    "endorsed_candidates": "#<Set:0x0055ef0a4c4268>"
+    "totalContributions": 140459,
+    "endorsed_candidates": "#<Set:0x0055d32b405908>"
   },
   "C00081356": {
     "id": "C00081356",
@@ -799,8 +799,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6WV04057",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0a50cec8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32b3f6e58>"
   },
   "C00082792": {
     "id": "C00082792",
@@ -810,8 +810,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a4f9a80>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b437e30>"
   },
   "C00083337": {
     "id": "C00083337",
@@ -821,8 +821,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a533af0>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32b435590>"
   },
   "C00085951": {
     "id": "C00085951",
@@ -832,8 +832,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a553b70>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b414e58>"
   },
   "C00088435": {
     "id": "C00088435",
@@ -843,8 +843,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5505b0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32b458db0>"
   },
   "C00089540": {
     "id": "C00089540",
@@ -854,8 +854,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a540c00>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b449ba8>"
   },
   "C00092247": {
     "id": "C00092247",
@@ -865,8 +865,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2120,
-    "endorsed_candidates": "#<Set:0x0055ef0a576260>"
+    "totalContributions": 2120,
+    "endorsed_candidates": "#<Set:0x0055d32b47a910>"
   },
   "C00095869": {
     "id": "C00095869",
@@ -876,8 +876,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5a7bd0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b468878>"
   },
   "C00101212": {
     "id": "C00101212",
@@ -887,8 +887,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 18602,
-    "endorsed_candidates": "#<Set:0x0055ef0a5cad10>"
+    "totalContributions": 18602,
+    "endorsed_candidates": "#<Set:0x0055d32b4bcab8>"
   },
   "C00104885": {
     "id": "C00104885",
@@ -898,8 +898,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5e8f40>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32b4cdbd8>"
   },
   "C00105338": {
     "id": "C00105338",
@@ -909,8 +909,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5e8180>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32b4cca30>"
   },
   "C00107128": {
     "id": "C00107128",
@@ -920,8 +920,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 624,
-    "endorsed_candidates": "#<Set:0x0055ef0a5d8be0>"
+    "totalContributions": 624,
+    "endorsed_candidates": "#<Set:0x0055d32b5117e8>"
   },
   "C00107771": {
     "id": "C00107771",
@@ -931,8 +931,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a60acf8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b5035d0>"
   },
   "C00108282": {
     "id": "C00108282",
@@ -942,8 +942,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a609d08>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b501f50>"
   },
   "C00108613": {
     "id": "C00108613",
@@ -953,8 +953,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 125,
-    "endorsed_candidates": "#<Set:0x0055ef0a609588>"
+    "totalContributions": 125,
+    "endorsed_candidates": "#<Set:0x0055d32b500e98>"
   },
   "C00109306": {
     "id": "C00109306",
@@ -964,8 +964,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a608480>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b4f3040>"
   },
   "C00109546": {
     "id": "C00109546",
@@ -975,8 +975,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5fb500>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b4f1d30>"
   },
   "C00110338": {
     "id": "C00110338",
@@ -986,8 +986,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a5f8a08>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b5374c0>"
   },
   "C00111278": {
     "id": "C00111278",
@@ -997,8 +997,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 195611,
-    "endorsed_candidates": "#<Set:0x0055ef0a62df50>"
+    "totalContributions": 195611,
+    "endorsed_candidates": "#<Set:0x0055d32b5346f8>"
   },
   "C00111534": {
     "id": "C00111534",
@@ -1008,8 +1008,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a62c790>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b522980>"
   },
   "C00111880": {
     "id": "C00111880",
@@ -1019,8 +1019,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 6000,
-    "endorsed_candidates": "#<Set:0x0055ef0a61bb20>"
+    "totalContributions": 6000,
+    "endorsed_candidates": "#<Set:0x0055d32b521828>"
   },
   "C00112623": {
     "id": "C00112623",
@@ -1030,8 +1030,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a61b210>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b520e78>"
   },
   "C00115527": {
     "id": "C00115527",
@@ -1041,8 +1041,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 6300,
-    "endorsed_candidates": "#<Set:0x0055ef0a63dc98>"
+    "totalContributions": 6300,
+    "endorsed_candidates": "#<Set:0x0055d32b57b148>"
   },
   "C00117424": {
     "id": "C00117424",
@@ -1052,8 +1052,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -600,
-    "endorsed_candidates": "#<Set:0x0055ef0a681df8>"
+    "totalContributions": -600,
+    "endorsed_candidates": "#<Set:0x0055d32b5786c8>"
   },
   "C00117861": {
     "id": "C00117861",
@@ -1063,8 +1063,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 8700,
-    "endorsed_candidates": "#<Set:0x0055ef0a680bb0>"
+    "totalContributions": 8700,
+    "endorsed_candidates": "#<Set:0x0055d32b566f90>"
   },
   "C00120519": {
     "id": "C00120519",
@@ -1074,8 +1074,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a65dcc8>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b598950>"
   },
   "C00122101": {
     "id": "C00122101",
@@ -1085,8 +1085,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a6a2738>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b589a40>"
   },
   "C00125534": {
     "id": "C00125534",
@@ -1096,8 +1096,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a693a58>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b5baf78>"
   },
   "C00127811": {
     "id": "C00127811",
@@ -1107,8 +1107,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0a6c7c68>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32b5ab438>"
   },
   "C00130807": {
     "id": "C00130807",
@@ -1118,8 +1118,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 100,
-    "endorsed_candidates": "#<Set:0x0055ef0a6fbf18>"
+    "totalContributions": 100,
+    "endorsed_candidates": "#<Set:0x0055d32b5cfbf8>"
   },
   "C00131607": {
     "id": "C00131607",
@@ -1129,8 +1129,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a6f9e70>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b5ce2a8>"
   },
   "C00132092": {
     "id": "C00132092",
@@ -1140,8 +1140,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0a6f8e58>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32b5ccea8>"
   },
   "C00135368": {
     "id": "C00135368",
@@ -1151,8 +1151,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 72471,
-    "endorsed_candidates": "#<Set:0x0055ef0a6e4d40>"
+    "totalContributions": 72471,
+    "endorsed_candidates": "#<Set:0x0055d32b611238>"
   },
   "C00135459": {
     "id": "C00135459",
@@ -1162,8 +1162,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a6e4110>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b610978>"
   },
   "C00136200": {
     "id": "C00136200",
@@ -1173,8 +1173,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1592,
-    "endorsed_candidates": "#<Set:0x0055ef0a6d4530>"
+    "totalContributions": 1592,
+    "endorsed_candidates": "#<Set:0x0055d32b601540>"
   },
   "C00139600": {
     "id": "C00139600",
@@ -1184,8 +1184,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0a74df48>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32b623910>"
   },
   "C00139659": {
     "id": "C00139659",
@@ -1195,8 +1195,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5461,
-    "endorsed_candidates": "#<Set:0x0055ef0a74da70>"
+    "totalContributions": 5461,
+    "endorsed_candidates": "#<Set:0x0055d32b6232a8>"
   },
   "C00140715": {
     "id": "C00140715",
@@ -1206,8 +1206,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2MD05155",
-    "total_contributions": 1840,
-    "endorsed_candidates": "#<Set:0x0055ef0a73f178>"
+    "totalContributions": 1840,
+    "endorsed_candidates": "#<Set:0x0055d32b6203a0>"
   },
   "C00141382": {
     "id": "C00141382",
@@ -1217,8 +1217,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a72fe08>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b655168>"
   },
   "C00141572": {
     "id": "C00141572",
@@ -1228,8 +1228,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 4722,
-    "endorsed_candidates": "#<Set:0x0055ef0a72f750>"
+    "totalContributions": 4722,
+    "endorsed_candidates": "#<Set:0x0055d32b654a88>"
   },
   "C00142307": {
     "id": "C00142307",
@@ -1239,8 +1239,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0a76fb70>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32b644ca0>"
   },
   "C00142893": {
     "id": "C00142893",
@@ -1250,8 +1250,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a76c330>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b685de0>"
   },
   "C00143438": {
     "id": "C00143438",
@@ -1261,8 +1261,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2ND00040",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0a75dab0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32b677d80>"
   },
   "C00143743": {
     "id": "C00143743",
@@ -1272,8 +1272,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15279,
-    "endorsed_candidates": "#<Set:0x0055ef0a75d088>"
+    "totalContributions": 15279,
+    "endorsed_candidates": "#<Set:0x0055d32b677240>"
   },
   "C00146605": {
     "id": "C00146605",
@@ -1283,8 +1283,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a77d1a8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b6a98a8>"
   },
   "C00147231": {
     "id": "C00147231",
@@ -1294,8 +1294,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a7b2f38>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b69b6e0>"
   },
   "C00147975": {
     "id": "C00147975",
@@ -1305,8 +1305,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a7b08f0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b69a1f0>"
   },
   "C00149013": {
     "id": "C00149013",
@@ -1316,8 +1316,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0a7a1210>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32b6ce8b0>"
   },
   "C00153445": {
     "id": "C00153445",
@@ -1327,8 +1327,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8069d0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b6dfa48>"
   },
   "C00156612": {
     "id": "C00156612",
@@ -1338,8 +1338,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2MI17023",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0a7e7580>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32b721038>"
   },
   "C00157537": {
     "id": "C00157537",
@@ -1349,8 +1349,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 7215,
-    "endorsed_candidates": "#<Set:0x0055ef0a7e66f8>"
+    "totalContributions": 7215,
+    "endorsed_candidates": "#<Set:0x0055d32b713cd0>"
   },
   "C00157958": {
     "id": "C00157958",
@@ -1360,8 +1360,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1293,
-    "endorsed_candidates": "#<Set:0x0055ef0a7e4718>"
+    "totalContributions": 1293,
+    "endorsed_candidates": "#<Set:0x0055d32b7128d0>"
   },
   "C00159954": {
     "id": "C00159954",
@@ -1371,8 +1371,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0a835a78>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32b6fea38>"
   },
   "C00161141": {
     "id": "C00161141",
@@ -1382,8 +1382,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a825830>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b745d48>"
   },
   "C00161265": {
     "id": "C00161265",
@@ -1393,8 +1393,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a824ac0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b745118>"
   },
   "C00162339": {
     "id": "C00162339",
@@ -1404,8 +1404,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8153b8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b731d70>"
   },
   "C00162818": {
     "id": "C00162818",
@@ -1415,8 +1415,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 120598,
-    "endorsed_candidates": "#<Set:0x0055ef0a85bc00>"
+    "totalContributions": 120598,
+    "endorsed_candidates": "#<Set:0x0055d32b730470>"
   },
   "C00164145": {
     "id": "C00164145",
@@ -1426,8 +1426,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "W",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a847098>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32b7573e0>"
   },
   "C00165365": {
     "id": "C00165365",
@@ -1437,8 +1437,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a879688>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b786690>"
   },
   "C00165548": {
     "id": "C00165548",
@@ -1448,8 +1448,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a878788>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b784bd8>"
   },
   "C00165589": {
     "id": "C00165589",
@@ -1459,8 +1459,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8781c0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32b7843e0>"
   },
   "C00165688": {
     "id": "C00165688",
@@ -1470,8 +1470,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 85,
-    "endorsed_candidates": "#<Set:0x0055ef0a86b358>"
+    "totalContributions": 85,
+    "endorsed_candidates": "#<Set:0x0055d32b777848>"
   },
   "C00166348": {
     "id": "C00166348",
@@ -1481,8 +1481,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a89f950>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b7abe40>"
   },
   "C00167015": {
     "id": "C00167015",
@@ -1492,8 +1492,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 264283,
-    "endorsed_candidates": "#<Set:0x0055ef0a89ce30>"
+    "totalContributions": 264283,
+    "endorsed_candidates": "#<Set:0x0055d32b7a9758>"
   },
   "C00167320": {
     "id": "C00167320",
@@ -1503,8 +1503,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2925,
-    "endorsed_candidates": "#<Set:0x0055ef0a88f550>"
+    "totalContributions": 2925,
+    "endorsed_candidates": "#<Set:0x0055d32b797cd8>"
   },
   "C00171843": {
     "id": "C00171843",
@@ -1514,8 +1514,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 9000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8c33c8>"
+    "totalContributions": 9000,
+    "endorsed_candidates": "#<Set:0x0055d32b7bb728>"
   },
   "C00173278": {
     "id": "C00173278",
@@ -1525,8 +1525,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 24788,
-    "endorsed_candidates": "#<Set:0x0055ef0a8ac470>"
+    "totalContributions": 24788,
+    "endorsed_candidates": "#<Set:0x0055d32b7e9b28>"
   },
   "C00174599": {
     "id": "C00174599",
@@ -1536,8 +1536,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0a8f0da0>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32b7da5b0>"
   },
   "C00176214": {
     "id": "C00176214",
@@ -1547,8 +1547,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1613,
-    "endorsed_candidates": "#<Set:0x0055ef0a8e3b78>"
+    "totalContributions": 1613,
+    "endorsed_candidates": "#<Set:0x0055d32b7d9368>"
   },
   "C00177741": {
     "id": "C00177741",
@@ -1558,8 +1558,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8e1bc0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b80f170>"
   },
   "C00178418": {
     "id": "C00178418",
@@ -1569,8 +1569,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2VA09010",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a8e0338>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b80d9d8>"
   },
   "C00188011": {
     "id": "C00188011",
@@ -1580,8 +1580,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a901e98>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b81f700>"
   },
   "C00188193": {
     "id": "C00188193",
@@ -1591,8 +1591,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a900818>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b81e8c8>"
   },
   "C00188367": {
     "id": "C00188367",
@@ -1602,8 +1602,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2188,
-    "endorsed_candidates": "#<Set:0x0055ef0a94be30>"
+    "totalContributions": 2188,
+    "endorsed_candidates": "#<Set:0x0055d32b81e288>"
   },
   "C00191247": {
     "id": "C00191247",
@@ -1613,8 +1613,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1808,
-    "endorsed_candidates": "#<Set:0x0055ef0a948398>"
+    "totalContributions": 1808,
+    "endorsed_candidates": "#<Set:0x0055d32b8525b0>"
   },
   "C00193433": {
     "id": "C00193433",
@@ -1624,8 +1624,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a96b348>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b841760>"
   },
   "C00194225": {
     "id": "C00194225",
@@ -1635,8 +1635,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 3500,
-    "endorsed_candidates": "#<Set:0x0055ef0a95b830>"
+    "totalContributions": 3500,
+    "endorsed_candidates": "#<Set:0x0055d32b871820>"
   },
   "C00194555": {
     "id": "C00194555",
@@ -1646,8 +1646,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 7500,
-    "endorsed_candidates": "#<Set:0x0055ef0a95ac50>"
+    "totalContributions": 7500,
+    "endorsed_candidates": "#<Set:0x0055d32b870ad8>"
   },
   "C00194803": {
     "id": "C00194803",
@@ -1657,8 +1657,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6CA21028",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0a959bc0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32b8635b8>"
   },
   "C00197160": {
     "id": "C00197160",
@@ -1668,8 +1668,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6TX21012",
-    "total_contributions": 3913,
-    "endorsed_candidates": "#<Set:0x0055ef0a98e668>"
+    "totalContributions": 3913,
+    "endorsed_candidates": "#<Set:0x0055d32b896378>"
   },
   "C00197863": {
     "id": "C00197863",
@@ -1679,8 +1679,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0a97b608>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32b8873c8>"
   },
   "C00199463": {
     "id": "C00199463",
@@ -1690,8 +1690,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0a979240>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b885190>"
   },
   "C00199471": {
     "id": "C00199471",
@@ -1701,8 +1701,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0a978bd8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32b884a88>"
   },
   "C00199547": {
     "id": "C00199547",
@@ -1712,8 +1712,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0a9d3cb8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b8cbb68>"
   },
   "C00201871": {
     "id": "C00201871",
@@ -1723,8 +1723,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a9c0f50>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b8b9f58>"
   },
   "C00202804": {
     "id": "C00202804",
@@ -1734,8 +1734,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1250,
-    "endorsed_candidates": "#<Set:0x0055ef0a9ae990>"
+    "totalContributions": 1250,
+    "endorsed_candidates": "#<Set:0x0055d32b8efea0>"
   },
   "C00202861": {
     "id": "C00202861",
@@ -1745,8 +1745,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0a9ae300>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32b8ef7e8>"
   },
   "C00204180": {
     "id": "C00204180",
@@ -1756,8 +1756,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0a9ac1e0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b8edd80>"
   },
   "C00206136": {
     "id": "C00206136",
@@ -1767,8 +1767,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 7500,
-    "endorsed_candidates": "#<Set:0x0055ef0a9f1b28>"
+    "totalContributions": 7500,
+    "endorsed_candidates": "#<Set:0x0055d32b8db090>"
   },
   "C00207993": {
     "id": "C00207993",
@@ -1778,8 +1778,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S4OK00083",
-    "total_contributions": 920,
-    "endorsed_candidates": "#<Set:0x0055ef0a9e19f8>"
+    "totalContributions": 920,
+    "endorsed_candidates": "#<Set:0x0055d32b923b10>"
   },
   "C00210526": {
     "id": "C00210526",
@@ -1789,8 +1789,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0aa16888>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32b920c58>"
   },
   "C00210617": {
     "id": "C00210617",
@@ -1800,8 +1800,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa15b40>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b9201b8>"
   },
   "C00211763": {
     "id": "C00211763",
@@ -1811,8 +1811,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa035a8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32b90e328>"
   },
   "C00212308": {
     "id": "C00212308",
@@ -1822,8 +1822,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "W",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa023d8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b90ce10>"
   },
   "C00213611": {
     "id": "C00213611",
@@ -1833,8 +1833,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NY03031",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa468a8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b8fc0b0>"
   },
   "C00215236": {
     "id": "C00215236",
@@ -1844,8 +1844,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa27a20>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b940198>"
   },
   "C00216614": {
     "id": "C00216614",
@@ -1855,8 +1855,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8140,
-    "endorsed_candidates": "#<Set:0x0055ef0aa66f40>"
+    "totalContributions": 8140,
+    "endorsed_candidates": "#<Set:0x0055d32b977530>"
   },
   "C00217877": {
     "id": "C00217877",
@@ -1866,8 +1866,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa57cc0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b967f40>"
   },
   "C00219220": {
     "id": "C00219220",
@@ -1877,8 +1877,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3500,
-    "endorsed_candidates": "#<Set:0x0055ef0aa56898>"
+    "totalContributions": 3500,
+    "endorsed_candidates": "#<Set:0x0055d32b9665c8>"
   },
   "C00219642": {
     "id": "C00219642",
@@ -1888,8 +1888,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 13000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa55d80>"
+    "totalContributions": 13000,
+    "endorsed_candidates": "#<Set:0x0055d32b9652e0>"
   },
   "C00219717": {
     "id": "C00219717",
@@ -1899,8 +1899,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0aa559e8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32b964b38>"
   },
   "C00220764": {
     "id": "C00220764",
@@ -1910,8 +1910,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa87ee8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32b99a800>"
   },
   "C00221077": {
     "id": "C00221077",
@@ -1921,8 +1921,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 6000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa87830>"
+    "totalContributions": 6000,
+    "endorsed_candidates": "#<Set:0x0055d32b99a328>"
   },
   "C00223073": {
     "id": "C00223073",
@@ -1932,8 +1932,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8WA07132",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa84cc0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32b998758>"
   },
   "C00223230": {
     "id": "C00223230",
@@ -1943,8 +1943,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8TN08033",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa843b0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32b998118>"
   },
   "C00224790": {
     "id": "C00224790",
@@ -1954,8 +1954,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa79e60>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b989ac8>"
   },
   "C00225342": {
     "id": "C00225342",
@@ -1965,8 +1965,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aa78bc8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b988588>"
   },
   "C00225623": {
     "id": "C00225623",
@@ -1976,8 +1976,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "H8NY27036",
-    "total_contributions": 1250,
-    "endorsed_candidates": "#<Set:0x0055ef0aabfe88>"
+    "totalContributions": 1250,
+    "endorsed_candidates": "#<Set:0x0055d32b9cf730>"
   },
   "C00226472": {
     "id": "C00226472",
@@ -1987,8 +1987,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0aabfa00>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32b9cf028>"
   },
   "C00227546": {
     "id": "C00227546",
@@ -1998,8 +1998,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -4000,
-    "endorsed_candidates": "#<Set:0x0055ef0aabdbd8>"
+    "totalContributions": -4000,
+    "endorsed_candidates": "#<Set:0x0055d32b9ccf80>"
   },
   "C00228122": {
     "id": "C00228122",
@@ -2009,8 +2009,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0aabcf30>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32b9bfad8>"
   },
   "C00228924": {
     "id": "C00228924",
@@ -2020,8 +2020,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aaab4d8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32b9bd698>"
   },
   "C00232272": {
     "id": "C00232272",
@@ -2031,8 +2031,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10400,
-    "endorsed_candidates": "#<Set:0x0055ef0aa98180>"
+    "totalContributions": 10400,
+    "endorsed_candidates": "#<Set:0x0055d32b9f2078>"
   },
   "C00235572": {
     "id": "C00235572",
@@ -2042,8 +2042,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0aaccd90>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32ba12350>"
   },
   "C00235853": {
     "id": "C00235853",
@@ -2053,8 +2053,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 277026,
-    "endorsed_candidates": "#<Set:0x0055ef0ab03098>"
+    "totalContributions": 277026,
+    "endorsed_candidates": "#<Set:0x0055d32ba107a8>"
   },
   "C00235911": {
     "id": "C00235911",
@@ -2064,8 +2064,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab02288>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba03990>"
   },
   "C00236489": {
     "id": "C00236489",
@@ -2075,8 +2075,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0ab00708>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32ba01b18>"
   },
   "C00236760": {
     "id": "C00236760",
@@ -2086,8 +2086,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0aaeeb20>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32ba00100>"
   },
   "C00238865": {
     "id": "C00238865",
@@ -2097,8 +2097,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CT03072",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab22010>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ba23d80>"
   },
   "C00238907": {
     "id": "C00238907",
@@ -2108,8 +2108,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S6RI00163",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab21688>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ba23650>"
   },
   "C00239905": {
     "id": "C00239905",
@@ -2119,8 +2119,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "H0OH07021",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab13768>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32ba21cd8>"
   },
   "C00239947": {
     "id": "C00239947",
@@ -2130,8 +2130,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab12c28>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba20e78>"
   },
   "C00240911": {
     "id": "C00240911",
@@ -2141,8 +2141,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab11058>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba57180>"
   },
   "C00241349": {
     "id": "C00241349",
@@ -2152,8 +2152,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0VA08040",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ab577d8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32ba55308>"
   },
   "C00242040": {
     "id": "C00242040",
@@ -2163,8 +2163,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab55960>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32ba47780>"
   },
   "C00242057": {
     "id": "C00242057",
@@ -2174,8 +2174,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab55438>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba47028>"
   },
   "C00242370": {
     "id": "C00242370",
@@ -2185,8 +2185,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab54790>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba46498>"
   },
   "C00246421": {
     "id": "C00246421",
@@ -2196,8 +2196,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab320a0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ba67bc0>"
   },
   "C00248948": {
     "id": "C00248948",
@@ -2207,8 +2207,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4978,
-    "endorsed_candidates": "#<Set:0x0055ef0ab67318>"
+    "totalContributions": 4978,
+    "endorsed_candidates": "#<Set:0x0055d32ba99698>"
   },
   "C00251009": {
     "id": "C00251009",
@@ -2218,8 +2218,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab8b858>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32babd9a8>"
   },
   "C00251918": {
     "id": "C00251918",
@@ -2229,8 +2229,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2AZ02055",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ab88a40>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32baaed18>"
   },
   "C00252551": {
     "id": "C00252551",
@@ -2240,8 +2240,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16177,
-    "endorsed_candidates": "#<Set:0x0055ef0abbf568>"
+    "totalContributions": 16177,
+    "endorsed_candidates": "#<Set:0x0055d32baad4e0>"
   },
   "C00252684": {
     "id": "C00252684",
@@ -2251,8 +2251,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0abbeed8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32baacf18>"
   },
   "C00252940": {
     "id": "C00252940",
@@ -2262,8 +2262,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5447,
-    "endorsed_candidates": "#<Set:0x0055ef0abbdfd8>"
+    "totalContributions": 5447,
+    "endorsed_candidates": "#<Set:0x0055d32badff58>"
   },
   "C00254656": {
     "id": "C00254656",
@@ -2273,8 +2273,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0abac440>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32bace0f0>"
   },
   "C00254938": {
     "id": "C00254938",
@@ -2284,8 +2284,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0abf38b8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bacd470>"
   },
   "C00255695": {
     "id": "C00255695",
@@ -2295,8 +2295,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 252911,
-    "endorsed_candidates": "#<Set:0x0055ef0abf0848>"
+    "totalContributions": 252911,
+    "endorsed_candidates": "#<Set:0x0055d32bb02120>"
   },
   "C00257642": {
     "id": "C00257642",
@@ -2306,8 +2306,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2WA00189",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0abcf120>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32baecbb8>"
   },
   "C00258475": {
     "id": "C00258475",
@@ -2317,8 +2317,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CA12098",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0abcc3d0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32bb26548>"
   },
   "C00258590": {
     "id": "C00258590",
@@ -2328,8 +2328,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ac177e0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bb25b20>"
   },
   "C00259143": {
     "id": "C00259143",
@@ -2339,8 +2339,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA33048",
-    "total_contributions": 1421,
-    "endorsed_candidates": "#<Set:0x0055ef0ac16bb0>"
+    "totalContributions": 1421,
+    "endorsed_candidates": "#<Set:0x0055d32bb24ae0>"
   },
   "C00260331": {
     "id": "C00260331",
@@ -2350,8 +2350,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2601,
-    "endorsed_candidates": "#<Set:0x0055ef0ac150a8>"
+    "totalContributions": 2601,
+    "endorsed_candidates": "#<Set:0x0055d32bb12ef8>"
   },
   "C00263483": {
     "id": "C00263483",
@@ -2361,8 +2361,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac00978>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bb464b0>"
   },
   "C00266932": {
     "id": "C00266932",
@@ -2372,8 +2372,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2GA00118",
-    "total_contributions": 8000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac25660>"
+    "totalContributions": 8000,
+    "endorsed_candidates": "#<Set:0x0055d32bb6baa8>"
   },
   "C00269779": {
     "id": "C00269779",
@@ -2383,8 +2383,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac5a040>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bb57f58>"
   },
   "C00271338": {
     "id": "C00271338",
@@ -2394,8 +2394,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12500,
-    "endorsed_candidates": "#<Set:0x0055ef0ac4a9b0>"
+    "totalContributions": 12500,
+    "endorsed_candidates": "#<Set:0x0055d32bb54e98>"
   },
   "C00272724": {
     "id": "C00272724",
@@ -2405,8 +2405,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0ac492b8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32bb8b9c0>"
   },
   "C00275909": {
     "id": "C00275909",
@@ -2416,8 +2416,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac78400>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bb7a738>"
   },
   "C00276592": {
     "id": "C00276592",
@@ -2427,8 +2427,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 6000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac6afa8>"
+    "totalContributions": 6000,
+    "endorsed_candidates": "#<Set:0x0055d32bb79248>"
   },
   "C00276659": {
     "id": "C00276659",
@@ -2438,8 +2438,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 370,
-    "endorsed_candidates": "#<Set:0x0055ef0ac6a440>"
+    "totalContributions": 370,
+    "endorsed_candidates": "#<Set:0x0055d32bb78668>"
   },
   "C00278101": {
     "id": "C00278101",
@@ -2449,8 +2449,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5211,
-    "endorsed_candidates": "#<Set:0x0055ef0ac9f9b0>"
+    "totalContributions": 5211,
+    "endorsed_candidates": "#<Set:0x0055d32bbad908>"
   },
   "C00278689": {
     "id": "C00278689",
@@ -2460,8 +2460,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3750,
-    "endorsed_candidates": "#<Set:0x0055ef0ac9e380>"
+    "totalContributions": 3750,
+    "endorsed_candidates": "#<Set:0x0055d32bbac738>"
   },
   "C00278895": {
     "id": "C00278895",
@@ -2471,8 +2471,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ac9cf30>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bb9b7d0>"
   },
   "C00279315": {
     "id": "C00279315",
@@ -2482,8 +2482,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2CA00286",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ac8f5b0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bb99840>"
   },
   "C00279927": {
     "id": "C00279927",
@@ -2493,8 +2493,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6200,
-    "endorsed_candidates": "#<Set:0x0055ef0acbee28>"
+    "totalContributions": 6200,
+    "endorsed_candidates": "#<Set:0x0055d32bbcc0b0>"
   },
   "C00280222": {
     "id": "C00280222",
@@ -2504,8 +2504,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0acbcdf8>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32bbbdf38>"
   },
   "C00282327": {
     "id": "C00282327",
@@ -2515,8 +2515,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0acac570>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32bbf1158>"
   },
   "C00283523": {
     "id": "C00283523",
@@ -2526,8 +2526,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20000,
-    "endorsed_candidates": "#<Set:0x0055ef0acd3738>"
+    "totalContributions": 20000,
+    "endorsed_candidates": "#<Set:0x0055d32bbe0d30>"
   },
   "C00284018": {
     "id": "C00284018",
@@ -2537,8 +2537,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1377,
-    "endorsed_candidates": "#<Set:0x0055ef0acd2540>"
+    "totalContributions": 1377,
+    "endorsed_candidates": "#<Set:0x0055d32bc27848>"
   },
   "C00284885": {
     "id": "C00284885",
@@ -2548,8 +2548,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -2500,
-    "endorsed_candidates": "#<Set:0x0055ef0acd1668>"
+    "totalContributions": -2500,
+    "endorsed_candidates": "#<Set:0x0055d32bc262b8>"
   },
   "C00285171": {
     "id": "C00285171",
@@ -2559,8 +2559,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4MA03022",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0acd0f10>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bc25d18>"
   },
   "C00289165": {
     "id": "C00289165",
@@ -2570,8 +2570,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0ad27e28>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32bc007c0>"
   },
   "C00292094": {
     "id": "C00292094",
@@ -2581,8 +2581,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 6500,
-    "endorsed_candidates": "#<Set:0x0055ef0ad15f70>"
+    "totalContributions": 6500,
+    "endorsed_candidates": "#<Set:0x0055d32bc35c40>"
   },
   "C00292367": {
     "id": "C00292367",
@@ -2592,8 +2592,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5250,
-    "endorsed_candidates": "#<Set:0x0055ef0ad143a0>"
+    "totalContributions": 5250,
+    "endorsed_candidates": "#<Set:0x0055d32bc344d0>"
   },
   "C00294918": {
     "id": "C00294918",
@@ -2603,8 +2603,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0ad5a198>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32bc69e50>"
   },
   "C00295527": {
     "id": "C00295527",
@@ -2614,8 +2614,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ad59360>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bc68de8>"
   },
   "C00296657": {
     "id": "C00296657",
@@ -2625,8 +2625,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 12400,
-    "endorsed_candidates": "#<Set:0x0055ef0ad4ad10>"
+    "totalContributions": 12400,
+    "endorsed_candidates": "#<Set:0x0055d32bc568a0>"
   },
   "C00297184": {
     "id": "C00297184",
@@ -2636,8 +2636,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ad49640>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bc553d8>"
   },
   "C00297531": {
     "id": "C00297531",
@@ -2647,8 +2647,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ad483a8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bc54a50>"
   },
   "C00298000": {
     "id": "C00298000",
@@ -2658,8 +2658,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 28559,
-    "endorsed_candidates": "#<Set:0x0055ef0ad39e48>"
+    "totalContributions": 28559,
+    "endorsed_candidates": "#<Set:0x0055d32bc8a880>"
   },
   "C00299396": {
     "id": "C00299396",
@@ -2669,8 +2669,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 520,
-    "endorsed_candidates": "#<Set:0x0055ef0ad7a4e8>"
+    "totalContributions": 520,
+    "endorsed_candidates": "#<Set:0x0055d32bc7b240>"
   },
   "C00300376": {
     "id": "C00300376",
@@ -2680,8 +2680,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0ad6b1c8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32bcaff40>"
   },
   "C00300418": {
     "id": "C00300418",
@@ -2691,8 +2691,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ad6acc8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bcaf7c0>"
   },
   "C00300731": {
     "id": "C00300731",
@@ -2702,8 +2702,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0ad696c0>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32bcadc68>"
   },
   "C00300921": {
     "id": "C00300921",
@@ -2713,8 +2713,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9888,
-    "endorsed_candidates": "#<Set:0x0055ef0ad68248>"
+    "totalContributions": 9888,
+    "endorsed_candidates": "#<Set:0x0055d32bcacd18>"
   },
   "C00301424": {
     "id": "C00301424",
@@ -2724,8 +2724,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0ad9e528>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32bc9f668>"
   },
   "C00301838": {
     "id": "C00301838",
@@ -2735,8 +2735,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8OH01043",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0ad9cf70>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32bc9eb50>"
   },
   "C00302844": {
     "id": "C00302844",
@@ -2746,8 +2746,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ad8ceb8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bcd27e8>"
   },
   "C00303321": {
     "id": "C00303321",
@@ -2757,8 +2757,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0adc2ae0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bcbfc10>"
   },
   "C00304709": {
     "id": "C00304709",
@@ -2768,8 +2768,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6WA09025",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0adb16a0>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32bcf3088>"
   },
   "C00305607": {
     "id": "C00305607",
@@ -2779,8 +2779,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ade2a48>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bcf0018>"
   },
   "C00306860": {
     "id": "C00306860",
@@ -2790,8 +2790,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S8IN00049",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0add0a00>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bd260a0>"
   },
   "C00310896": {
     "id": "C00310896",
@@ -2801,8 +2801,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6TX15055",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0adf4130>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bd01890>"
   },
   "C00312017": {
     "id": "C00312017",
@@ -2812,8 +2812,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6WI03099",
-    "total_contributions": 279,
-    "endorsed_candidates": "#<Set:0x0055ef0ae29100>"
+    "totalContributions": 279,
+    "endorsed_candidates": "#<Set:0x0055d32bd45888>"
   },
   "C00312777": {
     "id": "C00312777",
@@ -2823,8 +2823,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 24700,
-    "endorsed_candidates": "#<Set:0x0055ef0ae17ec8>"
+    "totalContributions": 24700,
+    "endorsed_candidates": "#<Set:0x0055d32bd44640>"
   },
   "C00313510": {
     "id": "C00313510",
@@ -2834,8 +2834,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NJ08118",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ae16be0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bd37648>"
   },
   "C00314617": {
     "id": "C00314617",
@@ -2845,8 +2845,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 9613,
-    "endorsed_candidates": "#<Set:0x0055ef0ae147f0>"
+    "totalContributions": 9613,
+    "endorsed_candidates": "#<Set:0x0055d32bd355a0>"
   },
   "C00316455": {
     "id": "C00316455",
@@ -2856,8 +2856,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ae49270>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bd6b3f8>"
   },
   "C00318766": {
     "id": "C00318766",
@@ -2867,8 +2867,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ae39618>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bd57fb0>"
   },
   "C00319517": {
     "id": "C00319517",
@@ -2878,8 +2878,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 750,
-    "endorsed_candidates": "#<Set:0x0055ef0ae6e688>"
+    "totalContributions": 750,
+    "endorsed_candidates": "#<Set:0x0055d32bd553f0>"
   },
   "C00320432": {
     "id": "C00320432",
@@ -2889,8 +2889,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0ae59c88>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32bd89538>"
   },
   "C00321158": {
     "id": "C00321158",
@@ -2900,8 +2900,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3960,
-    "endorsed_candidates": "#<Set:0x0055ef0ae8ff90>"
+    "totalContributions": 3960,
+    "endorsed_candidates": "#<Set:0x0055d32bd7bb68>"
   },
   "C00321596": {
     "id": "C00321596",
@@ -2911,8 +2911,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4700,
-    "endorsed_candidates": "#<Set:0x0055ef0ae8eeb0>"
+    "totalContributions": 4700,
+    "endorsed_candidates": "#<Set:0x0055d32bd7a6a0>"
   },
   "C00323758": {
     "id": "C00323758",
@@ -2922,8 +2922,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ae7cf58>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bdac600>"
   },
   "C00324673": {
     "id": "C00324673",
@@ -2933,8 +2933,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0aeb3738>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bd9f130>"
   },
   "C00324871": {
     "id": "C00324871",
@@ -2944,8 +2944,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0aeb2a18>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32bd9e730>"
   },
   "C00325076": {
     "id": "C00325076",
@@ -2955,8 +2955,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 25313,
-    "endorsed_candidates": "#<Set:0x0055ef0aeb2220>"
+    "totalContributions": 25313,
+    "endorsed_candidates": "#<Set:0x0055d32bd9e190>"
   },
   "C00325126": {
     "id": "C00325126",
@@ -2966,8 +2966,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S6LA00227",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0aeb1410>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32bd9d5d8>"
   },
   "C00325357": {
     "id": "C00325357",
@@ -2977,8 +2977,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aeb0290>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bdd39f8>"
   },
   "C00326363": {
     "id": "C00326363",
@@ -2988,8 +2988,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CA01109",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0aed7340>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32bdc1b68>"
   },
   "C00326389": {
     "id": "C00326389",
@@ -2999,8 +2999,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aed6d00>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bdc1668>"
   },
   "C00326488": {
     "id": "C00326488",
@@ -3010,8 +3010,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0aed60a8>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32bdc0970>"
   },
   "C00326918": {
     "id": "C00326918",
@@ -3021,8 +3021,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0aec23a0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32be08888>"
   },
   "C00327395": {
     "id": "C00327395",
@@ -3032,8 +3032,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aef6c68>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bdf4e28>"
   },
   "C00328401": {
     "id": "C00328401",
@@ -3043,8 +3043,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0aee7150>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bde4488>"
   },
   "C00330019": {
     "id": "C00330019",
@@ -3054,8 +3054,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0af1a0a0>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32be1b2f8>"
   },
   "C00330118": {
     "id": "C00330118",
@@ -3065,8 +3065,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0af198a8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32be1ab00>"
   },
   "C00330233": {
     "id": "C00330233",
@@ -3076,8 +3076,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 172,
-    "endorsed_candidates": "#<Set:0x0055ef0af18ae8>"
+    "totalContributions": 172,
+    "endorsed_candidates": "#<Set:0x0055d32be19ef8>"
   },
   "C00330514": {
     "id": "C00330514",
@@ -3087,8 +3087,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0af181d8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32be193b8>"
   },
   "C00331439": {
     "id": "C00331439",
@@ -3098,8 +3098,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S8CO00172",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0af3b390>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32be51858>"
   },
   "C00331694": {
     "id": "C00331694",
@@ -3109,8 +3109,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0af393b0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32be50110>"
   },
   "C00332643": {
     "id": "C00332643",
@@ -3120,8 +3120,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0af5f5d8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32be71ef0>"
   },
   "C00332841": {
     "id": "C00332841",
@@ -3131,8 +3131,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0af5e610>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32be70988>"
   },
   "C00334581": {
     "id": "C00334581",
@@ -3142,8 +3142,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0af4ca78>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32be969a8>"
   },
   "C00335802": {
     "id": "C00335802",
@@ -3153,8 +3153,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0af6ff50>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32be824a8>"
   },
   "C00336065": {
     "id": "C00336065",
@@ -3164,8 +3164,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8NY27077",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0af6f438>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32be81800>"
   },
   "C00338848": {
     "id": "C00338848",
@@ -3175,8 +3175,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7000,
-    "endorsed_candidates": "#<Set:0x0055ef0af92f00>"
+    "totalContributions": 7000,
+    "endorsed_candidates": "#<Set:0x0055d32bea49e0>"
   },
   "C00338954": {
     "id": "C00338954",
@@ -3186,8 +3186,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8NY07046",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0af926e0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bea4260>"
   },
   "C00340455": {
     "id": "C00340455",
@@ -3197,8 +3197,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0afb3408>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bec4ce0>"
   },
   "C00340661": {
     "id": "C00340661",
@@ -3208,8 +3208,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0afb2698>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bec4088>"
   },
   "C00341271": {
     "id": "C00341271",
@@ -3219,8 +3219,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0afe7ed8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bef9350>"
   },
   "C00341396": {
     "id": "C00341396",
@@ -3230,8 +3230,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 676736,
-    "endorsed_candidates": "#<Set:0x0055ef0afe65b0>"
+    "totalContributions": 676736,
+    "endorsed_candidates": "#<Set:0x0055d32bef80b8>"
   },
   "C00342048": {
     "id": "C00342048",
@@ -3241,8 +3241,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0afd2a60>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32bee4478>"
   },
   "C00342766": {
     "id": "C00342766",
@@ -3252,8 +3252,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b0073c8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32bf2c1b0>"
   },
   "C00343095": {
     "id": "C00343095",
@@ -3263,8 +3263,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b005668>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bf1d840>"
   },
   "C00343392": {
     "id": "C00343392",
@@ -3274,8 +3274,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b0045d8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bf1c008>"
   },
   "C00343707": {
     "id": "C00343707",
@@ -3285,8 +3285,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0aff66b8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32bf0a010>"
   },
   "C00343871": {
     "id": "C00343871",
@@ -3296,8 +3296,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA27085",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0aff5010>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bf08ad0>"
   },
   "C00344325": {
     "id": "C00344325",
@@ -3307,8 +3307,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 9000,
-    "endorsed_candidates": "#<Set:0x0055ef0b02b098>"
+    "totalContributions": 9000,
+    "endorsed_candidates": "#<Set:0x0055d32bf52c70>"
   },
   "C00344531": {
     "id": "C00344531",
@@ -3318,8 +3318,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 188000,
-    "endorsed_candidates": "#<Set:0x0055ef0b028f78>"
+    "totalContributions": 188000,
+    "endorsed_candidates": "#<Set:0x0055d32bf50ee8>"
   },
   "C00344671": {
     "id": "C00344671",
@@ -3329,8 +3329,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA49055",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b017ed0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bf501a0>"
   },
   "C00344754": {
     "id": "C00344754",
@@ -3340,8 +3340,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b016238>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bf3e748>"
   },
   "C00344788": {
     "id": "C00344788",
@@ -3351,8 +3351,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b015a90>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bf3dbb8>"
   },
   "C00345546": {
     "id": "C00345546",
@@ -3362,8 +3362,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0WA02080",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b04c838>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bf70d60>"
   },
   "C00346015": {
     "id": "C00346015",
@@ -3373,8 +3373,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 11282,
-    "endorsed_candidates": "#<Set:0x0055ef0b039c10>"
+    "totalContributions": 11282,
+    "endorsed_candidates": "#<Set:0x0055d32bf619f0>"
   },
   "C00346239": {
     "id": "C00346239",
@@ -3384,8 +3384,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 275,
-    "endorsed_candidates": "#<Set:0x0055ef0b038040>"
+    "totalContributions": 275,
+    "endorsed_candidates": "#<Set:0x0055d32bf60528>"
   },
   "C00346296": {
     "id": "C00346296",
@@ -3395,8 +3395,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA31087",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0b06f630>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32bf939c8>"
   },
   "C00347310": {
     "id": "C00347310",
@@ -3406,8 +3406,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0CT00037",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b05e178>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32bf82330>"
   },
   "C00347492": {
     "id": "C00347492",
@@ -3417,8 +3417,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0OH12062",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b05cb20>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bf80eb8>"
   },
   "C00348540": {
     "id": "C00348540",
@@ -3428,8 +3428,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 472261,
-    "endorsed_candidates": "#<Set:0x0055ef0b094d40>"
+    "totalContributions": 472261,
+    "endorsed_candidates": "#<Set:0x0055d32bfb4a10>"
   },
   "C00348607": {
     "id": "C00348607",
@@ -3439,8 +3439,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b094548>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bfa7ea0>"
   },
   "C00348797": {
     "id": "C00348797",
@@ -3450,8 +3450,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b083a90>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32bfa7040>"
   },
   "C00349506": {
     "id": "C00349506",
@@ -3461,8 +3461,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S8WA00194",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b081880>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32bfa4db8>"
   },
   "C00349746": {
     "id": "C00349746",
@@ -3472,8 +3472,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b0804d0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bfd7b00>"
   },
   "C00349761": {
     "id": "C00349761",
@@ -3483,8 +3483,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -2300,
-    "endorsed_candidates": "#<Set:0x0055ef0b0bbd78>"
+    "totalContributions": -2300,
+    "endorsed_candidates": "#<Set:0x0055d32bfd7510>"
   },
   "C00350520": {
     "id": "C00350520",
@@ -3494,8 +3494,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA48024",
-    "total_contributions": 1911,
-    "endorsed_candidates": "#<Set:0x0055ef0b0b9348>"
+    "totalContributions": 1911,
+    "endorsed_candidates": "#<Set:0x0055d32bfd4f40>"
   },
   "C00350884": {
     "id": "C00350884",
@@ -3505,8 +3505,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b0a78a0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32bfc75c0>"
   },
   "C00350991": {
     "id": "C00350991",
@@ -3516,8 +3516,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 439,
-    "endorsed_candidates": "#<Set:0x0055ef0b0a6ae0>"
+    "totalContributions": 439,
+    "endorsed_candidates": "#<Set:0x0055d32bfc6da0>"
   },
   "C00351031": {
     "id": "C00351031",
@@ -3527,8 +3527,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b0a5f50>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32bfc6260>"
   },
   "C00352211": {
     "id": "C00352211",
@@ -3538,8 +3538,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 312,
-    "endorsed_candidates": "#<Set:0x0055ef0b0df110>"
+    "totalContributions": 312,
+    "endorsed_candidates": "#<Set:0x0055d32c00ae88>"
   },
   "C00354605": {
     "id": "C00354605",
@@ -3549,8 +3549,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5609,
-    "endorsed_candidates": "#<Set:0x0055ef0b0c9568>"
+    "totalContributions": 5609,
+    "endorsed_candidates": "#<Set:0x0055d32bfebdf8>"
   },
   "C00355289": {
     "id": "C00355289",
@@ -3560,8 +3560,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 13074,
-    "endorsed_candidates": "#<Set:0x0055ef0b0ff168>"
+    "totalContributions": 13074,
+    "endorsed_candidates": "#<Set:0x0055d32bfe94e0>"
   },
   "C00356378": {
     "id": "C00356378",
@@ -3571,8 +3571,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b0edeb8>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32c02c088>"
   },
   "C00358564": {
     "id": "C00358564",
@@ -3582,8 +3582,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b130d58>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c052850>"
   },
   "C00358952": {
     "id": "C00358952",
@@ -3593,8 +3593,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0NY02085",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b11f4b8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c050848>"
   },
   "C00359380": {
     "id": "C00359380",
@@ -3604,8 +3604,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b11ce70>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c03dc98>"
   },
   "C00360206": {
     "id": "C00360206",
@@ -3615,8 +3615,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b10d768>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c072bc8>"
   },
   "C00361758": {
     "id": "C00361758",
@@ -3626,8 +3626,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b143d40>"
+    "totalContributions": -4000,
+    "endorsed_candidates": "#<Set:0x0055d32c0610a8>"
   },
   "C00362210": {
     "id": "C00362210",
@@ -3637,8 +3637,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4500,
-    "endorsed_candidates": "#<Set:0x0055ef0b141c98>"
+    "totalContributions": 4500,
+    "endorsed_candidates": "#<Set:0x0055d32c096f50>"
   },
   "C00362384": {
     "id": "C00362384",
@@ -3648,8 +3648,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1409b0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c096190>"
   },
   "C00363812": {
     "id": "C00363812",
@@ -3659,8 +3659,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b161908>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c080688>"
   },
   "C00364133": {
     "id": "C00364133",
@@ -3670,8 +3670,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 14000,
-    "endorsed_candidates": "#<Set:0x0055ef0b195e10>"
+    "totalContributions": 14000,
+    "endorsed_candidates": "#<Set:0x0055d32c0b4ed8>"
   },
   "C00364174": {
     "id": "C00364174",
@@ -3681,8 +3681,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0b195230>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32c0b4398>"
   },
   "C00364471": {
     "id": "C00364471",
@@ -3692,8 +3692,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1879f0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c0a6c48>"
   },
   "C00365270": {
     "id": "C00365270",
@@ -3703,8 +3703,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1840e8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c0db948>"
   },
   "C00365536": {
     "id": "C00365536",
@@ -3714,8 +3714,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 109266,
-    "endorsed_candidates": "#<Set:0x0055ef0b1ba080>"
+    "totalContributions": 109266,
+    "endorsed_candidates": "#<Set:0x0055d32c0d9ad0>"
   },
   "C00365973": {
     "id": "C00365973",
@@ -3725,8 +3725,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b1a7930>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32c0c7560>"
   },
   "C00366401": {
     "id": "C00366401",
@@ -3736,8 +3736,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0AR00028",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1a4e38>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c0c4900>"
   },
   "C00366559": {
     "id": "C00366559",
@@ -3747,8 +3747,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b1df448>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c0feee8>"
   },
   "C00366666": {
     "id": "C00366666",
@@ -3758,8 +3758,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1dde68>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c0fde08>"
   },
   "C00367243": {
     "id": "C00367243",
@@ -3769,8 +3769,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b1ca908>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c0eac68>"
   },
   "C00367383": {
     "id": "C00367383",
@@ -3780,8 +3780,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 17700,
-    "endorsed_candidates": "#<Set:0x0055ef0b1c95d0>"
+    "totalContributions": 17700,
+    "endorsed_candidates": "#<Set:0x0055d32c0e9930>"
   },
   "C00368332": {
     "id": "C00368332",
@@ -3791,8 +3791,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1fd830>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c11d4d8>"
   },
   "C00368431": {
     "id": "C00368431",
@@ -3802,8 +3802,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1fc980>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c11c510>"
   },
   "C00368720": {
     "id": "C00368720",
@@ -3813,8 +3813,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b1eeb00>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c10efc8>"
   },
   "C00370122": {
     "id": "C00370122",
@@ -3824,8 +3824,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b20dbb8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c12efd0>"
   },
   "C00370270": {
     "id": "C00370270",
@@ -3835,8 +3835,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b243f38>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c12d4c8>"
   },
   "C00370577": {
     "id": "C00370577",
@@ -3846,8 +3846,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b243628>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c12c910>"
   },
   "C00370759": {
     "id": "C00370759",
@@ -3857,8 +3857,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9999,
-    "endorsed_candidates": "#<Set:0x0055ef0b241b20>"
+    "totalContributions": 9999,
+    "endorsed_candidates": "#<Set:0x0055d32c162ee8>"
   },
   "C00371302": {
     "id": "C00371302",
@@ -3868,8 +3868,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2TX23082",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b232760>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c153380>"
   },
   "C00372102": {
     "id": "C00372102",
@@ -3879,8 +3879,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2PA06114",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b263630>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c150108>"
   },
   "C00372532": {
     "id": "C00372532",
@@ -3890,8 +3890,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2TX26093",
-    "total_contributions": 6500,
-    "endorsed_candidates": "#<Set:0x0055ef0b262190>"
+    "totalContributions": 6500,
+    "endorsed_candidates": "#<Set:0x0055d32c182590>"
   },
   "C00374058": {
     "id": "C00374058",
@@ -3901,8 +3901,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2AZ07070",
-    "total_contributions": 14909,
-    "endorsed_candidates": "#<Set:0x0055ef0b287d78>"
+    "totalContributions": 14909,
+    "endorsed_candidates": "#<Set:0x0055d32c170b10>"
   },
   "C00375154": {
     "id": "C00375154",
@@ -3912,8 +3912,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0b276f78>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32c1a4d98>"
   },
   "C00375451": {
     "id": "C00375451",
@@ -3923,8 +3923,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2752e0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c192f58>"
   },
   "C00375584": {
     "id": "C00375584",
@@ -3934,8 +3934,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2743e0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c192350>"
   },
   "C00375618": {
     "id": "C00375618",
@@ -3945,8 +3945,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2NY01067",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2bbd80>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c191ae0>"
   },
   "C00376087": {
     "id": "C00376087",
@@ -3956,8 +3956,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2FL25018",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2aabc0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c1c4e90>"
   },
   "C00376665": {
     "id": "C00376665",
@@ -3967,8 +3967,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2TN05131",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b296ee0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c1b6818>"
   },
   "C00377333": {
     "id": "C00377333",
@@ -3978,8 +3978,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2da6b8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c1f9ca8>"
   },
   "C00377952": {
     "id": "C00377952",
@@ -3989,8 +3989,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2d89a8>"
+    "totalContributions": -1000,
+    "endorsed_candidates": "#<Set:0x0055d32c1eb6a8>"
   },
   "C00378695": {
     "id": "C00378695",
@@ -4000,8 +4000,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2c9a20>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c1e8368>"
   },
   "C00378950": {
     "id": "C00378950",
@@ -4011,8 +4011,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2c8b48>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c1d6cf8>"
   },
   "C00379693": {
     "id": "C00379693",
@@ -4022,8 +4022,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2fe798>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c21fef8>"
   },
   "C00380550": {
     "id": "C00380550",
@@ -4033,8 +4033,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0b2ee0a0>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32c20f698>"
   },
   "C00380675": {
     "id": "C00380675",
@@ -4044,8 +4044,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2ed2b8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c20eb08>"
   },
   "C00380709": {
     "id": "C00380709",
@@ -4055,8 +4055,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b2ecc78>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c20e400>"
   },
   "C00381277": {
     "id": "C00381277",
@@ -4066,8 +4066,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b320de8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c23e498>"
   },
   "C00381624": {
     "id": "C00381624",
@@ -4077,8 +4077,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7700,
-    "endorsed_candidates": "#<Set:0x0055ef0b30f4d0>"
+    "totalContributions": 7700,
+    "endorsed_candidates": "#<Set:0x0055d32c23c9e0>"
   },
   "C00381806": {
     "id": "C00381806",
@@ -4088,8 +4088,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0b30d630>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c22f510>"
   },
   "C00381996": {
     "id": "C00381996",
@@ -4099,8 +4099,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b30cb68>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c22e610>"
   },
   "C00382150": {
     "id": "C00382150",
@@ -4110,8 +4110,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b3438e8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c22d198>"
   },
   "C00384057": {
     "id": "C00384057",
@@ -4121,8 +4121,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA39078",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b38b4e0>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32c291850>"
   },
   "C00384354": {
     "id": "C00384354",
@@ -4132,8 +4132,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "V",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b38a838>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c290978>"
   },
   "C00384701": {
     "id": "C00384701",
@@ -4143,8 +4143,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b376cc0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c280f00>"
   },
   "C00385534": {
     "id": "C00385534",
@@ -4154,8 +4154,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0b3a9b20>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32c2a3938>"
   },
   "C00386128": {
     "id": "C00386128",
@@ -4165,8 +4165,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b3997e8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c2d71c0>"
   },
   "C00386847": {
     "id": "C00386847",
@@ -4176,8 +4176,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4PA15087",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b3c8390>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c2c56a0>"
   },
   "C00387878": {
     "id": "C00387878",
@@ -4187,8 +4187,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b3eece8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c2f7d58>"
   },
   "C00388181": {
     "id": "C00388181",
@@ -4198,8 +4198,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7700,
-    "endorsed_candidates": "#<Set:0x0055ef0b3ec5b0>"
+    "totalContributions": 7700,
+    "endorsed_candidates": "#<Set:0x0055d32c2f54b8>"
   },
   "C00388934": {
     "id": "C00388934",
@@ -4209,8 +4209,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b41e218>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c32abe0>"
   },
   "C00389882": {
     "id": "C00389882",
@@ -4220,8 +4220,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b3fe2d8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c318c10>"
   },
   "C00390161": {
     "id": "C00390161",
@@ -4231,8 +4231,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b443a40>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c34aa58>"
   },
   "C00391086": {
     "id": "C00391086",
@@ -4242,8 +4242,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b4303f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c338128>"
   },
   "C00391797": {
     "id": "C00391797",
@@ -4253,8 +4253,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b464f10>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c3698e0>"
   },
   "C00392290": {
     "id": "C00392290",
@@ -4264,8 +4264,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b456258>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c35aa98>"
   },
   "C00392738": {
     "id": "C00392738",
@@ -4275,8 +4275,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b454250>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c358450>"
   },
   "C00392928": {
     "id": "C00392928",
@@ -4286,8 +4286,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 756,
-    "endorsed_candidates": "#<Set:0x0055ef0b487100>"
+    "totalContributions": 756,
+    "endorsed_candidates": "#<Set:0x0055d32c39f210>"
   },
   "C00393512": {
     "id": "C00393512",
@@ -4297,8 +4297,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4KY06072",
-    "total_contributions": 200,
-    "endorsed_candidates": "#<Set:0x0055ef0b484ba8>"
+    "totalContributions": 200,
+    "endorsed_candidates": "#<Set:0x0055d32c39cdf8>"
   },
   "C00394460": {
     "id": "C00394460",
@@ -4308,8 +4308,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b4abd70>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c37ba40>"
   },
   "C00394957": {
     "id": "C00394957",
@@ -4319,8 +4319,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0LA01087",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b4a81c0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c3c34f8>"
   },
   "C00395541": {
     "id": "C00395541",
@@ -4330,8 +4330,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b498c98>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c3af840>"
   },
   "C00395723": {
     "id": "C00395723",
@@ -4341,8 +4341,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b498040>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c3aeb20>"
   },
   "C00397067": {
     "id": "C00397067",
@@ -4352,8 +4352,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b4bb5b8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c3e2830>"
   },
   "C00398040": {
     "id": "C00398040",
@@ -4363,8 +4363,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b4fdcb0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c417968>"
   },
   "C00400333": {
     "id": "C00400333",
@@ -4374,8 +4374,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0b51cc28>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32c43a9e0>"
   },
   "C00400705": {
     "id": "C00400705",
@@ -4385,8 +4385,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b50f668>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32c4392c0>"
   },
   "C00400929": {
     "id": "C00400929",
@@ -4396,8 +4396,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0b50f0f0>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32c438af0>"
   },
   "C00401034": {
     "id": "C00401034",
@@ -4407,8 +4407,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4NY27076",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b50e4c0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c42bc60>"
   },
   "C00401083": {
     "id": "C00401083",
@@ -4418,8 +4418,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0b50d548>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c42afb8>"
   },
   "C00401786": {
     "id": "C00401786",
@@ -4429,8 +4429,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1936763,
-    "endorsed_candidates": "#<Set:0x0055ef0b541780>"
+    "totalContributions": 1936763,
+    "endorsed_candidates": "#<Set:0x0055d32c459fe8>"
   },
   "C00402081": {
     "id": "C00402081",
@@ -4440,8 +4440,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b5407e0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c458ff8>"
   },
   "C00402545": {
     "id": "C00402545",
@@ -4451,8 +4451,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 304,
-    "endorsed_candidates": "#<Set:0x0055ef0b52ece8>"
+    "totalContributions": 304,
+    "endorsed_candidates": "#<Set:0x0055d32c44b178>"
   },
   "C00402602": {
     "id": "C00402602",
@@ -4462,8 +4462,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0b52e5b8>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32c44ac00>"
   },
   "C00402727": {
     "id": "C00402727",
@@ -4473,8 +4473,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3700,
-    "endorsed_candidates": "#<Set:0x0055ef0b52c650>"
+    "totalContributions": 3700,
+    "endorsed_candidates": "#<Set:0x0055d32c448e28>"
   },
   "C00402800": {
     "id": "C00402800",
@@ -4484,8 +4484,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 51819,
-    "endorsed_candidates": "#<Set:0x0055ef0b5732d0>"
+    "totalContributions": 51819,
+    "endorsed_candidates": "#<Set:0x0055d32c47fba8>"
   },
   "C00402982": {
     "id": "C00402982",
@@ -4495,8 +4495,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b570ff8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c47e320>"
   },
   "C00403592": {
     "id": "C00403592",
@@ -4506,8 +4506,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b561a30>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c46b090>"
   },
   "C00403675": {
     "id": "C00403675",
@@ -4517,8 +4517,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b560db0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c46a488>"
   },
   "C00403741": {
     "id": "C00403741",
@@ -4528,8 +4528,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4087,
-    "endorsed_candidates": "#<Set:0x0055ef0b5539d0>"
+    "totalContributions": 4087,
+    "endorsed_candidates": "#<Set:0x0055d32c4696c8>"
   },
   "C00404434": {
     "id": "C00404434",
@@ -4539,8 +4539,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6402,
-    "endorsed_candidates": "#<Set:0x0055ef0b5a4858>"
+    "totalContributions": 6402,
+    "endorsed_candidates": "#<Set:0x0055d32c48daf0>"
   },
   "C00405290": {
     "id": "C00405290",
@@ -4550,8 +4550,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b583248>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c4bc558>"
   },
   "C00405340": {
     "id": "C00405340",
@@ -4561,8 +4561,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b582a50>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c4bc030>"
   },
   "C00405878": {
     "id": "C00405878",
@@ -4572,8 +4572,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 174,
-    "endorsed_candidates": "#<Set:0x0055ef0b5c5dc8>"
+    "totalContributions": 174,
+    "endorsed_candidates": "#<Set:0x0055d32c4e3b30>"
   },
   "C00406066": {
     "id": "C00406066",
@@ -4583,8 +4583,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b5c4d88>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c4e3018>"
   },
   "C00406256": {
     "id": "C00406256",
@@ -4594,8 +4594,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5854,
-    "endorsed_candidates": "#<Set:0x0055ef0b5b7840>"
+    "totalContributions": 5854,
+    "endorsed_candidates": "#<Set:0x0055d32c4e1808>"
   },
   "C00406397": {
     "id": "C00406397",
@@ -4605,8 +4605,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 705,
-    "endorsed_candidates": "#<Set:0x0055ef0b5b6f80>"
+    "totalContributions": 705,
+    "endorsed_candidates": "#<Set:0x0055d32c4e0ac0>"
   },
   "C00406447": {
     "id": "C00406447",
@@ -4616,8 +4616,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7284,
-    "endorsed_candidates": "#<Set:0x0055ef0b5b6738>"
+    "totalContributions": 7284,
+    "endorsed_candidates": "#<Set:0x0055d32c4e0390>"
   },
   "C00406850": {
     "id": "C00406850",
@@ -4627,8 +4627,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b5e7ae0>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32c4cdd30>"
   },
   "C00409219": {
     "id": "C00409219",
@@ -4638,8 +4638,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6CA05195",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b62b178>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c510f68>"
   },
   "C00409359": {
     "id": "C00409359",
@@ -4649,8 +4649,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0b629440>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c542d38>"
   },
   "C00409623": {
     "id": "C00409623",
@@ -4660,8 +4660,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b61a120>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c5339c8>"
   },
   "C00409730": {
     "id": "C00409730",
@@ -4671,8 +4671,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b618a50>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c5321e0>"
   },
   "C00409789": {
     "id": "C00409789",
@@ -4682,8 +4682,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b618370>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c531a10>"
   },
   "C00410092": {
     "id": "C00410092",
@@ -4693,8 +4693,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b64ca30>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c561710>"
   },
   "C00410126": {
     "id": "C00410126",
@@ -4704,8 +4704,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b63bf78>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c560d10>"
   },
   "C00410308": {
     "id": "C00410308",
@@ -4715,8 +4715,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b638c88>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c552698>"
   },
   "C00410985": {
     "id": "C00410985",
@@ -4726,8 +4726,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b65db00>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c576d40>"
   },
   "C00411389": {
     "id": "C00411389",
@@ -4737,8 +4737,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6920a8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c5a70d0>"
   },
   "C00411769": {
     "id": "C00411769",
@@ -4748,8 +4748,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b682db0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c5a46c8>"
   },
   "C00412213": {
     "id": "C00412213",
@@ -4759,8 +4759,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6b6a98>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c5953a8>"
   },
   "C00412221": {
     "id": "C00412221",
@@ -4770,8 +4770,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0b6b6688>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32c594f98>"
   },
   "C00412791": {
     "id": "C00412791",
@@ -4781,8 +4781,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6d7ec8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c5c7c90>"
   },
   "C00413484": {
     "id": "C00413484",
@@ -4792,8 +4792,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6726,
-    "endorsed_candidates": "#<Set:0x0055ef0b6d4d18>"
+    "totalContributions": 6726,
+    "endorsed_candidates": "#<Set:0x0055d32c5b77a0>"
   },
   "C00413716": {
     "id": "C00413716",
@@ -4803,8 +4803,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6c7050>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c5b4e88>"
   },
   "C00413856": {
     "id": "C00413856",
@@ -4814,8 +4814,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6c5c78>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c60bcb0>"
   },
   "C00413872": {
     "id": "C00413872",
@@ -4825,8 +4825,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6c5750>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c60b698>"
   },
   "C00413948": {
     "id": "C00413948",
@@ -4836,8 +4836,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6c45a8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c60a388>"
   },
   "C00415182": {
     "id": "C00415182",
@@ -4847,8 +4847,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6MD03292",
-    "total_contributions": 6000,
-    "endorsed_candidates": "#<Set:0x0055ef0b6e46a0>"
+    "totalContributions": 6000,
+    "endorsed_candidates": "#<Set:0x0055d32c5e8b70>"
   },
   "C00415208": {
     "id": "C00415208",
@@ -4858,8 +4858,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b71bec0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c5e8210>"
   },
   "C00415869": {
     "id": "C00415869",
@@ -4869,8 +4869,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0b70b1d8>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32c61f260>"
   },
   "C00416131": {
     "id": "C00416131",
@@ -4880,8 +4880,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b70a288>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c61df78>"
   },
   "C00416347": {
     "id": "C00416347",
@@ -4891,8 +4891,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1320,
-    "endorsed_candidates": "#<Set:0x0055ef0b708c58>"
+    "totalContributions": 1320,
+    "endorsed_candidates": "#<Set:0x0055d32c61c268>"
   },
   "C00417550": {
     "id": "C00417550",
@@ -4902,8 +4902,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NY25125",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b7292f0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c63cb30>"
   },
   "C00418293": {
     "id": "C00418293",
@@ -4913,8 +4913,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6GA04129",
-    "total_contributions": 2750,
-    "endorsed_candidates": "#<Set:0x0055ef0b74a608>"
+    "totalContributions": 2750,
+    "endorsed_candidates": "#<Set:0x0055d32c65eac8>"
   },
   "C00418897": {
     "id": "C00418897",
@@ -4924,8 +4924,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1070706,
-    "endorsed_candidates": "#<Set:0x0055ef0b77d440>"
+    "totalContributions": 1070706,
+    "endorsed_candidates": "#<Set:0x0055d32c692238>"
   },
   "C00419911": {
     "id": "C00419911",
@@ -4935,8 +4935,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b76df18>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c67e4e0>"
   },
   "C00419986": {
     "id": "C00419986",
@@ -4946,8 +4946,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4317,
-    "endorsed_candidates": "#<Set:0x0055ef0b76d540>"
+    "totalContributions": 4317,
+    "endorsed_candidates": "#<Set:0x0055d32c67db80>"
   },
   "C00420919": {
     "id": "C00420919",
@@ -4957,8 +4957,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b79c9f8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c6b1b38>"
   },
   "C00422774": {
     "id": "C00422774",
@@ -4968,8 +4968,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b7ac6f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c6c3b58>"
   },
   "C00423079": {
     "id": "C00423079",
@@ -4979,8 +4979,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3700,
-    "endorsed_candidates": "#<Set:0x0055ef0b7dec18>"
+    "totalContributions": 3700,
+    "endorsed_candidates": "#<Set:0x0055d32c6c1c40>"
   },
   "C00424879": {
     "id": "C00424879",
@@ -4990,8 +4990,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b7ee0f0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c7289b8>"
   },
   "C00426072": {
     "id": "C00426072",
@@ -5001,8 +5001,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3700,
-    "endorsed_candidates": "#<Set:0x0055ef0b813da0>"
+    "totalContributions": 3700,
+    "endorsed_candidates": "#<Set:0x0055d32c75cfb0>"
   },
   "C00426320": {
     "id": "C00426320",
@@ -5012,8 +5012,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4999,
-    "endorsed_candidates": "#<Set:0x0055ef0b8117a8>"
+    "totalContributions": 4999,
+    "endorsed_candidates": "#<Set:0x0055d32c74aa90>"
   },
   "C00426528": {
     "id": "C00426528",
@@ -5023,8 +5023,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2950,
-    "endorsed_candidates": "#<Set:0x0055ef0b853658>"
+    "totalContributions": 2950,
+    "endorsed_candidates": "#<Set:0x0055d32c748330>"
   },
   "C00426775": {
     "id": "C00426775",
@@ -5034,8 +5034,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8513a8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c739fb0>"
   },
   "C00427849": {
     "id": "C00427849",
@@ -5045,8 +5045,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 11468,
-    "endorsed_candidates": "#<Set:0x0055ef0b876c20>"
+    "totalContributions": 11468,
+    "endorsed_candidates": "#<Set:0x0055d32c76c9d8>"
   },
   "C00428557": {
     "id": "C00428557",
@@ -5056,8 +5056,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 581936,
-    "endorsed_candidates": "#<Set:0x0055ef0b8972e0>"
+    "totalContributions": 581936,
+    "endorsed_candidates": "#<Set:0x0055d32c78de80>"
   },
   "C00428979": {
     "id": "C00428979",
@@ -5067,8 +5067,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0b886ee0>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32c7bdb80>"
   },
   "C00429001": {
     "id": "C00429001",
@@ -5078,8 +5078,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 7200,
-    "endorsed_candidates": "#<Set:0x0055ef0b886ad0>"
+    "totalContributions": 7200,
+    "endorsed_candidates": "#<Set:0x0055d32c7bd658>"
   },
   "C00429159": {
     "id": "C00429159",
@@ -5089,8 +5089,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7300,
-    "endorsed_candidates": "#<Set:0x0055ef0b886198>"
+    "totalContributions": 7300,
+    "endorsed_candidates": "#<Set:0x0055d32c7bc9d8>"
   },
   "C00429456": {
     "id": "C00429456",
@@ -5100,8 +5100,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 277,
-    "endorsed_candidates": "#<Set:0x0055ef0b884230>"
+    "totalContributions": 277,
+    "endorsed_candidates": "#<Set:0x0055d32c7aec48>"
   },
   "C00430108": {
     "id": "C00430108",
@@ -5111,8 +5111,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1726,
-    "endorsed_candidates": "#<Set:0x0055ef0b8ab718>"
+    "totalContributions": 1726,
+    "endorsed_candidates": "#<Set:0x0055d32c7e2070>"
   },
   "C00430421": {
     "id": "C00430421",
@@ -5122,8 +5122,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8dbad0>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c7d2f58>"
   },
   "C00431056": {
     "id": "C00431056",
@@ -5133,8 +5133,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S6PA00217",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8c99c0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c800ef8>"
   },
   "C00431072": {
     "id": "C00431072",
@@ -5144,8 +5144,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8c9290>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c800908>"
   },
   "C00431122": {
     "id": "C00431122",
@@ -5155,8 +5155,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8c8818>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c7f3b90>"
   },
   "C00431478": {
     "id": "C00431478",
@@ -5166,8 +5166,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b8eaf30>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c825f00>"
   },
   "C00431502": {
     "id": "C00431502",
@@ -5177,8 +5177,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0NH02215",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8ea990>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c825910>"
   },
   "C00431601": {
     "id": "C00431601",
@@ -5188,8 +5188,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b8e9338>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c824290>"
   },
   "C00431643": {
     "id": "C00431643",
@@ -5199,8 +5199,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4512,
-    "endorsed_candidates": "#<Set:0x0055ef0b8e8b18>"
+    "totalContributions": 4512,
+    "endorsed_candidates": "#<Set:0x0055d32c817dd8>"
   },
   "C00431874": {
     "id": "C00431874",
@@ -5210,8 +5210,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0b91f2d0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c816a28>"
   },
   "C00432047": {
     "id": "C00432047",
@@ -5221,8 +5221,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8PA04082",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0b91c440>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c8474c0>"
   },
   "C00432260": {
     "id": "C00432260",
@@ -5232,8 +5232,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 11491,
-    "endorsed_candidates": "#<Set:0x0055ef0b93f918>"
+    "totalContributions": 11491,
+    "endorsed_candidates": "#<Set:0x0055d32c837520>"
   },
   "C00432534": {
     "id": "C00432534",
@@ -5243,8 +5243,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b93c920>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c867338>"
   },
   "C00433029": {
     "id": "C00433029",
@@ -5254,8 +5254,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b971508>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c854418>"
   },
   "C00433136": {
     "id": "C00433136",
@@ -5265,8 +5265,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8MA05143",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0b970158>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c88ad88>"
   },
   "C00433219": {
     "id": "C00433219",
@@ -5276,8 +5276,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0b9633b8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c88a090>"
   },
   "C00433672": {
     "id": "C00433672",
@@ -5287,8 +5287,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15000,
-    "endorsed_candidates": "#<Set:0x0055ef0b94d1f8>"
+    "totalContributions": 15000,
+    "endorsed_candidates": "#<Set:0x0055d32c878700>"
   },
   "C00433805": {
     "id": "C00433805",
@@ -5298,8 +5298,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0b9a6c58>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32c8aa610>"
   },
   "C00434142": {
     "id": "C00434142",
@@ -5309,8 +5309,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0b9933d8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32c89ab48>"
   },
   "C00434191": {
     "id": "C00434191",
@@ -5320,8 +5320,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CT04172",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b992e10>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32c89a648>"
   },
   "C00435370": {
     "id": "C00435370",
@@ -5331,8 +5331,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CO02137",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0b9c4370>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32c8b8dc8>"
   },
   "C00435818": {
     "id": "C00435818",
@@ -5342,8 +5342,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 25,
-    "endorsed_candidates": "#<Set:0x0055ef0b9e93c8>"
+    "totalContributions": 25,
+    "endorsed_candidates": "#<Set:0x0055d32c8ddba0>"
   },
   "C00436238": {
     "id": "C00436238",
@@ -5353,8 +5353,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0ba1bc38>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32c9204c8>"
   },
   "C00436899": {
     "id": "C00436899",
@@ -5364,8 +5364,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0b9fbc80>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32c8fc2a8>"
   },
   "C00437889": {
     "id": "C00437889",
@@ -5375,8 +5375,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S4MI00355",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ba5f410>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c964380>"
   },
   "C00438721": {
     "id": "C00438721",
@@ -5386,8 +5386,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5700,
-    "endorsed_candidates": "#<Set:0x0055ef0ba8f908>"
+    "totalContributions": 5700,
+    "endorsed_candidates": "#<Set:0x0055d32c9856c0>"
   },
   "C00438747": {
     "id": "C00438747",
@@ -5397,8 +5397,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0ba8f408>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c985198>"
   },
   "C00439398": {
     "id": "C00439398",
@@ -5408,8 +5408,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0ba7cf88>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32c9bf5f0>"
   },
   "C00439992": {
     "id": "C00439992",
@@ -5419,8 +5419,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0bab3d30>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32c9aa830>"
   },
   "C00441352": {
     "id": "C00441352",
@@ -5430,8 +5430,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8OH15076",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bac1408>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32c9fe570>"
   },
   "C00442020": {
     "id": "C00442020",
@@ -5441,8 +5441,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0bae7b80>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32c9ecfa0>"
   },
   "C00442319": {
     "id": "C00442319",
@@ -5452,8 +5452,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0bae4e08>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32ca1e190>"
   },
   "C00442434": {
     "id": "C00442434",
@@ -5463,8 +5463,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0bb177b8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32ca1c7f0>"
   },
   "C00443705": {
     "id": "C00443705",
@@ -5474,8 +5474,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CA12171",
-    "total_contributions": 1591,
-    "endorsed_candidates": "#<Set:0x0055ef0bb27c30>"
+    "totalContributions": 1591,
+    "endorsed_candidates": "#<Set:0x0055d32ca32780>"
   },
   "C00446674": {
     "id": "C00446674",
@@ -5485,8 +5485,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bb8c888>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cadb0d8>"
   },
   "C00446815": {
     "id": "C00446815",
@@ -5496,8 +5496,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8CA04152",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bbbf670>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cad9a30>"
   },
   "C00448001": {
     "id": "C00448001",
@@ -5507,8 +5507,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0bbcfd40>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32caf8bb0>"
   },
   "C00448373": {
     "id": "C00448373",
@@ -5518,8 +5518,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0bc13c48>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32cae8918>"
   },
   "C00449074": {
     "id": "C00449074",
@@ -5529,8 +5529,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S6NJ00131",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc009b8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cb0b4b8>"
   },
   "C00449165": {
     "id": "C00449165",
@@ -5540,8 +5540,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0bbf3c68>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32cb0aa90>"
   },
   "C00449298": {
     "id": "C00449298",
@@ -5551,8 +5551,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bbf2b10>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb098e8>"
   },
   "C00449926": {
     "id": "C00449926",
@@ -5562,8 +5562,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 68855,
-    "endorsed_candidates": "#<Set:0x0055ef0bc48290>"
+    "totalContributions": 68855,
+    "endorsed_candidates": "#<Set:0x0055d32cb2e760>"
   },
   "C00450049": {
     "id": "C00450049",
@@ -5573,8 +5573,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8NY21203",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc368b0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cb2ce88>"
   },
   "C00450098": {
     "id": "C00450098",
@@ -5584,8 +5584,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 972,
-    "endorsed_candidates": "#<Set:0x0055ef0bc353e8>"
+    "totalContributions": 972,
+    "endorsed_candidates": "#<Set:0x0055d32cb5fc20>"
   },
   "C00450320": {
     "id": "C00450320",
@@ -5595,8 +5595,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc262a8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb5d2b8>"
   },
   "C00450577": {
     "id": "C00450577",
@@ -5606,8 +5606,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "H8NV03036",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc6bb00>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cb4f050>"
   },
   "C00450692": {
     "id": "C00450692",
@@ -5617,8 +5617,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc6aef8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb4e470>"
   },
   "C00451757": {
     "id": "C00451757",
@@ -5628,8 +5628,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc88e30>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb6c998>"
   },
   "C00451781": {
     "id": "C00451781",
@@ -5639,8 +5639,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc887f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb6c1a0>"
   },
   "C00452581": {
     "id": "C00452581",
@@ -5650,8 +5650,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc9bad0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cb93688>"
   },
   "C00452748": {
     "id": "C00452748",
@@ -5661,8 +5661,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0bc9a6d0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32cb91950>"
   },
   "C00452755": {
     "id": "C00452755",
@@ -5672,8 +5672,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "W",
     "candidateId": "",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0bc9a108>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32cb910e0>"
   },
   "C00453290": {
     "id": "C00453290",
@@ -5683,8 +5683,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "W",
     "candidateId": "",
-    "total_contributions": 3500,
-    "endorsed_candidates": "#<Set:0x0055ef0bccd648>"
+    "totalContributions": 3500,
+    "endorsed_candidates": "#<Set:0x0055d32cbd4188>"
   },
   "C00454132": {
     "id": "C00454132",
@@ -5694,8 +5694,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0bcf3438>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32cbf4b90>"
   },
   "C00454942": {
     "id": "C00454942",
@@ -5705,8 +5705,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15790,
-    "endorsed_candidates": "#<Set:0x0055ef0bd11cd0>"
+    "totalContributions": 15790,
+    "endorsed_candidates": "#<Set:0x0055d32cc1a6d8>"
   },
   "C00455048": {
     "id": "C00455048",
@@ -5716,8 +5716,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bd10e48>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cc19288>"
   },
   "C00455378": {
     "id": "C00455378",
@@ -5727,8 +5727,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 86341,
-    "endorsed_candidates": "#<Set:0x0055ef0bd01d08>"
+    "totalContributions": 86341,
+    "endorsed_candidates": "#<Set:0x0055d32cc06b38>"
   },
   "C00455766": {
     "id": "C00455766",
@@ -5738,8 +5738,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0bd41138>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cc491b8>"
   },
   "C00455840": {
     "id": "C00455840",
@@ -5749,8 +5749,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0bd33ee8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32cc48290>"
   },
   "C00455923": {
     "id": "C00455923",
@@ -5760,8 +5760,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 192742,
-    "endorsed_candidates": "#<Set:0x0055ef0bd31d50>"
+    "totalContributions": 192742,
+    "endorsed_candidates": "#<Set:0x0055d32cc3a550>"
   },
   "C00455980": {
     "id": "C00455980",
@@ -5771,8 +5771,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bd30ef0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cc396c8>"
   },
   "C00457291": {
     "id": "C00457291",
@@ -5782,8 +5782,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 259286,
-    "endorsed_candidates": "#<Set:0x0055ef0bd549e0>"
+    "totalContributions": 259286,
+    "endorsed_candidates": "#<Set:0x0055d32cc8e998>"
   },
   "C00457705": {
     "id": "C00457705",
@@ -5793,8 +5793,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bd778f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cc7e548>"
   },
   "C00458000": {
     "id": "C00458000",
@@ -5804,8 +5804,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 60960,
-    "endorsed_candidates": "#<Set:0x0055ef0bd750c8>"
+    "totalContributions": 60960,
+    "endorsed_candidates": "#<Set:0x0055d32cc7c6f8>"
   },
   "C00458125": {
     "id": "C00458125",
@@ -5815,8 +5815,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA32101",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0bdaaa98>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32ccbd9c8>"
   },
   "C00458588": {
     "id": "C00458588",
@@ -5826,8 +5826,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bdcb7e8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cc9d920>"
   },
   "C00458877": {
     "id": "C00458877",
@@ -5837,8 +5837,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0IL11052",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bdbb118>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cce14b8>"
   },
   "C00458976": {
     "id": "C00458976",
@@ -5848,8 +5848,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0AL07086",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bdba380>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cce0130>"
   },
   "C00459305": {
     "id": "C00459305",
@@ -5859,8 +5859,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bdef5d0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ccd0c30>"
   },
   "C00459453": {
     "id": "C00459453",
@@ -5870,8 +5870,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bdeda00>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cd02b40>"
   },
   "C00459800": {
     "id": "C00459800",
@@ -5881,8 +5881,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bddd510>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ccf1b38>"
   },
   "C00459925": {
     "id": "C00459925",
@@ -5892,8 +5892,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0be0fd58>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ccf0080>"
   },
   "C00460402": {
     "id": "C00460402",
@@ -5903,8 +5903,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0KS04051",
-    "total_contributions": 1937,
-    "endorsed_candidates": "#<Set:0x0055ef0bdfcaf0>"
+    "totalContributions": 1937,
+    "endorsed_candidates": "#<Set:0x0055d32cd11398>"
   },
   "C00460667": {
     "id": "C00460667",
@@ -5914,8 +5914,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0IN02125",
-    "total_contributions": 8000,
-    "endorsed_candidates": "#<Set:0x0055ef0be42e38>"
+    "totalContributions": 8000,
+    "endorsed_candidates": "#<Set:0x0055d32cd4b4a8>"
   },
   "C00461145": {
     "id": "C00461145",
@@ -5925,8 +5925,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0be305d0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cd351f8>"
   },
   "C00461251": {
     "id": "C00461251",
@@ -5936,8 +5936,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2609,
-    "endorsed_candidates": "#<Set:0x0055ef0be1e790>"
+    "totalContributions": 2609,
+    "endorsed_candidates": "#<Set:0x0055d32cd6f6f0>"
   },
   "C00461418": {
     "id": "C00461418",
@@ -5947,8 +5947,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0be62d50>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cd6c860>"
   },
   "C00461624": {
     "id": "C00461624",
@@ -5958,8 +5958,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0be60c30>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cd5a3e0>"
   },
   "C00463331": {
     "id": "C00463331",
@@ -5969,8 +5969,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bea63e8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cd980a0>"
   },
   "C00463620": {
     "id": "C00463620",
@@ -5980,8 +5980,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0WI08075",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0be95d90>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32cdd0310>"
   },
   "C00463687": {
     "id": "C00463687",
@@ -5991,8 +5991,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0VA02084",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0be94710>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32cdbede0>"
   },
   "C00464198": {
     "id": "C00464198",
@@ -6002,8 +6002,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0beba320>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32cdf5d40>"
   },
   "C00464495": {
     "id": "C00464495",
@@ -6013,8 +6013,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0NY23081",
-    "total_contributions": 3500,
-    "endorsed_candidates": "#<Set:0x0055ef0beeb8a8>"
+    "totalContributions": 3500,
+    "endorsed_candidates": "#<Set:0x0055d32cde74e8>"
   },
   "C00464727": {
     "id": "C00464727",
@@ -6024,8 +6024,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0bee8bf8>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32cde5440>"
   },
   "C00466334": {
     "id": "C00466334",
@@ -6035,8 +6035,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5900,
-    "endorsed_candidates": "#<Set:0x0055ef0bf2ed60>"
+    "totalContributions": 5900,
+    "endorsed_candidates": "#<Set:0x0055d32ce3ca88>"
   },
   "C00466870": {
     "id": "C00466870",
@@ -6046,8 +6046,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0PA07082",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bf18da8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ce62850>"
   },
   "C00467373": {
     "id": "C00467373",
@@ -6057,8 +6057,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bf3fb60>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ce518c0>"
   },
   "C00467837": {
     "id": "C00467837",
@@ -6068,8 +6068,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7000,
-    "endorsed_candidates": "#<Set:0x0055ef0bf71a20>"
+    "totalContributions": 7000,
+    "endorsed_candidates": "#<Set:0x0055d32ce77c28>"
   },
   "C00468009": {
     "id": "C00468009",
@@ -6079,8 +6079,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": -5000,
-    "endorsed_candidates": "#<Set:0x0055ef0bf70648>"
+    "totalContributions": -5000,
+    "endorsed_candidates": "#<Set:0x0055d32ce76a80>"
   },
   "C00468447": {
     "id": "C00468447",
@@ -6090,8 +6090,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12500,
-    "endorsed_candidates": "#<Set:0x0055ef0bf92c20>"
+    "totalContributions": 12500,
+    "endorsed_candidates": "#<Set:0x0055d32ceae3e0>"
   },
   "C00468959": {
     "id": "C00468959",
@@ -6101,8 +6101,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0FL02110",
-    "total_contributions": 3200,
-    "endorsed_candidates": "#<Set:0x0055ef0bf81628>"
+    "totalContributions": 3200,
+    "endorsed_candidates": "#<Set:0x0055d32ce99c38>"
   },
   "C00469163": {
     "id": "C00469163",
@@ -6112,8 +6112,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0FL19080",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0bfb6d28>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ced3e10>"
   },
   "C00469205": {
     "id": "C00469205",
@@ -6123,8 +6123,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 8000,
-    "endorsed_candidates": "#<Set:0x0055ef0bfb60d0>"
+    "totalContributions": 8000,
+    "endorsed_candidates": "#<Set:0x0055d32ced3280>"
   },
   "C00471334": {
     "id": "C00471334",
@@ -6134,8 +6134,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c0176a0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cf05870>"
   },
   "C00471607": {
     "id": "C00471607",
@@ -6145,8 +6145,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c00acc0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32cf38748>"
   },
   "C00472241": {
     "id": "C00472241",
@@ -6156,8 +6156,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0TX17104",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c03c6a8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cf61fa8>"
   },
   "C00472894": {
     "id": "C00472894",
@@ -6167,8 +6167,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0c060828>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32cf86060>"
   },
   "C00473116": {
     "id": "C00473116",
@@ -6178,8 +6178,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c04dfe8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32cf739b0>"
   },
   "C00473132": {
     "id": "C00473132",
@@ -6189,8 +6189,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0WV01072",
-    "total_contributions": -2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c04d660>"
+    "totalContributions": -2000,
+    "endorsed_candidates": "#<Set:0x0055d32cf72bc8>"
   },
   "C00473918": {
     "id": "C00473918",
@@ -6200,8 +6200,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 11627748,
-    "endorsed_candidates": "#<Set:0x0055ef0c0ab9e0>"
+    "totalContributions": 11627748,
+    "endorsed_candidates": "#<Set:0x0055d32cf95b00>"
   },
   "C00474122": {
     "id": "C00474122",
@@ -6211,8 +6211,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c0a9c30>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32cf94200>"
   },
   "C00475608": {
     "id": "C00475608",
@@ -6222,8 +6222,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c0f2390>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32cfe0920>"
   },
   "C00475665": {
     "id": "C00475665",
@@ -6233,8 +6233,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c0f1b98>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d017b78>"
   },
   "C00476374": {
     "id": "C00476374",
@@ -6244,8 +6244,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0IN00053",
-    "total_contributions": 8000,
-    "endorsed_candidates": "#<Set:0x0055ef0c115728>"
+    "totalContributions": 8000,
+    "endorsed_candidates": "#<Set:0x0055d32d03b118>"
   },
   "C00476564": {
     "id": "C00476564",
@@ -6255,8 +6255,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0RI01073",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c103320>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d039188>"
   },
   "C00479188": {
     "id": "C00479188",
@@ -6266,8 +6266,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0CA00082",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c1712f8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d0a4e38>"
   },
   "C00479253": {
     "id": "C00479253",
@@ -6277,8 +6277,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c1a7b78>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d0978a0>"
   },
   "C00481697": {
     "id": "C00481697",
@@ -6288,8 +6288,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 508,
-    "endorsed_candidates": "#<Set:0x0055ef0c210380>"
+    "totalContributions": 508,
+    "endorsed_candidates": "#<Set:0x0055d32d0fdf88>"
   },
   "C00482463": {
     "id": "C00482463",
@@ -6299,8 +6299,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0c224e48>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32d1594a0>"
   },
   "C00482737": {
     "id": "C00482737",
@@ -6310,8 +6310,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0GA08099",
-    "total_contributions": 3000,
-    "endorsed_candidates": "#<Set:0x0055ef0c25db58>"
+    "totalContributions": 3000,
+    "endorsed_candidates": "#<Set:0x0055d32d146b98>"
   },
   "C00483693": {
     "id": "C00483693",
@@ -6321,8 +6321,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5395,
-    "endorsed_candidates": "#<Set:0x0055ef0c26ea48>"
+    "totalContributions": 5395,
+    "endorsed_candidates": "#<Set:0x0055d32d1a2ee8>"
   },
   "C00484055": {
     "id": "C00484055",
@@ -6332,8 +6332,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c2a7af0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d18fc58>"
   },
   "C00484253": {
     "id": "C00484253",
@@ -6343,8 +6343,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 13377,
-    "endorsed_candidates": "#<Set:0x0055ef0c292f88>"
+    "totalContributions": 13377,
+    "endorsed_candidates": "#<Set:0x0055d32d1c7cc0>"
   },
   "C00484642": {
     "id": "C00484642",
@@ -6354,8 +6354,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2051868,
-    "endorsed_candidates": "#<Set:0x0055ef0c2c9a88>"
+    "totalContributions": 2051868,
+    "endorsed_candidates": "#<Set:0x0055d32d1b24b0>"
   },
   "C00485003": {
     "id": "C00485003",
@@ -6365,8 +6365,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c2b6618>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d1ea9f0>"
   },
   "C00485839": {
     "id": "C00485839",
@@ -6376,8 +6376,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0c30fbc8>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32d20c2d0>"
   },
   "C00486050": {
     "id": "C00486050",
@@ -6387,8 +6387,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c30d698>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d1fd3c0>"
   },
   "C00486332": {
     "id": "C00486332",
@@ -6398,8 +6398,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2699,
-    "endorsed_candidates": "#<Set:0x0055ef0c2fd540>"
+    "totalContributions": 2699,
+    "endorsed_candidates": "#<Set:0x0055d32d231210>"
   },
   "C00486845": {
     "id": "C00486845",
@@ -6409,8 +6409,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8432699,
-    "endorsed_candidates": "#<Set:0x0055ef0c3234c0>"
+    "totalContributions": 8432699,
+    "endorsed_candidates": "#<Set:0x0055d32d220460>"
   },
   "C00487363": {
     "id": "C00487363",
@@ -6420,8 +6420,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 135378,
-    "endorsed_candidates": "#<Set:0x0055ef0c355c18>"
+    "totalContributions": 135378,
+    "endorsed_candidates": "#<Set:0x0055d32d242268>"
   },
   "C00487470": {
     "id": "C00487470",
@@ -6431,8 +6431,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8355591,
-    "endorsed_candidates": "#<Set:0x0055ef0c354408>"
+    "totalContributions": 8355591,
+    "endorsed_candidates": "#<Set:0x0055d32d240490>"
   },
   "C00487702": {
     "id": "C00487702",
@@ -6442,8 +6442,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 900,
-    "endorsed_candidates": "#<Set:0x0055ef0c347438>"
+    "totalContributions": 900,
+    "endorsed_candidates": "#<Set:0x0055d32d27b248>"
   },
   "C00488387": {
     "id": "C00488387",
@@ -6453,8 +6453,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c366c98>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d29f058>"
   },
   "C00488403": {
     "id": "C00488403",
@@ -6464,8 +6464,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 61794,
-    "endorsed_candidates": "#<Set:0x0055ef0c366680>"
+    "totalContributions": 61794,
+    "endorsed_candidates": "#<Set:0x0055d32d29eba8>"
   },
   "C00488429": {
     "id": "C00488429",
@@ -6475,8 +6475,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 72000,
-    "endorsed_candidates": "#<Set:0x0055ef0c365c08>"
+    "totalContributions": 72000,
+    "endorsed_candidates": "#<Set:0x0055d32d29e2e8>"
   },
   "C00488478": {
     "id": "C00488478",
@@ -6486,8 +6486,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1083,
-    "endorsed_candidates": "#<Set:0x0055ef0c365168>"
+    "totalContributions": 1083,
+    "endorsed_candidates": "#<Set:0x0055d32d29d938>"
   },
   "C00488486": {
     "id": "C00488486",
@@ -6497,8 +6497,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 148467,
-    "endorsed_candidates": "#<Set:0x0055ef0c364c68>"
+    "totalContributions": 148467,
+    "endorsed_candidates": "#<Set:0x0055d32d29d280>"
   },
   "C00488585": {
     "id": "C00488585",
@@ -6508,8 +6508,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2600,
-    "endorsed_candidates": "#<Set:0x0055ef0c39f098>"
+    "totalContributions": 2600,
+    "endorsed_candidates": "#<Set:0x0055d32d28bc60>"
   },
   "C00489112": {
     "id": "C00489112",
@@ -6519,8 +6519,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c389590>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d2c3188>"
   },
   "C00489252": {
     "id": "C00489252",
@@ -6530,8 +6530,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3602,
-    "endorsed_candidates": "#<Set:0x0055ef0c388500>"
+    "totalContributions": 3602,
+    "endorsed_candidates": "#<Set:0x0055d32d2c2508>"
   },
   "C00489310": {
     "id": "C00489310",
@@ -6541,8 +6541,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c3c3420>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d2c1608>"
   },
   "C00489427": {
     "id": "C00489427",
@@ -6552,8 +6552,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c3c17b0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d2af9f8>"
   },
   "C00489799": {
     "id": "C00489799",
@@ -6563,8 +6563,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6929512,
-    "endorsed_candidates": "#<Set:0x0055ef0c3ac2c0>"
+    "totalContributions": 6929512,
+    "endorsed_candidates": "#<Set:0x0055d32d2e24c0>"
   },
   "C00489815": {
     "id": "C00489815",
@@ -6574,8 +6574,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 237540,
-    "endorsed_candidates": "#<Set:0x0055ef0c3e75a0>"
+    "totalContributions": 237540,
+    "endorsed_candidates": "#<Set:0x0055d32d2e1638>"
   },
   "C00489831": {
     "id": "C00489831",
@@ -6585,8 +6585,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c3e6a10>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d2e09e0>"
   },
   "C00489856": {
     "id": "C00489856",
@@ -6596,8 +6596,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 804319,
-    "endorsed_candidates": "#<Set:0x0055ef0c3e65b0>"
+    "totalContributions": 804319,
+    "endorsed_candidates": "#<Set:0x0055d32d2e0440>"
   },
   "C00489948": {
     "id": "C00489948",
@@ -6607,8 +6607,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 13000,
-    "endorsed_candidates": "#<Set:0x0055ef0c3e4c88>"
+    "totalContributions": 13000,
+    "endorsed_candidates": "#<Set:0x0055d32d2d2e80>"
   },
   "C00490375": {
     "id": "C00490375",
@@ -6618,8 +6618,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4788647,
-    "endorsed_candidates": "#<Set:0x0055ef0c3d0378>"
+    "totalContributions": 4788647,
+    "endorsed_candidates": "#<Set:0x0055d32d306398>"
   },
   "C00490516": {
     "id": "C00490516",
@@ -6629,8 +6629,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0c40a0f0>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32d2f75c8>"
   },
   "C00490730": {
     "id": "C00490730",
@@ -6640,8 +6640,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5728857,
-    "endorsed_candidates": "#<Set:0x0055ef0c3f7ab8>"
+    "totalContributions": 5728857,
+    "endorsed_candidates": "#<Set:0x0055d32d2f4cb0>"
   },
   "C00490904": {
     "id": "C00490904",
@@ -6651,8 +6651,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c3f5e98>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d32b468>"
   },
   "C00491241": {
     "id": "C00491241",
@@ -6662,8 +6662,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0c42d028>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32d31a730>"
   },
   "C00491290": {
     "id": "C00491290",
@@ -6673,8 +6673,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5900,
-    "endorsed_candidates": "#<Set:0x0055ef0c41bcd8>"
+    "totalContributions": 5900,
+    "endorsed_candidates": "#<Set:0x0055d32d319128>"
   },
   "C00491654": {
     "id": "C00491654",
@@ -6684,8 +6684,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3795,
-    "endorsed_candidates": "#<Set:0x0055ef0c450cd0>"
+    "totalContributions": 3795,
+    "endorsed_candidates": "#<Set:0x0055d32d33a5f8>"
   },
   "C00491928": {
     "id": "C00491928",
@@ -6695,8 +6695,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0c441ed8>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32d373718>"
   },
   "C00491936": {
     "id": "C00491936",
@@ -6706,8 +6706,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c441870>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d3731f0>"
   },
   "C00492082": {
     "id": "C00492082",
@@ -6717,8 +6717,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c4776c8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d371058>"
   },
   "C00492140": {
     "id": "C00492140",
@@ -6728,8 +6728,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 146961,
-    "endorsed_candidates": "#<Set:0x0055ef0c476408>"
+    "totalContributions": 146961,
+    "endorsed_candidates": "#<Set:0x0055d32d35f948>"
   },
   "C00492231": {
     "id": "C00492231",
@@ -6739,8 +6739,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2FL00193",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0c474798>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32d35dbc0>"
   },
   "C00492520": {
     "id": "C00492520",
@@ -6750,8 +6750,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c49bc08>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d395a98>"
   },
   "C00492579": {
     "id": "C00492579",
@@ -6761,8 +6761,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c49a768>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d394120>"
   },
   "C00492595": {
     "id": "C00492595",
@@ -6772,8 +6772,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2885,
-    "endorsed_candidates": "#<Set:0x0055ef0c499b88>"
+    "totalContributions": 2885,
+    "endorsed_candidates": "#<Set:0x0055d32d3876f0>"
   },
   "C00492785": {
     "id": "C00492785",
@@ -6783,8 +6783,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2TX00312",
-    "total_contributions": 250012,
-    "endorsed_candidates": "#<Set:0x0055ef0c48ac78>"
+    "totalContributions": 250012,
+    "endorsed_candidates": "#<Set:0x0055d32d384978>"
   },
   "C00492983": {
     "id": "C00492983",
@@ -6794,8 +6794,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c4887c0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d3ba168>"
   },
   "C00492991": {
     "id": "C00492991",
@@ -6805,8 +6805,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0CT00177",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c488130>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d3b9cb8>"
   },
   "C00493510": {
     "id": "C00493510",
@@ -6816,8 +6816,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0c4a8408>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32d3de6f8>"
   },
   "C00493700": {
     "id": "C00493700",
@@ -6827,8 +6827,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c4e17d0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d3dc420>"
   },
   "C00493890": {
     "id": "C00493890",
@@ -6838,8 +6838,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c4cf030>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d3cdf38>"
   },
   "C00494112": {
     "id": "C00494112",
@@ -6849,8 +6849,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c506b48>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d401a18>"
   },
   "C00494856": {
     "id": "C00494856",
@@ -6860,8 +6860,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2FL14053",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0c52a930>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32d4256c0>"
   },
   "C00494971": {
     "id": "C00494971",
@@ -6871,8 +6871,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S2FL00227",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5289c8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d417728>"
   },
   "C00495010": {
     "id": "C00495010",
@@ -6882,8 +6882,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7939,
-    "endorsed_candidates": "#<Set:0x0055ef0c517790>"
+    "totalContributions": 7939,
+    "endorsed_candidates": "#<Set:0x0055d32d416300>"
   },
   "C00495028": {
     "id": "C00495028",
@@ -6893,8 +6893,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2761357,
-    "endorsed_candidates": "#<Set:0x0055ef0c5171f0>"
+    "totalContributions": 2761357,
+    "endorsed_candidates": "#<Set:0x0055d32d415d10>"
   },
   "C00495341": {
     "id": "C00495341",
@@ -6904,8 +6904,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c54a8c0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d449750>"
   },
   "C00495861": {
     "id": "C00495861",
@@ -6915,8 +6915,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 132573472,
-    "endorsed_candidates": "#<Set:0x0055ef0c56fb48>"
+    "totalContributions": 132573472,
+    "endorsed_candidates": "#<Set:0x0055d32d46e848>"
   },
   "C00496075": {
     "id": "C00496075",
@@ -6926,8 +6926,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0KY00156",
-    "total_contributions": 1400000,
-    "endorsed_candidates": "#<Set:0x0055ef0c55f338>"
+    "totalContributions": 1400000,
+    "endorsed_candidates": "#<Set:0x0055d32d45e9e8>"
   },
   "C00496257": {
     "id": "C00496257",
@@ -6937,8 +6937,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5700,
-    "endorsed_candidates": "#<Set:0x0055ef0c55d538>"
+    "totalContributions": 5700,
+    "endorsed_candidates": "#<Set:0x0055d32d45c5d0>"
   },
   "C00496364": {
     "id": "C00496364",
@@ -6948,8 +6948,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2VA10117",
-    "total_contributions": 3700,
-    "endorsed_candidates": "#<Set:0x0055ef0c593db8>"
+    "totalContributions": 3700,
+    "endorsed_candidates": "#<Set:0x0055d32d492ec8>"
   },
   "C00496505": {
     "id": "C00496505",
@@ -6959,8 +6959,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 64428,
-    "endorsed_candidates": "#<Set:0x0055ef0c592350>"
+    "totalContributions": 64428,
+    "endorsed_candidates": "#<Set:0x0055d32d490dd0>"
   },
   "C00496513": {
     "id": "C00496513",
@@ -6970,8 +6970,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H0MN06127",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c591db0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d4905b0>"
   },
   "C00496521": {
     "id": "C00496521",
@@ -6981,8 +6981,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 255,
-    "endorsed_candidates": "#<Set:0x0055ef0c591888>"
+    "totalContributions": 255,
+    "endorsed_candidates": "#<Set:0x0055d32d483f90>"
   },
   "C00496679": {
     "id": "C00496679",
@@ -6992,8 +6992,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 150,
-    "endorsed_candidates": "#<Set:0x0055ef0c582f18>"
+    "totalContributions": 150,
+    "endorsed_candidates": "#<Set:0x0055d32d480958>"
   },
   "C00496919": {
     "id": "C00496919",
@@ -7003,8 +7003,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5b7b50>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d4b8790>"
   },
   "C00497073": {
     "id": "C00497073",
@@ -7014,8 +7014,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5b5ad0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d4a6d10>"
   },
   "C00497131": {
     "id": "C00497131",
@@ -7025,8 +7025,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5b4900>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d4a5dc0>"
   },
   "C00497313": {
     "id": "C00497313",
@@ -7036,8 +7036,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0c5a2b10>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32d4dfdb8>"
   },
   "C00497420": {
     "id": "C00497420",
@@ -7047,8 +7047,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1638785,
-    "endorsed_candidates": "#<Set:0x0055ef0c5a0ef0>"
+    "totalContributions": 1638785,
+    "endorsed_candidates": "#<Set:0x0055d32d4de170>"
   },
   "C00497545": {
     "id": "C00497545",
@@ -7058,8 +7058,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5db2d0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32d4dc6b8>"
   },
   "C00497842": {
     "id": "C00497842",
@@ -7069,8 +7069,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5c63d0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d4ff438>"
   },
   "C00497933": {
     "id": "C00497933",
@@ -7080,8 +7080,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2TX35011",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c5c4710>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d4fd868>"
   },
   "C00498667": {
     "id": "C00498667",
@@ -7091,8 +7091,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA43245",
-    "total_contributions": 1594,
-    "endorsed_candidates": "#<Set:0x0055ef0c5eca30>"
+    "totalContributions": 1594,
+    "endorsed_candidates": "#<Set:0x0055d32d522a28>"
   },
   "C00499103": {
     "id": "C00499103",
@@ -7102,8 +7102,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2NY09086",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c60f3a0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d5114a8>"
   },
   "C00499343": {
     "id": "C00499343",
@@ -7113,8 +7113,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c647b60>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d545fc8>"
   },
   "C00500025": {
     "id": "C00500025",
@@ -7124,8 +7124,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c66a548>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d5696a8>"
   },
   "C00500793": {
     "id": "C00500793",
@@ -7135,8 +7135,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c67f010>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d57abb0>"
   },
   "C00501254": {
     "id": "C00501254",
@@ -7146,8 +7146,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8NM01257",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c6b2960>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d5b3348>"
   },
   "C00501676": {
     "id": "C00501676",
@@ -7157,8 +7157,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 84,
-    "endorsed_candidates": "#<Set:0x0055ef0c6a1db8>"
+    "totalContributions": 84,
+    "endorsed_candidates": "#<Set:0x0055d32d59e218>"
   },
   "C00502294": {
     "id": "C00502294",
@@ -7168,8 +7168,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA15094",
-    "total_contributions": 6000,
-    "endorsed_candidates": "#<Set:0x0055ef0c6c2860>"
+    "totalContributions": 6000,
+    "endorsed_candidates": "#<Set:0x0055d32d5c3b30>"
   },
   "C00502906": {
     "id": "C00502906",
@@ -7179,8 +7179,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": -1500,
-    "endorsed_candidates": "#<Set:0x0055ef0c6eaba8>"
+    "totalContributions": -1500,
+    "endorsed_candidates": "#<Set:0x0055d32d5f4bb8>"
   },
   "C00503003": {
     "id": "C00503003",
@@ -7190,8 +7190,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "W",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0c6e8bf0>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32d5e2d28>"
   },
   "C00503094": {
     "id": "C00503094",
@@ -7201,8 +7201,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2NC11080",
-    "total_contributions": 1996,
-    "endorsed_candidates": "#<Set:0x0055ef0c71ef20>"
+    "totalContributions": 1996,
+    "endorsed_candidates": "#<Set:0x0055d32d5e1040>"
   },
   "C00503110": {
     "id": "C00503110",
@@ -7212,8 +7212,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA52089",
-    "total_contributions": 600,
-    "endorsed_candidates": "#<Set:0x0055ef0c71ea70>"
+    "totalContributions": 600,
+    "endorsed_candidates": "#<Set:0x0055d32d5e0b18>"
   },
   "C00503151": {
     "id": "C00503151",
@@ -7223,8 +7223,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4500,
-    "endorsed_candidates": "#<Set:0x0055ef0c71e5c0>"
+    "totalContributions": 4500,
+    "endorsed_candidates": "#<Set:0x0055d32d5e0618>"
   },
   "C00503540": {
     "id": "C00503540",
@@ -7234,8 +7234,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 37893,
-    "endorsed_candidates": "#<Set:0x0055ef0c70dbf8>"
+    "totalContributions": 37893,
+    "endorsed_candidates": "#<Set:0x0055d32d607a10>"
   },
   "C00504795": {
     "id": "C00504795",
@@ -7245,8 +7245,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H8TX10060",
-    "total_contributions": 1300,
-    "endorsed_candidates": "#<Set:0x0055ef0c751dd0>"
+    "totalContributions": 1300,
+    "endorsed_candidates": "#<Set:0x0055d32d65c678>"
   },
   "C00505297": {
     "id": "C00505297",
@@ -7256,8 +7256,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c7885d8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d6823f0>"
   },
   "C00505636": {
     "id": "C00505636",
@@ -7267,8 +7267,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4500,
-    "endorsed_candidates": "#<Set:0x0055ef0c7ab790>"
+    "totalContributions": 4500,
+    "endorsed_candidates": "#<Set:0x0055d32d671708>"
   },
   "C00506733": {
     "id": "C00506733",
@@ -7278,8 +7278,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c7bc950>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d6be620>"
   },
   "C00507368": {
     "id": "C00507368",
@@ -7289,8 +7289,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2OH03125",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c7e0648>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d6e2f20>"
   },
   "C00507574": {
     "id": "C00507574",
@@ -7300,8 +7300,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0c8152f8>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32d717298>"
   },
   "C00507962": {
     "id": "C00507962",
@@ -7311,8 +7311,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0c83ac10>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32d704918>"
   },
   "C00508101": {
     "id": "C00508101",
@@ -7322,8 +7322,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0c838fc8>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32d73a8d8>"
   },
   "C00508127": {
     "id": "C00508127",
@@ -7333,8 +7333,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c838aa0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d73a310>"
   },
   "C00508440": {
     "id": "C00508440",
@@ -7344,8 +7344,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 590543,
-    "endorsed_candidates": "#<Set:0x0055ef0c8248c0>"
+    "totalContributions": 590543,
+    "endorsed_candidates": "#<Set:0x0055d32d7296a0>"
   },
   "C00509729": {
     "id": "C00509729",
@@ -7355,8 +7355,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2KY04121",
-    "total_contributions": 1081,
-    "endorsed_candidates": "#<Set:0x0055ef0c8a2978>"
+    "totalContributions": 1081,
+    "endorsed_candidates": "#<Set:0x0055d32d770c30>"
   },
   "C00509893": {
     "id": "C00509893",
@@ -7366,8 +7366,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 381263,
-    "endorsed_candidates": "#<Set:0x0055ef0c893f68>"
+    "totalContributions": 381263,
+    "endorsed_candidates": "#<Set:0x0055d32d7a5db8>"
   },
   "C00509968": {
     "id": "C00509968",
@@ -7377,8 +7377,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2PA17079",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c892e38>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d7a4828>"
   },
   "C00510487": {
     "id": "C00510487",
@@ -7388,8 +7388,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2FL10150",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0c8c6760>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32d7cb568>"
   },
   "C00511196": {
     "id": "C00511196",
@@ -7399,8 +7399,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0c8e5890>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d7ee1f8>"
   },
   "C00511840": {
     "id": "C00511840",
@@ -7410,8 +7410,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2589,
-    "endorsed_candidates": "#<Set:0x0055ef0c8d4540>"
+    "totalContributions": 2589,
+    "endorsed_candidates": "#<Set:0x0055d32d7d8628>"
   },
   "C00512129": {
     "id": "C00512129",
@@ -7421,8 +7421,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2AZ08094",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c908bd8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d80e228>"
   },
   "C00512855": {
     "id": "C00512855",
@@ -7432,8 +7432,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c91f450>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d8302b0>"
   },
   "C00513077": {
     "id": "C00513077",
@@ -7443,8 +7443,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA00120",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c91c0e8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d8212b0>"
   },
   "C00514893": {
     "id": "C00514893",
@@ -7454,8 +7454,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2WA06129",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0c9943e0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32d899e90>"
   },
   "C00514919": {
     "id": "C00514919",
@@ -7465,8 +7465,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0c9878e8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d8993f0>"
   },
   "C00516484": {
     "id": "C00516484",
@@ -7476,8 +7476,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0c9ccad8>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32d8d3258>"
   },
   "C00516666": {
     "id": "C00516666",
@@ -7487,8 +7487,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2NY06116",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0ca028e0>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32d8d0ff8>"
   },
   "C00519413": {
     "id": "C00519413",
@@ -7498,8 +7498,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 42538,
-    "endorsed_candidates": "#<Set:0x0055ef0ca8fa10>"
+    "totalContributions": 42538,
+    "endorsed_candidates": "#<Set:0x0055d32d970558>"
   },
   "C00520312": {
     "id": "C00520312",
@@ -7509,8 +7509,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cab0d00>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32d9808e0>"
   },
   "C00520569": {
     "id": "C00520569",
@@ -7520,8 +7520,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 4700,
-    "endorsed_candidates": "#<Set:0x0055ef0caa1f80>"
+    "totalContributions": 4700,
+    "endorsed_candidates": "#<Set:0x0055d32d9b62b0>"
   },
   "C00521013": {
     "id": "C00521013",
@@ -7531,8 +7531,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 36231,
-    "endorsed_candidates": "#<Set:0x0055ef0cad4cc8>"
+    "totalContributions": 36231,
+    "endorsed_candidates": "#<Set:0x0055d32d9a5d20>"
   },
   "C00521302": {
     "id": "C00521302",
@@ -7542,8 +7542,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 21000,
-    "endorsed_candidates": "#<Set:0x0055ef0cac0a20>"
+    "totalContributions": 21000,
+    "endorsed_candidates": "#<Set:0x0055d32d9d9cb0>"
   },
   "C00521757": {
     "id": "C00521757",
@@ -7553,8 +7553,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 83000,
-    "endorsed_candidates": "#<Set:0x0055ef0caf43e8>"
+    "totalContributions": 83000,
+    "endorsed_candidates": "#<Set:0x0055d32d9c94a0>"
   },
   "C00522425": {
     "id": "C00522425",
@@ -7564,8 +7564,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cb18298>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32d9ed300>"
   },
   "C00522458": {
     "id": "C00522458",
@@ -7575,8 +7575,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 139,
-    "endorsed_candidates": "#<Set:0x0055ef0cb0b7c8>"
+    "totalContributions": 139,
+    "endorsed_candidates": "#<Set:0x0055d32d9ecae0>"
   },
   "C00522490": {
     "id": "C00522490",
@@ -7586,8 +7586,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 42,
-    "endorsed_candidates": "#<Set:0x0055ef0cb0b0c0>"
+    "totalContributions": 42,
+    "endorsed_candidates": "#<Set:0x0055d32d9ec1a8>"
   },
   "C00522946": {
     "id": "C00522946",
@@ -7597,8 +7597,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0cb3f3c0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32da13d70>"
   },
   "C00523225": {
     "id": "C00523225",
@@ -7608,8 +7608,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0cb2f560>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32da4b838>"
   },
   "C00523233": {
     "id": "C00523233",
@@ -7619,8 +7619,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cb2f060>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32da4b338>"
   },
   "C00523241": {
     "id": "C00523241",
@@ -7630,8 +7630,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2635,
-    "endorsed_candidates": "#<Set:0x0055ef0cb2ea98>"
+    "totalContributions": 2635,
+    "endorsed_candidates": "#<Set:0x0055d32da4ade8>"
   },
   "C00523381": {
     "id": "C00523381",
@@ -7641,8 +7641,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cb2c388>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32da48e08>"
   },
   "C00523498": {
     "id": "C00523498",
@@ -7652,8 +7652,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 877,
-    "endorsed_candidates": "#<Set:0x0055ef0cb62870>"
+    "totalContributions": 877,
+    "endorsed_candidates": "#<Set:0x0055d32da36cf8>"
   },
   "C00523621": {
     "id": "C00523621",
@@ -7663,8 +7663,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 13504344,
-    "endorsed_candidates": "#<Set:0x0055ef0cb61038>"
+    "totalContributions": 13504344,
+    "endorsed_candidates": "#<Set:0x0055d32da358a8>"
   },
   "C00523670": {
     "id": "C00523670",
@@ -7674,8 +7674,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0cb53af0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32da342a0>"
   },
   "C00524454": {
     "id": "C00524454",
@@ -7685,8 +7685,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1549180,
-    "endorsed_candidates": "#<Set:0x0055ef0cbab408>"
+    "totalContributions": 1549180,
+    "endorsed_candidates": "#<Set:0x0055d32da83940>"
   },
   "C00525030": {
     "id": "C00525030",
@@ -7696,8 +7696,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cbcfad8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32dab44a0>"
   },
   "C00525543": {
     "id": "C00525543",
@@ -7707,8 +7707,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cbb9850>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32dad9ea8>"
   },
   "C00525600": {
     "id": "C00525600",
@@ -7718,8 +7718,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0cbb90d0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32dad9520>"
   },
   "C00525824": {
     "id": "C00525824",
@@ -7729,8 +7729,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0cbf1048>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32dac5a98>"
   },
   "C00525899": {
     "id": "C00525899",
@@ -7740,8 +7740,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2971831,
-    "endorsed_candidates": "#<Set:0x0055ef0cbf06c0>"
+    "totalContributions": 2971831,
+    "endorsed_candidates": "#<Set:0x0055d32dac4f08>"
   },
   "C00526046": {
     "id": "C00526046",
@@ -7751,8 +7751,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0cbde790>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32dafae00>"
   },
   "C00526657": {
     "id": "C00526657",
@@ -7762,8 +7762,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4591,
-    "endorsed_candidates": "#<Set:0x0055ef0cc372a0>"
+    "totalContributions": 4591,
+    "endorsed_candidates": "#<Set:0x0055d32db0b930>"
   },
   "C00526673": {
     "id": "C00526673",
@@ -7773,8 +7773,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2956164,
-    "endorsed_candidates": "#<Set:0x0055ef0cc36da0>"
+    "totalContributions": 2956164,
+    "endorsed_candidates": "#<Set:0x0055d32db0b318>"
   },
   "C00526715": {
     "id": "C00526715",
@@ -7784,8 +7784,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cc35bf8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32db0a238>"
   },
   "C00527226": {
     "id": "C00527226",
@@ -7795,8 +7795,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 21913,
-    "endorsed_candidates": "#<Set:0x0055ef0cc4a968>"
+    "totalContributions": 21913,
+    "endorsed_candidates": "#<Set:0x0055d32db66a10>"
   },
   "C00528026": {
     "id": "C00528026",
@@ -7806,8 +7806,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "T",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cc6c9a0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32db884d0>"
   },
   "C00528307": {
     "id": "C00528307",
@@ -7817,8 +7817,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 27612,
-    "endorsed_candidates": "#<Set:0x0055ef0cca4698>"
+    "totalContributions": 27612,
+    "endorsed_candidates": "#<Set:0x0055d32db783f0>"
   },
   "C00528356": {
     "id": "C00528356",
@@ -7828,8 +7828,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1131,
-    "endorsed_candidates": "#<Set:0x0055ef0cc93be0>"
+    "totalContributions": 1131,
+    "endorsed_candidates": "#<Set:0x0055d32dbaf940>"
   },
   "C00528448": {
     "id": "C00528448",
@@ -7839,8 +7839,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 19318,
-    "endorsed_candidates": "#<Set:0x0055ef0cc91cf0>"
+    "totalContributions": 19318,
+    "endorsed_candidates": "#<Set:0x0055d32dbad5f0>"
   },
   "C00530766": {
     "id": "C00530766",
@@ -7850,8 +7850,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 540365,
-    "endorsed_candidates": "#<Set:0x0055ef0ccdef50>"
+    "totalContributions": 540365,
+    "endorsed_candidates": "#<Set:0x0055d32dbe6968>"
   },
   "C00530865": {
     "id": "C00530865",
@@ -7861,8 +7861,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0ccdd920>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32dbe4fa0>"
   },
   "C00531624": {
     "id": "C00531624",
@@ -7872,8 +7872,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1412852,
-    "endorsed_candidates": "#<Set:0x0055ef0cd12850>"
+    "totalContributions": 1412852,
+    "endorsed_candidates": "#<Set:0x0055d32dc1daf8>"
   },
   "C00531632": {
     "id": "C00531632",
@@ -7883,8 +7883,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd12300>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32dc1d4b8>"
   },
   "C00531764": {
     "id": "C00531764",
@@ -7894,8 +7894,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd10cd0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32dc0bc40>"
   },
   "C00531814": {
     "id": "C00531814",
@@ -7905,8 +7905,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 931118,
-    "endorsed_candidates": "#<Set:0x0055ef0cd10050>"
+    "totalContributions": 931118,
+    "endorsed_candidates": "#<Set:0x0055d32dc0ab88>"
   },
   "C00532572": {
     "id": "C00532572",
@@ -7916,8 +7916,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1673394,
-    "endorsed_candidates": "#<Set:0x0055ef0cd00c68>"
+    "totalContributions": 1673394,
+    "endorsed_candidates": "#<Set:0x0055d32dc3ec80>"
   },
   "C00532705": {
     "id": "C00532705",
@@ -7927,8 +7927,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 788926,
-    "endorsed_candidates": "#<Set:0x0055ef0cd36188>"
+    "totalContributions": 788926,
+    "endorsed_candidates": "#<Set:0x0055d32dc3ca98>"
   },
   "C00532887": {
     "id": "C00532887",
@@ -7938,8 +7938,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cd22340>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32dc2c508>"
   },
   "C00536540": {
     "id": "C00536540",
@@ -7949,8 +7949,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1993,
-    "endorsed_candidates": "#<Set:0x0055ef0cd46038>"
+    "totalContributions": 1993,
+    "endorsed_candidates": "#<Set:0x0055d32dc50430>"
   },
   "C00536607": {
     "id": "C00536607",
@@ -7960,8 +7960,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd452c8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32dc873b8>"
   },
   "C00536664": {
     "id": "C00536664",
@@ -7971,8 +7971,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4527,
-    "endorsed_candidates": "#<Set:0x0055ef0cd44738>"
+    "totalContributions": 4527,
+    "endorsed_candidates": "#<Set:0x0055d32dc86148>"
   },
   "C00536680": {
     "id": "C00536680",
@@ -7982,8 +7982,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2CA06259",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd7bdc8>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32dc85770>"
   },
   "C00538827": {
     "id": "C00538827",
@@ -7993,8 +7993,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5650,
-    "endorsed_candidates": "#<Set:0x0055ef0cd7aab8>"
+    "totalContributions": 5650,
+    "endorsed_candidates": "#<Set:0x0055d32dc841b8>"
   },
   "C00538835": {
     "id": "C00538835",
@@ -8004,8 +8004,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd7a3b0>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32dc77b20>"
   },
   "C00539866": {
     "id": "C00539866",
@@ -8015,8 +8015,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2IL02172",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0cd67c38>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32dc75348>"
   },
   "C00540187": {
     "id": "C00540187",
@@ -8026,8 +8026,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd9df90>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32dc9adf0>"
   },
   "C00540443": {
     "id": "C00540443",
@@ -8037,8 +8037,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 510,
-    "endorsed_candidates": "#<Set:0x0055ef0cd8d320>"
+    "totalContributions": 510,
+    "endorsed_candidates": "#<Set:0x0055d32dcce5d8>"
   },
   "C00540500": {
     "id": "C00540500",
@@ -8048,8 +8048,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S4NJ00185",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0cd8c470>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32dccd458>"
   },
   "C00540898": {
     "id": "C00540898",
@@ -8059,8 +8059,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1213039,
-    "endorsed_candidates": "#<Set:0x0055ef0cde78e8>"
+    "totalContributions": 1213039,
+    "endorsed_candidates": "#<Set:0x0055d32dcf0368>"
   },
   "C00540955": {
     "id": "C00540955",
@@ -8070,8 +8070,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cde5db8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32dce25d8>"
   },
   "C00541078": {
     "id": "C00541078",
@@ -8081,8 +8081,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1606,
-    "endorsed_candidates": "#<Set:0x0055ef0cdd7060>"
+    "totalContributions": 1606,
+    "endorsed_candidates": "#<Set:0x0055d32dd17878>"
   },
   "C00541243": {
     "id": "C00541243",
@@ -8092,8 +8092,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4SC01172",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0ce0bf68>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32dd142e0>"
   },
   "C00541292": {
     "id": "C00541292",
@@ -8103,8 +8103,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 55462795,
-    "endorsed_candidates": "#<Set:0x0055ef0ce0b720>"
+    "totalContributions": 55462795,
+    "endorsed_candidates": "#<Set:0x0055d32dd078d8>"
   },
   "C00541375": {
     "id": "C00541375",
@@ -8114,8 +8114,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ce09010>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32dd05128>"
   },
   "C00542027": {
     "id": "C00542027",
@@ -8125,8 +8125,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7700,
-    "endorsed_candidates": "#<Set:0x0055ef0ce1c3e0>"
+    "totalContributions": 7700,
+    "endorsed_candidates": "#<Set:0x0055d32dd4bf38>"
   },
   "C00542902": {
     "id": "C00542902",
@@ -8136,8 +8136,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 72900,
-    "endorsed_candidates": "#<Set:0x0055ef0ce9da08>"
+    "totalContributions": 72900,
+    "endorsed_candidates": "#<Set:0x0055d32dd91f60>"
   },
   "C00542928": {
     "id": "C00542928",
@@ -8147,8 +8147,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 83,
-    "endorsed_candidates": "#<Set:0x0055ef0ce9d5d0>"
+    "totalContributions": 83,
+    "endorsed_candidates": "#<Set:0x0055d32dd91bc8>"
   },
   "C00543140": {
     "id": "C00543140",
@@ -8158,8 +8158,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4056,
-    "endorsed_candidates": "#<Set:0x0055ef0cebfbd0>"
+    "totalContributions": 4056,
+    "endorsed_candidates": "#<Set:0x0055d32ddbbf68>"
   },
   "C00543256": {
     "id": "C00543256",
@@ -8169,8 +8169,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 773861,
-    "endorsed_candidates": "#<Set:0x0055ef0cebcf70>"
+    "totalContributions": 773861,
+    "endorsed_candidates": "#<Set:0x0055d32ddb90d8>"
   },
   "C00543371": {
     "id": "C00543371",
@@ -8180,8 +8180,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0ceae920>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32ddef048>"
   },
   "C00543504": {
     "id": "C00543504",
@@ -8191,8 +8191,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0ceac558>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32dded3b0>"
   },
   "C00543579": {
     "id": "C00543579",
@@ -8202,8 +8202,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0cee2608>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32dddf580>"
   },
   "C00543835": {
     "id": "C00543835",
@@ -8213,8 +8213,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ced21e0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32de0f6b8>"
   },
   "C00544502": {
     "id": "C00544502",
@@ -8224,8 +8224,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0cf2c6b8>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32de21840>"
   },
   "C00544569": {
     "id": "C00544569",
@@ -8235,8 +8235,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2738137,
-    "endorsed_candidates": "#<Set:0x0055ef0cf1b048>"
+    "totalContributions": 2738137,
+    "endorsed_candidates": "#<Set:0x0055d32de57f08>"
   },
   "C00544767": {
     "id": "C00544767",
@@ -8246,8 +8246,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3790422,
-    "endorsed_candidates": "#<Set:0x0055ef0cf53790>"
+    "totalContributions": 3790422,
+    "endorsed_candidates": "#<Set:0x0055d32de546c8>"
   },
   "C00544908": {
     "id": "C00544908",
@@ -8257,8 +8257,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cf504a0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32de45ce0>"
   },
   "C00545137": {
     "id": "C00545137",
@@ -8268,8 +8268,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0cf77528>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32de79220>"
   },
   "C00545236": {
     "id": "C00545236",
@@ -8279,8 +8279,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0cf75138>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32de6b1c0>"
   },
   "C00547240": {
     "id": "C00547240",
@@ -8290,8 +8290,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4MA06090",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0d016178>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32df1d5c8>"
   },
   "C00547349": {
     "id": "C00547349",
@@ -8301,8 +8301,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7471072,
-    "endorsed_candidates": "#<Set:0x0055ef0d04bb70>"
+    "totalContributions": 7471072,
+    "endorsed_candidates": "#<Set:0x0055d32df53cb8>"
   },
   "C00547356": {
     "id": "C00547356",
@@ -8312,8 +8312,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 400,
-    "endorsed_candidates": "#<Set:0x0055ef0d04b710>"
+    "totalContributions": 400,
+    "endorsed_candidates": "#<Set:0x0055d32df53650>"
   },
   "C00547448": {
     "id": "C00547448",
@@ -8323,8 +8323,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d048948>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32df50b58>"
   },
   "C00548008": {
     "id": "C00548008",
@@ -8334,8 +8334,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0d05c948>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32df9bf90>"
   },
   "C00548537": {
     "id": "C00548537",
@@ -8345,8 +8345,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4FL15155",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0d0b34a0>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32dfbda78>"
   },
   "C00549014": {
     "id": "C00549014",
@@ -8356,8 +8356,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5400,
-    "endorsed_candidates": "#<Set:0x0055ef0d0d44e8>"
+    "totalContributions": 5400,
+    "endorsed_candidates": "#<Set:0x0055d32dfd26a8>"
   },
   "C00549279": {
     "id": "C00549279",
@@ -8367,8 +8367,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10334,
-    "endorsed_candidates": "#<Set:0x0055ef0d0fe7e8>"
+    "totalContributions": 10334,
+    "endorsed_candidates": "#<Set:0x0055d32e00cc90>"
   },
   "C00549592": {
     "id": "C00549592",
@@ -8378,8 +8378,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S4WV00183",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d0e83d0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e02e430>"
   },
   "C00550368": {
     "id": "C00550368",
@@ -8389,8 +8389,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 524620,
-    "endorsed_candidates": "#<Set:0x0055ef0d1304c8>"
+    "totalContributions": 524620,
+    "endorsed_candidates": "#<Set:0x0055d32e071c80>"
   },
   "C00550400": {
     "id": "C00550400",
@@ -8400,8 +8400,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 450,
-    "endorsed_candidates": "#<Set:0x0055ef0d16b820>"
+    "totalContributions": 450,
+    "endorsed_candidates": "#<Set:0x0055d32e070ce0>"
   },
   "C00550491": {
     "id": "C00550491",
@@ -8411,8 +8411,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d169ae8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e062b68>"
   },
   "C00550566": {
     "id": "C00550566",
@@ -8422,8 +8422,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 71613,
-    "endorsed_candidates": "#<Set:0x0055ef0d168710>"
+    "totalContributions": 71613,
+    "endorsed_candidates": "#<Set:0x0055d32e0614c0>"
   },
   "C00550673": {
     "id": "C00550673",
@@ -8433,8 +8433,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4MI11105",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0d1566f0>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32e0969b8>"
   },
   "C00551184": {
     "id": "C00551184",
@@ -8444,8 +8444,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d178278>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e0ab4d0>"
   },
   "C00551226": {
     "id": "C00551226",
@@ -8455,8 +8455,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4FL13093",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d1b35d0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e0aa580>"
   },
   "C00551374": {
     "id": "C00551374",
@@ -8466,8 +8466,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4AL06098",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d1b0ad8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e0df488>"
   },
   "C00551697": {
     "id": "C00551697",
@@ -8477,8 +8477,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d1d6df0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e0c9688>"
   },
   "C00552422": {
     "id": "C00552422",
@@ -8488,8 +8488,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 208449,
-    "endorsed_candidates": "#<Set:0x0055ef0d1e4360>"
+    "totalContributions": 208449,
+    "endorsed_candidates": "#<Set:0x0055d32e113490>"
   },
   "C00552430": {
     "id": "C00552430",
@@ -8499,8 +8499,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4CA26147",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d21fd70>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e1130f8>"
   },
   "C00552489": {
     "id": "C00552489",
@@ -8510,8 +8510,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d21e948>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e111848>"
   },
   "C00552588": {
     "id": "C00552588",
@@ -8521,8 +8521,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H2MI14111",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d21c7d8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e146cc8>"
   },
   "C00553313": {
     "id": "C00553313",
@@ -8532,8 +8532,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9675,
-    "endorsed_candidates": "#<Set:0x0055ef0d2602f8>"
+    "totalContributions": 9675,
+    "endorsed_candidates": "#<Set:0x0055d32e18f5e0>"
   },
   "C00553560": {
     "id": "C00553560",
@@ -8543,8 +8543,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 543821,
-    "endorsed_candidates": "#<Set:0x0055ef0d2866d8>"
+    "totalContributions": 543821,
+    "endorsed_candidates": "#<Set:0x0055d32e17d4a8>"
   },
   "C00553743": {
     "id": "C00553743",
@@ -8554,8 +8554,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d276da0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e1b19b0>"
   },
   "C00553966": {
     "id": "C00553966",
@@ -8565,8 +8565,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d2a6258>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e1a1010>"
   },
   "C00554055": {
     "id": "C00554055",
@@ -8576,8 +8576,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d2a4548>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e1d7228>"
   },
   "C00555615": {
     "id": "C00555615",
@@ -8587,8 +8587,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "S4VT00033",
-    "total_contributions": 443,
-    "endorsed_candidates": "#<Set:0x0055ef0d322e98>"
+    "totalContributions": 443,
+    "endorsed_candidates": "#<Set:0x0055d32e25dd50>"
   },
   "C00556274": {
     "id": "C00556274",
@@ -8598,8 +8598,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50776,
-    "endorsed_candidates": "#<Set:0x0055ef0d377858>"
+    "totalContributions": 50776,
+    "endorsed_candidates": "#<Set:0x0055d32e270978>"
   },
   "C00556860": {
     "id": "C00556860",
@@ -8609,8 +8609,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9439,
-    "endorsed_candidates": "#<Set:0x0055ef0d38b6c8>"
+    "totalContributions": 9439,
+    "endorsed_candidates": "#<Set:0x0055d32e2c8308>"
   },
   "C00558718": {
     "id": "C00558718",
@@ -8620,8 +8620,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d472988>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e373848>"
   },
   "C00559302": {
     "id": "C00559302",
@@ -8631,8 +8631,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0d47d860>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32e3c8ca8>"
   },
   "C00559906": {
     "id": "C00559906",
@@ -8642,8 +8642,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 349440,
-    "endorsed_candidates": "#<Set:0x0055ef0d4d8300>"
+    "totalContributions": 349440,
+    "endorsed_candidates": "#<Set:0x0055d32e41fe18>"
   },
   "C00560003": {
     "id": "C00560003",
@@ -8653,8 +8653,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "S4NH00120",
-    "total_contributions": 11500,
-    "endorsed_candidates": "#<Set:0x0055ef0d4c5f20>"
+    "totalContributions": 11500,
+    "endorsed_candidates": "#<Set:0x0055d32e41d960>"
   },
   "C00560078": {
     "id": "C00560078",
@@ -8664,8 +8664,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d4ffe50>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e403830>"
   },
   "C00560599": {
     "id": "C00560599",
@@ -8675,8 +8675,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 67350,
-    "endorsed_candidates": "#<Set:0x0055ef0d51d590>"
+    "totalContributions": 67350,
+    "endorsed_candidates": "#<Set:0x0055d32e4289c8>"
   },
   "C00560821": {
     "id": "C00560821",
@@ -8686,8 +8686,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d547b38>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e44f820>"
   },
   "C00561530": {
     "id": "C00561530",
@@ -8697,8 +8697,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4MI04126",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d589a38>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e4966a8>"
   },
   "C00561779": {
     "id": "C00561779",
@@ -8708,8 +8708,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d5b32c0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e4cc528>"
   },
   "C00561944": {
     "id": "C00561944",
@@ -8719,8 +8719,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 957,
-    "endorsed_candidates": "#<Set:0x0055ef0d5b0908>"
+    "totalContributions": 957,
+    "endorsed_candidates": "#<Set:0x0055d32e4b94c8>"
   },
   "C00562777": {
     "id": "C00562777",
@@ -8730,8 +8730,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 506971,
-    "endorsed_candidates": "#<Set:0x0055ef0d5e92a8>"
+    "totalContributions": 506971,
+    "endorsed_candidates": "#<Set:0x0055d32e538908>"
   },
   "C00562785": {
     "id": "C00562785",
@@ -8741,8 +8741,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 22979,
-    "endorsed_candidates": "#<Set:0x0055ef0d5e8d58>"
+    "totalContributions": 22979,
+    "endorsed_candidates": "#<Set:0x0055d32e538570>"
   },
   "C00563072": {
     "id": "C00563072",
@@ -8752,8 +8752,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d61c2c0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e55e7e8>"
   },
   "C00563338": {
     "id": "C00563338",
@@ -8763,8 +8763,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d6418b8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e54c430>"
   },
   "C00563429": {
     "id": "C00563429",
@@ -8774,8 +8774,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d6407b0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e582a08>"
   },
   "C00563601": {
     "id": "C00563601",
@@ -8785,8 +8785,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d630ea0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e56e698>"
   },
   "C00563726": {
     "id": "C00563726",
@@ -8796,8 +8796,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2907,
-    "endorsed_candidates": "#<Set:0x0055ef0d6664b0>"
+    "totalContributions": 2907,
+    "endorsed_candidates": "#<Set:0x0055d32e5a75b0>"
   },
   "C00563759": {
     "id": "C00563759",
@@ -8807,8 +8807,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1470000,
-    "endorsed_candidates": "#<Set:0x0055ef0d665a88>"
+    "totalContributions": 1470000,
+    "endorsed_candidates": "#<Set:0x0055d32e5a6a98>"
   },
   "C00563924": {
     "id": "C00563924",
@@ -8818,8 +8818,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d656628>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e596c60>"
   },
   "C00564187": {
     "id": "C00564187",
@@ -8829,8 +8829,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0d6908f0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32e5bbfb0>"
   },
   "C00564369": {
     "id": "C00564369",
@@ -8840,8 +8840,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0d679600>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32e5b8d60>"
   },
   "C00564385": {
     "id": "C00564385",
@@ -8851,8 +8851,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1336,
-    "endorsed_candidates": "#<Set:0x0055ef0d678f20>"
+    "totalContributions": 1336,
+    "endorsed_candidates": "#<Set:0x0055d32e5b82c0>"
   },
   "C00564401": {
     "id": "C00564401",
@@ -8862,8 +8862,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 970,
-    "endorsed_candidates": "#<Set:0x0055ef0d6785c0>"
+    "totalContributions": 970,
+    "endorsed_candidates": "#<Set:0x0055d32e5f3550>"
   },
   "C00564690": {
     "id": "C00564690",
@@ -8873,8 +8873,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 44365,
-    "endorsed_candidates": "#<Set:0x0055ef0d6a0660>"
+    "totalContributions": 44365,
+    "endorsed_candidates": "#<Set:0x0055d32e6167f8>"
   },
   "C00564716": {
     "id": "C00564716",
@@ -8884,8 +8884,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 38968,
-    "endorsed_candidates": "#<Set:0x0055ef0d6a0138>"
+    "totalContributions": 38968,
+    "endorsed_candidates": "#<Set:0x0055d32e6162d0>"
   },
   "C00564765": {
     "id": "C00564765",
@@ -8895,8 +8895,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 36329,
-    "endorsed_candidates": "#<Set:0x0055ef0d6d6c88>"
+    "totalContributions": 36329,
+    "endorsed_candidates": "#<Set:0x0055d32e614b88>"
   },
   "C00564807": {
     "id": "C00564807",
@@ -8906,8 +8906,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0d6d5950>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32e603720>"
   },
   "C00565309": {
     "id": "C00565309",
@@ -8917,8 +8917,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 3700,
-    "endorsed_candidates": "#<Set:0x0055ef0d71f8c0>"
+    "totalContributions": 3700,
+    "endorsed_candidates": "#<Set:0x0055d32e65b380>"
   },
   "C00566059": {
     "id": "C00566059",
@@ -8928,8 +8928,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d7699e8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e69a350>"
   },
   "C00566174": {
     "id": "C00566174",
@@ -8939,8 +8939,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3375747,
-    "endorsed_candidates": "#<Set:0x0055ef0d756eb0>"
+    "totalContributions": 3375747,
+    "endorsed_candidates": "#<Set:0x0055d32e68b940>"
   },
   "C00566208": {
     "id": "C00566208",
@@ -8950,8 +8950,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8146,
-    "endorsed_candidates": "#<Set:0x0055ef0d756118>"
+    "totalContributions": 8146,
+    "endorsed_candidates": "#<Set:0x0055d32e68a860>"
   },
   "C00566562": {
     "id": "C00566562",
@@ -8961,8 +8961,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d779cd0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e6a9738>"
   },
   "C00567388": {
     "id": "C00567388",
@@ -8972,8 +8972,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0d7f6a28>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32e729b90>"
   },
   "C00567479": {
     "id": "C00567479",
@@ -8983,8 +8983,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 118089,
-    "endorsed_candidates": "#<Set:0x0055ef0d7e7e10>"
+    "totalContributions": 118089,
+    "endorsed_candidates": "#<Set:0x0055d32e7177b0>"
   },
   "C00567495": {
     "id": "C00567495",
@@ -8994,8 +8994,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d7e73e8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e7170d0>"
   },
   "C00568931": {
     "id": "C00568931",
@@ -9005,8 +9005,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 131652,
-    "endorsed_candidates": "#<Set:0x0055ef0d8795b8>"
+    "totalContributions": 131652,
+    "endorsed_candidates": "#<Set:0x0055d32e7a5ec0>"
   },
   "C00569061": {
     "id": "C00569061",
@@ -9016,8 +9016,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d8ae1c8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e7de6a8>"
   },
   "C00569517": {
     "id": "C00569517",
@@ -9027,8 +9027,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 71065,
-    "endorsed_candidates": "#<Set:0x0055ef0d8bd9c0>"
+    "totalContributions": 71065,
+    "endorsed_candidates": "#<Set:0x0055d32e7ee7b0>"
   },
   "C00569731": {
     "id": "C00569731",
@@ -9038,8 +9038,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 697,
-    "endorsed_candidates": "#<Set:0x0055ef0d8ec590>"
+    "totalContributions": 697,
+    "endorsed_candidates": "#<Set:0x0055d32e8290e0>"
   },
   "C00569905": {
     "id": "C00569905",
@@ -9049,8 +9049,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6173143,
-    "endorsed_candidates": "#<Set:0x0055ef0d8dc168>"
+    "totalContributions": 6173143,
+    "endorsed_candidates": "#<Set:0x0055d32e814438>"
   },
   "C00570739": {
     "id": "C00570739",
@@ -9060,8 +9060,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 380731,
-    "endorsed_candidates": "#<Set:0x0055ef0d97b650>"
+    "totalContributions": 380731,
+    "endorsed_candidates": "#<Set:0x0055d32e880f98>"
   },
   "C00570903": {
     "id": "C00570903",
@@ -9071,8 +9071,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 67233,
-    "endorsed_candidates": "#<Set:0x0055ef0d96a6e8>"
+    "totalContributions": 67233,
+    "endorsed_candidates": "#<Set:0x0055d32e8a3cc8>"
   },
   "C00570960": {
     "id": "C00570960",
@@ -9082,8 +9082,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S8MN00438",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0d968d20>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32e8a26e8>"
   },
   "C00571174": {
     "id": "C00571174",
@@ -9093,8 +9093,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1075,
-    "endorsed_candidates": "#<Set:0x0055ef0d98e728>"
+    "totalContributions": 1075,
+    "endorsed_candidates": "#<Set:0x0055d32e8c7f10>"
   },
   "C00571356": {
     "id": "C00571356",
@@ -9104,8 +9104,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 118778,
-    "endorsed_candidates": "#<Set:0x0055ef0d9c57f0>"
+    "totalContributions": 118778,
+    "endorsed_candidates": "#<Set:0x0055d32e8fa370>"
   },
   "C00571372": {
     "id": "C00571372",
@@ -9115,8 +9115,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 86817138,
-    "endorsed_candidates": "#<Set:0x0055ef0d9c4dc8>"
+    "totalContributions": 86817138,
+    "endorsed_candidates": "#<Set:0x0055d32e8f97b8>"
   },
   "C00571380": {
     "id": "C00571380",
@@ -9126,8 +9126,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0d9c4a30>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32e8f9218>"
   },
   "C00571398": {
     "id": "C00571398",
@@ -9137,8 +9137,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0d9c4468>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32e8f8d18>"
   },
   "C00571430": {
     "id": "C00571430",
@@ -9148,8 +9148,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d9b30f0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e8eb960>"
   },
   "C00571570": {
     "id": "C00571570",
@@ -9159,8 +9159,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0d9e7580>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e91f5f8>"
   },
   "C00571588": {
     "id": "C00571588",
@@ -9170,8 +9170,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 509570,
-    "endorsed_candidates": "#<Set:0x0055ef0d9e70a8>"
+    "totalContributions": 509570,
+    "endorsed_candidates": "#<Set:0x0055d32e91f030>"
   },
   "C00571711": {
     "id": "C00571711",
@@ -9181,8 +9181,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2634870,
-    "endorsed_candidates": "#<Set:0x0055ef0d9d71d0>"
+    "totalContributions": 2634870,
+    "endorsed_candidates": "#<Set:0x0055d32e90b0f8>"
   },
   "C00571778": {
     "id": "C00571778",
@@ -9192,8 +9192,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0d9d5a10>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32e909960>"
   },
   "C00571950": {
     "id": "C00571950",
@@ -9203,8 +9203,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12925,
-    "endorsed_candidates": "#<Set:0x0055ef0da087d0>"
+    "totalContributions": 12925,
+    "endorsed_candidates": "#<Set:0x0055d32e93cdd8>"
   },
   "C00571976": {
     "id": "C00571976",
@@ -9214,8 +9214,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d9fbbe8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e93c270>"
   },
   "C00572198": {
     "id": "C00572198",
@@ -9225,8 +9225,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0da2c9f0>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32e964f40>"
   },
   "C00572792": {
     "id": "C00572792",
@@ -9236,8 +9236,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 252972,
-    "endorsed_candidates": "#<Set:0x0055ef0da66da8>"
+    "totalContributions": 252972,
+    "endorsed_candidates": "#<Set:0x0055d32e99b928>"
   },
   "C00572867": {
     "id": "C00572867",
@@ -9247,8 +9247,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 11380,
-    "endorsed_candidates": "#<Set:0x0055ef0da644e0>"
+    "totalContributions": 11380,
+    "endorsed_candidates": "#<Set:0x0055d32e9993a8>"
   },
   "C00573055": {
     "id": "C00573055",
@@ -9258,8 +9258,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20705955,
-    "endorsed_candidates": "#<Set:0x0055ef0da8a2f8>"
+    "totalContributions": 20705955,
+    "endorsed_candidates": "#<Set:0x0055d32e9bf6c0>"
   },
   "C00573147": {
     "id": "C00573147",
@@ -9269,8 +9269,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 29633,
-    "endorsed_candidates": "#<Set:0x0055ef0dac3c10>"
+    "totalContributions": 29633,
+    "endorsed_candidates": "#<Set:0x0055d32e9bd758>"
   },
   "C00573154": {
     "id": "C00573154",
@@ -9280,8 +9280,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3837155,
-    "endorsed_candidates": "#<Set:0x0055ef0dac3800>"
+    "totalContributions": 3837155,
+    "endorsed_candidates": "#<Set:0x0055d32e9bd1e0>"
   },
   "C00573634": {
     "id": "C00573634",
@@ -9291,8 +9291,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2373876,
-    "endorsed_candidates": "#<Set:0x0055ef0dad3a48>"
+    "totalContributions": 2373876,
+    "endorsed_candidates": "#<Set:0x0055d32ea07b28>"
   },
   "C00573725": {
     "id": "C00573725",
@@ -9302,8 +9302,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 230,
-    "endorsed_candidates": "#<Set:0x0055ef0dad1270>"
+    "totalContributions": 230,
+    "endorsed_candidates": "#<Set:0x0055d32ea04b58>"
   },
   "C00573733": {
     "id": "C00573733",
@@ -9313,8 +9313,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3514349,
-    "endorsed_candidates": "#<Set:0x0055ef0dad0bb8>"
+    "totalContributions": 3514349,
+    "endorsed_candidates": "#<Set:0x0055d32ea04568>"
   },
   "C00573741": {
     "id": "C00573741",
@@ -9324,8 +9324,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 109,
-    "endorsed_candidates": "#<Set:0x0055ef0dad0640>"
+    "totalContributions": 109,
+    "endorsed_candidates": "#<Set:0x0055d32ea3bef0>"
   },
   "C00573790": {
     "id": "C00573790",
@@ -9335,8 +9335,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12389,
-    "endorsed_candidates": "#<Set:0x0055ef0db07050>"
+    "totalContributions": 12389,
+    "endorsed_candidates": "#<Set:0x0055d32ea3a708>"
   },
   "C00573923": {
     "id": "C00573923",
@@ -9346,8 +9346,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3510323,
-    "endorsed_candidates": "#<Set:0x0055ef0daf7a38>"
+    "totalContributions": 3510323,
+    "endorsed_candidates": "#<Set:0x0055d32ea2a9e8>"
   },
   "C00574061": {
     "id": "C00574061",
@@ -9357,8 +9357,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4000,
-    "endorsed_candidates": "#<Set:0x0055ef0daf4630>"
+    "totalContributions": 4000,
+    "endorsed_candidates": "#<Set:0x0055d32ea624b0>"
   },
   "C00574178": {
     "id": "C00574178",
@@ -9368,8 +9368,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 43093,
-    "endorsed_candidates": "#<Set:0x0055ef0db292e0>"
+    "totalContributions": 43093,
+    "endorsed_candidates": "#<Set:0x0055d32ea4f130>"
   },
   "C00574228": {
     "id": "C00574228",
@@ -9379,8 +9379,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0db17f68>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32ea4db00>"
   },
   "C00574418": {
     "id": "C00574418",
@@ -9390,8 +9390,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 306446,
-    "endorsed_candidates": "#<Set:0x0055ef0db4f4b8>"
+    "totalContributions": 306446,
+    "endorsed_candidates": "#<Set:0x0055d32ea73878>"
   },
   "C00574434": {
     "id": "C00574434",
@@ -9401,8 +9401,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6IL10135",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0db4ed10>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32ea72cc0>"
   },
   "C00574533": {
     "id": "C00574533",
@@ -9412,8 +9412,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 24264009,
-    "endorsed_candidates": "#<Set:0x0055ef0db4c920>"
+    "totalContributions": 24264009,
+    "endorsed_candidates": "#<Set:0x0055d32eaab6d8>"
   },
   "C00574624": {
     "id": "C00574624",
@@ -9423,8 +9423,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "P60006111",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0db39938>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32eaa8848>"
   },
   "C00574681": {
     "id": "C00574681",
@@ -9434,8 +9434,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 235000,
-    "endorsed_candidates": "#<Set:0x0055ef0db6ff88>"
+    "totalContributions": 235000,
+    "endorsed_candidates": "#<Set:0x0055d32ea9a9f0>"
   },
   "C00575050": {
     "id": "C00575050",
@@ -9445,8 +9445,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6IL18088",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0db92ba0>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32eab9d00>"
   },
   "C00575118": {
     "id": "C00575118",
@@ -9456,8 +9456,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9500,
-    "endorsed_candidates": "#<Set:0x0055ef0db913b8>"
+    "totalContributions": 9500,
+    "endorsed_candidates": "#<Set:0x0055d32eaf3cf8>"
   },
   "C00575340": {
     "id": "C00575340",
@@ -9467,8 +9467,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 11000,
-    "endorsed_candidates": "#<Set:0x0055ef0dbb6ca8>"
+    "totalContributions": 11000,
+    "endorsed_candidates": "#<Set:0x0055d32eae22f0>"
   },
   "C00575373": {
     "id": "C00575373",
@@ -9478,8 +9478,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 13522061,
-    "endorsed_candidates": "#<Set:0x0055ef0dbb5d80>"
+    "totalContributions": 13522061,
+    "endorsed_candidates": "#<Set:0x0055d32eae1120>"
   },
   "C00575415": {
     "id": "C00575415",
@@ -9489,8 +9489,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1411086,
-    "endorsed_candidates": "#<Set:0x0055ef0dbb4700>"
+    "totalContributions": 1411086,
+    "endorsed_candidates": "#<Set:0x0055d32eb17ba8>"
   },
   "C00575423": {
     "id": "C00575423",
@@ -9500,8 +9500,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4553465,
-    "endorsed_candidates": "#<Set:0x0055ef0dbb4160>"
+    "totalContributions": 4553465,
+    "endorsed_candidates": "#<Set:0x0055d32eb175e0>"
   },
   "C00576058": {
     "id": "C00576058",
@@ -9511,8 +9511,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16000,
-    "endorsed_candidates": "#<Set:0x0055ef0dbe8938>"
+    "totalContributions": 16000,
+    "endorsed_candidates": "#<Set:0x0055d32eb5d0b8>"
   },
   "C00576108": {
     "id": "C00576108",
@@ -9522,8 +9522,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2249018,
-    "endorsed_candidates": "#<Set:0x0055ef0dc22fc0>"
+    "totalContributions": 2249018,
+    "endorsed_candidates": "#<Set:0x0055d32eb5c050>"
   },
   "C00576850": {
     "id": "C00576850",
@@ -9533,8 +9533,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6MD08465",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0dc8fd28>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32ebca398>"
   },
   "C00577080": {
     "id": "C00577080",
@@ -9544,8 +9544,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NY01118",
-    "total_contributions": 1556,
-    "endorsed_candidates": "#<Set:0x0055ef0dc798e8>"
+    "totalContributions": 1556,
+    "endorsed_candidates": "#<Set:0x0055d32ebef940>"
   },
   "C00577270": {
     "id": "C00577270",
@@ -9555,8 +9555,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NV04012",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0dcb03e8>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ebda540>"
   },
   "C00577296": {
     "id": "C00577296",
@@ -9566,8 +9566,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 90000,
-    "endorsed_candidates": "#<Set:0x0055ef0dc9f8b8>"
+    "totalContributions": 90000,
+    "endorsed_candidates": "#<Set:0x0055d32ebd9d20>"
   },
   "C00578724": {
     "id": "C00578724",
@@ -9577,8 +9577,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 372912,
-    "endorsed_candidates": "#<Set:0x0055ef0dd55fa0>"
+    "totalContributions": 372912,
+    "endorsed_candidates": "#<Set:0x0055d32ec922f8>"
   },
   "C00578880": {
     "id": "C00578880",
@@ -9588,8 +9588,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "S0IN00061",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0dd89c60>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ecc6198>"
   },
   "C00580324": {
     "id": "C00580324",
@@ -9599,8 +9599,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 161208,
-    "endorsed_candidates": "#<Set:0x0055ef0de3c7c0>"
+    "totalContributions": 161208,
+    "endorsed_candidates": "#<Set:0x0055d32ed8e698>"
   },
   "C00580878": {
     "id": "C00580878",
@@ -9610,8 +9610,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6399,
-    "endorsed_candidates": "#<Set:0x0055ef0de777a8>"
+    "totalContributions": 6399,
+    "endorsed_candidates": "#<Set:0x0055d32edd2870>"
   },
   "C00581090": {
     "id": "C00581090",
@@ -9621,8 +9621,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H4MI04118",
-    "total_contributions": 292,
-    "endorsed_candidates": "#<Set:0x0055ef0deacea8>"
+    "totalContributions": 292,
+    "endorsed_candidates": "#<Set:0x0055d32edf7a30>"
   },
   "C00581306": {
     "id": "C00581306",
@@ -9632,8 +9632,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 814,
-    "endorsed_candidates": "#<Set:0x0055ef0deceaf8>"
+    "totalContributions": 814,
+    "endorsed_candidates": "#<Set:0x0055d32ede5290>"
   },
   "C00581504": {
     "id": "C00581504",
@@ -9643,8 +9643,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "S6FL00335",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0debd410>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ee0a630>"
   },
   "C00581868": {
     "id": "C00581868",
@@ -9654,8 +9654,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 11188806,
-    "endorsed_candidates": "#<Set:0x0055ef0df1bbf0>"
+    "totalContributions": 11188806,
+    "endorsed_candidates": "#<Set:0x0055d32ee66e08>"
   },
   "C00581934": {
     "id": "C00581934",
@@ -9665,8 +9665,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4058735,
-    "endorsed_candidates": "#<Set:0x0055ef0df199e0>"
+    "totalContributions": 4058735,
+    "endorsed_candidates": "#<Set:0x0055d32ee64d60>"
   },
   "C00582056": {
     "id": "C00582056",
@@ -9676,8 +9676,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2086,
-    "endorsed_candidates": "#<Set:0x0055ef0df06318>"
+    "totalContributions": 2086,
+    "endorsed_candidates": "#<Set:0x0055d32ee51620>"
   },
   "C00582387": {
     "id": "C00582387",
@@ -9687,8 +9687,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0df282d8>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32eeaf270>"
   },
   "C00582544": {
     "id": "C00582544",
@@ -9698,8 +9698,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5364,
-    "endorsed_candidates": "#<Set:0x0055ef0df5e900>"
+    "totalContributions": 5364,
+    "endorsed_candidates": "#<Set:0x0055d32ee9e858>"
   },
   "C00582775": {
     "id": "C00582775",
@@ -9709,8 +9709,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 409,
-    "endorsed_candidates": "#<Set:0x0055ef0df90ae0>"
+    "totalContributions": 409,
+    "endorsed_candidates": "#<Set:0x0055d32eebfb20>"
   },
   "C00582965": {
     "id": "C00582965",
@@ -9720,8 +9720,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9280,
-    "endorsed_candidates": "#<Set:0x0055ef0dfb72a8>"
+    "totalContributions": 9280,
+    "endorsed_candidates": "#<Set:0x0055d32eef1fa8>"
   },
   "C00582973": {
     "id": "C00582973",
@@ -9731,8 +9731,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4512258,
-    "endorsed_candidates": "#<Set:0x0055ef0dfb6da8>"
+    "totalContributions": 4512258,
+    "endorsed_candidates": "#<Set:0x0055d32eef1a08>"
   },
   "C00583005": {
     "id": "C00583005",
@@ -9742,8 +9742,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6NV03089",
-    "total_contributions": 3036,
-    "endorsed_candidates": "#<Set:0x0055ef0dfb60d8>"
+    "totalContributions": 3036,
+    "endorsed_candidates": "#<Set:0x0055d32eef0fb8>"
   },
   "C00583526": {
     "id": "C00583526",
@@ -9753,8 +9753,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 250,
-    "endorsed_candidates": "#<Set:0x0055ef0e0038b0>"
+    "totalContributions": 250,
+    "endorsed_candidates": "#<Set:0x0055d32ef3a320>"
   },
   "C00584300": {
     "id": "C00584300",
@@ -9764,8 +9764,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 71997,
-    "endorsed_candidates": "#<Set:0x0055ef0e035ab8>"
+    "totalContributions": 71997,
+    "endorsed_candidates": "#<Set:0x0055d32ea81d88>"
   },
   "C00584482": {
     "id": "C00584482",
@@ -9775,8 +9775,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1500,
-    "endorsed_candidates": "#<Set:0x0055ef0e06c450>"
+    "totalContributions": 1500,
+    "endorsed_candidates": "#<Set:0x0055d32eef9258>"
   },
   "C00585554": {
     "id": "C00585554",
@@ -9786,8 +9786,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0e0fdf18>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32dfe1b80>"
   },
   "C00586610": {
     "id": "C00586610",
@@ -9797,8 +9797,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 377077,
-    "endorsed_candidates": "#<Set:0x0055ef0e18f530>"
+    "totalContributions": 377077,
+    "endorsed_candidates": "#<Set:0x0055d32ef16240>"
   },
   "C00586693": {
     "id": "C00586693",
@@ -9808,8 +9808,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3065,
-    "endorsed_candidates": "#<Set:0x0055ef0e18cfb0>"
+    "totalContributions": 3065,
+    "endorsed_candidates": "#<Set:0x0055d32ef143a0>"
   },
   "C00586826": {
     "id": "C00586826",
@@ -9819,8 +9819,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 253384,
-    "endorsed_candidates": "#<Set:0x0055ef0e179bb8>"
+    "totalContributions": 253384,
+    "endorsed_candidates": "#<Set:0x0055d32ef0bae8>"
   },
   "C00587022": {
     "id": "C00587022",
@@ -9830,8 +9830,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 312317,
-    "endorsed_candidates": "#<Set:0x0055ef0e1b0438>"
+    "totalContributions": 312317,
+    "endorsed_candidates": "#<Set:0x0055d32ef02560>"
   },
   "C00587279": {
     "id": "C00587279",
@@ -9841,8 +9841,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 813,
-    "endorsed_candidates": "#<Set:0x0055ef0e1d4568>"
+    "totalContributions": 813,
+    "endorsed_candidates": "#<Set:0x0055d32eee69c8>"
   },
   "C00587766": {
     "id": "C00587766",
@@ -9852,8 +9852,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "P60007168",
-    "total_contributions": 9,
-    "endorsed_candidates": "#<Set:0x0055ef0df3e4c0>"
+    "totalContributions": 9,
+    "endorsed_candidates": "#<Set:0x0055d32eec77f8>"
   },
   "C00587881": {
     "id": "C00587881",
@@ -9863,8 +9863,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 179,
-    "endorsed_candidates": "#<Set:0x0055ef0dcee710>"
+    "totalContributions": 179,
+    "endorsed_candidates": "#<Set:0x0055d32eebf198>"
   },
   "C00587923": {
     "id": "C00587923",
@@ -9874,8 +9874,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0dced630>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32eebdc30>"
   },
   "C00588814": {
     "id": "C00588814",
@@ -9885,8 +9885,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6350,
-    "endorsed_candidates": "#<Set:0x0055ef0dcec640>"
+    "totalContributions": 6350,
+    "endorsed_candidates": "#<Set:0x0055d32ee815c8>"
   },
   "C00589226": {
     "id": "C00589226",
@@ -9896,8 +9896,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3599,
-    "endorsed_candidates": "#<Set:0x0055ef0e1e78e8>"
+    "totalContributions": 3599,
+    "endorsed_candidates": "#<Set:0x0055d32ee5f7c0>"
   },
   "C00589507": {
     "id": "C00589507",
@@ -9907,8 +9907,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 166638,
-    "endorsed_candidates": "#<Set:0x0055ef0e1d67c8>"
+    "totalContributions": 166638,
+    "endorsed_candidates": "#<Set:0x0055d32ee49d58>"
   },
   "C00589606": {
     "id": "C00589606",
@@ -9918,8 +9918,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 25,
-    "endorsed_candidates": "#<Set:0x0055ef0e1cbaf8>"
+    "totalContributions": 25,
+    "endorsed_candidates": "#<Set:0x0055d32ee42d50>"
   },
   "C00589879": {
     "id": "C00589879",
@@ -9929,8 +9929,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16000,
-    "endorsed_candidates": "#<Set:0x0055ef0e1bae60>"
+    "totalContributions": 16000,
+    "endorsed_candidates": "#<Set:0x0055d32ee2dbd0>"
   },
   "C00589937": {
     "id": "C00589937",
@@ -9940,8 +9940,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "P60007168",
-    "total_contributions": 618,
-    "endorsed_candidates": "#<Set:0x0055ef0e1b8ef8>"
+    "totalContributions": 618,
+    "endorsed_candidates": "#<Set:0x0055d32ee23ef0>"
   },
   "C00590117": {
     "id": "C00590117",
@@ -9951,8 +9951,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6TX19131",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0e1a7798>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32ee19ce8>"
   },
   "C00590240": {
     "id": "C00590240",
@@ -9962,8 +9962,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "P60007168",
-    "total_contributions": 268,
-    "endorsed_candidates": "#<Set:0x0055ef0e19ec38>"
+    "totalContributions": 268,
+    "endorsed_candidates": "#<Set:0x0055d32ee11200>"
   },
   "C00590620": {
     "id": "C00590620",
@@ -9973,8 +9973,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "P60007168",
-    "total_contributions": 292,
-    "endorsed_candidates": "#<Set:0x0055ef0e1828f8>"
+    "totalContributions": 292,
+    "endorsed_candidates": "#<Set:0x0055d32edf42b8>"
   },
   "C00590646": {
     "id": "C00590646",
@@ -9984,8 +9984,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "P60007168",
-    "total_contributions": 2010,
-    "endorsed_candidates": "#<Set:0x0055ef0e181d18>"
+    "totalContributions": 2010,
+    "endorsed_candidates": "#<Set:0x0055d32edef560>"
   },
   "C00591214": {
     "id": "C00591214",
@@ -9995,8 +9995,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 118990,
-    "endorsed_candidates": "#<Set:0x0055ef0e15cb58>"
+    "totalContributions": 118990,
+    "endorsed_candidates": "#<Set:0x0055d32edc8550>"
   },
   "C00591461": {
     "id": "C00591461",
@@ -10006,8 +10006,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0e14d720>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32edafc30>"
   },
   "C00591479": {
     "id": "C00591479",
@@ -10017,8 +10017,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0e14cf00>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32edaf7d0>"
   },
   "C00591834": {
     "id": "C00591834",
@@ -10028,8 +10028,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 89000,
-    "endorsed_candidates": "#<Set:0x0055ef0e135ee0>"
+    "totalContributions": 89000,
+    "endorsed_candidates": "#<Set:0x0055d32ed9cdd8>"
   },
   "C00592261": {
     "id": "C00592261",
@@ -10039,8 +10039,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6FL18147",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0e113a48>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32ed7a3f0>"
   },
   "C00592303": {
     "id": "C00592303",
@@ -10050,8 +10050,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 23872,
-    "endorsed_candidates": "#<Set:0x0055ef0e112468>"
+    "totalContributions": 23872,
+    "endorsed_candidates": "#<Set:0x0055d32ed78d20>"
   },
   "C00592337": {
     "id": "C00592337",
@@ -10061,8 +10061,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9523814,
-    "endorsed_candidates": "#<Set:0x0055ef0e111388>"
+    "totalContributions": 9523814,
+    "endorsed_candidates": "#<Set:0x0055d32ed6f810>"
   },
   "C00592618": {
     "id": "C00592618",
@@ -10072,8 +10072,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 85,
-    "endorsed_candidates": "#<Set:0x0055ef0e0fc528>"
+    "totalContributions": 85,
+    "endorsed_candidates": "#<Set:0x0055d32ed5f3e8>"
   },
   "C00594176": {
     "id": "C00594176",
@@ -10083,8 +10083,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 65096,
-    "endorsed_candidates": "#<Set:0x0055ef0e086058>"
+    "totalContributions": 65096,
+    "endorsed_candidates": "#<Set:0x0055d32ecf1f50>"
   },
   "C00596973": {
     "id": "C00596973",
@@ -10094,8 +10094,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1213648,
-    "endorsed_candidates": "#<Set:0x0055ef0dfc90e8>"
+    "totalContributions": 1213648,
+    "endorsed_candidates": "#<Set:0x0055d32ec27480>"
   },
   "C00600825": {
     "id": "C00600825",
@@ -10105,8 +10105,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 227964,
-    "endorsed_candidates": "#<Set:0x0055ef0dea3290>"
+    "totalContributions": 227964,
+    "endorsed_candidates": "#<Set:0x0055d32eb0e0f8>"
   },
   "C00600882": {
     "id": "C00600882",
@@ -10116,8 +10116,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0dea0c70>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32eb03e50>"
   },
   "C00602623": {
     "id": "C00602623",
@@ -10127,8 +10127,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 52247,
-    "endorsed_candidates": "#<Set:0x0055ef0de1bf98>"
+    "totalContributions": 52247,
+    "endorsed_candidates": "#<Set:0x0055d32ea8bbf8>"
   },
   "C00602797": {
     "id": "C00602797",
@@ -10138,8 +10138,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2249,
-    "endorsed_candidates": "#<Set:0x0055ef0de12ec0>"
+    "totalContributions": 2249,
+    "endorsed_candidates": "#<Set:0x0055d32ea7a6a0>"
   },
   "C00602813": {
     "id": "C00602813",
@@ -10149,8 +10149,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2200,
-    "endorsed_candidates": "#<Set:0x0055ef0de12308>"
+    "totalContributions": 2200,
+    "endorsed_candidates": "#<Set:0x0055d32ea79a48>"
   },
   "C00603274": {
     "id": "C00603274",
@@ -10160,8 +10160,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2700,
-    "endorsed_candidates": "#<Set:0x0055ef0ddf43f8>"
+    "totalContributions": 2700,
+    "endorsed_candidates": "#<Set:0x0055d32ea56d90>"
   },
   "C00603621": {
     "id": "C00603621",
@@ -10171,8 +10171,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16356587,
-    "endorsed_candidates": "#<Set:0x0055ef0ddd9828>"
+    "totalContributions": 16356587,
+    "endorsed_candidates": "#<Set:0x0055d32ea44230>"
   },
   "C00604496": {
     "id": "C00604496",
@@ -10182,8 +10182,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 126900,
-    "endorsed_candidates": "#<Set:0x0055ef0dd9ea48>"
+    "totalContributions": 126900,
+    "endorsed_candidates": "#<Set:0x0055d32ea04810>"
   },
   "C00607168": {
     "id": "C00607168",
@@ -10193,8 +10193,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "H6MN03147",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0dcd6930>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e93d698>"
   },
   "C00607341": {
     "id": "C00607341",
@@ -10204,8 +10204,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 824,
-    "endorsed_candidates": "#<Set:0x0055ef0dccc840>"
+    "totalContributions": 824,
+    "endorsed_candidates": "#<Set:0x0055d32e92f048>"
   },
   "C00607697": {
     "id": "C00607697",
@@ -10215,8 +10215,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 76300,
-    "endorsed_candidates": "#<Set:0x0055ef0dcb1108>"
+    "totalContributions": 76300,
+    "endorsed_candidates": "#<Set:0x0055d32e912ab0>"
   },
   "C00607838": {
     "id": "C00607838",
@@ -10226,8 +10226,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "H6GA03113",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0dca8620>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32e909d70>"
   },
   "C00608166": {
     "id": "C00608166",
@@ -10237,8 +10237,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 14214,
-    "endorsed_candidates": "#<Set:0x0055ef0dc8c6c8>"
+    "totalContributions": 14214,
+    "endorsed_candidates": "#<Set:0x0055d32e8f11d0>"
   },
   "C00608489": {
     "id": "C00608489",
@@ -10248,8 +10248,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 23885544,
-    "endorsed_candidates": "#<Set:0x0055ef0dc71cd8>"
+    "totalContributions": 23885544,
+    "endorsed_candidates": "#<Set:0x0055d32e8d6998>"
   },
   "C00609388": {
     "id": "C00609388",
@@ -10259,8 +10259,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3497235,
-    "endorsed_candidates": "#<Set:0x0055ef0dc2b2b0>"
+    "totalContributions": 3497235,
+    "endorsed_candidates": "#<Set:0x0055d32e898878>"
   },
   "C00609511": {
     "id": "C00609511",
@@ -10270,8 +10270,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4881844,
-    "endorsed_candidates": "#<Set:0x0055ef0dc22ac0>"
+    "totalContributions": 4881844,
+    "endorsed_candidates": "#<Set:0x0055d32e8913e8>"
   },
   "C00609602": {
     "id": "C00609602",
@@ -10281,8 +10281,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2532,
-    "endorsed_candidates": "#<Set:0x0055ef0dc1be78>"
+    "totalContributions": 2532,
+    "endorsed_candidates": "#<Set:0x0055d32e88a368>"
   },
   "C00609750": {
     "id": "C00609750",
@@ -10292,8 +10292,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16930,
-    "endorsed_candidates": "#<Set:0x0055ef0dc0f3a8>"
+    "totalContributions": 16930,
+    "endorsed_candidates": "#<Set:0x0055d32e8814e8>"
   },
   "C00610907": {
     "id": "C00610907",
@@ -10303,8 +10303,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 181556,
-    "endorsed_candidates": "#<Set:0x0055ef0dbbcb58>"
+    "totalContributions": 181556,
+    "endorsed_candidates": "#<Set:0x0055d32e830fc0>"
   },
   "C00611020": {
     "id": "C00611020",
@@ -10314,8 +10314,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9008,
-    "endorsed_candidates": "#<Set:0x0055ef0dbabf38>"
+    "totalContributions": 9008,
+    "endorsed_candidates": "#<Set:0x0055d32e828f00>"
   },
   "C00611558": {
     "id": "C00611558",
@@ -10325,8 +10325,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12,
-    "endorsed_candidates": "#<Set:0x0055ef0db8af18>"
+    "totalContributions": 12,
+    "endorsed_candidates": "#<Set:0x0055d32e8002a8>"
   },
   "C00612820": {
     "id": "C00612820",
@@ -10336,8 +10336,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3524722,
-    "endorsed_candidates": "#<Set:0x0055ef0db385d8>"
+    "totalContributions": 3524722,
+    "endorsed_candidates": "#<Set:0x0055d32e7a5f10>"
   },
   "C00612846": {
     "id": "C00612846",
@@ -10347,8 +10347,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2664,
-    "endorsed_candidates": "#<Set:0x0055ef0db33ba0>"
+    "totalContributions": 2664,
+    "endorsed_candidates": "#<Set:0x0055d32e7a5498>"
   },
   "C00613091": {
     "id": "C00613091",
@@ -10358,8 +10358,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 96922,
-    "endorsed_candidates": "#<Set:0x0055ef0db28700>"
+    "totalContributions": 96922,
+    "endorsed_candidates": "#<Set:0x0055d32e7958b8>"
   },
   "C00613364": {
     "id": "C00613364",
@@ -10369,8 +10369,8 @@ const committee = {
     "designation": "D",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0db14c28>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e780e90>"
   },
   "C00613448": {
     "id": "C00613448",
@@ -10380,8 +10380,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 89,
-    "endorsed_candidates": "#<Set:0x0055ef0db0df40>"
+    "totalContributions": 89,
+    "endorsed_candidates": "#<Set:0x0055d32e77a388>"
   },
   "C00613562": {
     "id": "C00613562",
@@ -10391,8 +10391,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2179,
-    "endorsed_candidates": "#<Set:0x0055ef0db05d18>"
+    "totalContributions": 2179,
+    "endorsed_candidates": "#<Set:0x0055d32e7729f8>"
   },
   "C00614040": {
     "id": "C00614040",
@@ -10402,8 +10402,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0daecd40>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32e754390>"
   },
   "C00614156": {
     "id": "C00614156",
@@ -10413,8 +10413,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "C",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0dae5bf8>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32e74c528>"
   },
   "C00614370": {
     "id": "C00614370",
@@ -10424,8 +10424,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 64000,
-    "endorsed_candidates": "#<Set:0x0055ef0dad8138>"
+    "totalContributions": 64000,
+    "endorsed_candidates": "#<Set:0x0055d32e739b80>"
   },
   "C00614388": {
     "id": "C00614388",
@@ -10435,8 +10435,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 29,
-    "endorsed_candidates": "#<Set:0x0055ef0dad3868>"
+    "totalContributions": 29,
+    "endorsed_candidates": "#<Set:0x0055d32e739338>"
   },
   "C00614396": {
     "id": "C00614396",
@@ -10446,8 +10446,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 11488,
-    "endorsed_candidates": "#<Set:0x0055ef0dad3458>"
+    "totalContributions": 11488,
+    "endorsed_candidates": "#<Set:0x0055d32e738b90>"
   },
   "C00614453": {
     "id": "C00614453",
@@ -10457,8 +10457,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 134587,
-    "endorsed_candidates": "#<Set:0x0055ef0dad1900>"
+    "totalContributions": 134587,
+    "endorsed_candidates": "#<Set:0x0055d32e732650>"
   },
   "C00615088": {
     "id": "C00615088",
@@ -10468,8 +10468,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0daa7cb8>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32e707180>"
   },
   "C00615344": {
     "id": "C00615344",
@@ -10479,8 +10479,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 31109,
-    "endorsed_candidates": "#<Set:0x0055ef0da97340>"
+    "totalContributions": 31109,
+    "endorsed_candidates": "#<Set:0x0055d32e6f2960>"
   },
   "C00615815": {
     "id": "C00615815",
@@ -10490,8 +10490,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 13240861,
-    "endorsed_candidates": "#<Set:0x0055ef0da79fc0>"
+    "totalContributions": 13240861,
+    "endorsed_candidates": "#<Set:0x0055d32e6d8420>"
   },
   "C00616169": {
     "id": "C00616169",
@@ -10501,8 +10501,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 737930,
-    "endorsed_candidates": "#<Set:0x0055ef0da5cf10>"
+    "totalContributions": 737930,
+    "endorsed_candidates": "#<Set:0x0055d32e6bd058>"
   },
   "C00616532": {
     "id": "C00616532",
@@ -10512,8 +10512,8 @@ const committee = {
     "designation": "P",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50,
-    "endorsed_candidates": "#<Set:0x0055ef0da40bf8>"
+    "totalContributions": 50,
+    "endorsed_candidates": "#<Set:0x0055d32e6a1240>"
   },
   "C00616789": {
     "id": "C00616789",
@@ -10523,8 +10523,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 19413,
-    "endorsed_candidates": "#<Set:0x0055ef0da27450>"
+    "totalContributions": 19413,
+    "endorsed_candidates": "#<Set:0x0055d32e6920b0>"
   },
   "C00617449": {
     "id": "C00617449",
@@ -10534,8 +10534,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 25957,
-    "endorsed_candidates": "#<Set:0x0055ef0d9efeb0>"
+    "totalContributions": 25957,
+    "endorsed_candidates": "#<Set:0x0055d32e668cd8>"
   },
   "C00617522": {
     "id": "C00617522",
@@ -10545,8 +10545,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6752,
-    "endorsed_candidates": "#<Set:0x0055ef0d9ed0c0>"
+    "totalContributions": 6752,
+    "endorsed_candidates": "#<Set:0x0055d32e6626f8>"
   },
   "C00618843": {
     "id": "C00618843",
@@ -10556,8 +10556,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1117028,
-    "endorsed_candidates": "#<Set:0x0055ef0d98e430>"
+    "totalContributions": 1117028,
+    "endorsed_candidates": "#<Set:0x0055d32e60cfc8>"
   },
   "C00618876": {
     "id": "C00618876",
@@ -10567,8 +10567,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 21223739,
-    "endorsed_candidates": "#<Set:0x0055ef0d98d5a8>"
+    "totalContributions": 21223739,
+    "endorsed_candidates": "#<Set:0x0055d32e603e50>"
   },
   "C00619346": {
     "id": "C00619346",
@@ -10578,8 +10578,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 835,
-    "endorsed_candidates": "#<Set:0x0055ef0d9699a0>"
+    "totalContributions": 835,
+    "endorsed_candidates": "#<Set:0x0055d32e5de790>"
   },
   "C00619577": {
     "id": "C00619577",
@@ -10589,8 +10589,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 31000,
-    "endorsed_candidates": "#<Set:0x0055ef0d956738>"
+    "totalContributions": 31000,
+    "endorsed_candidates": "#<Set:0x0055d32e5ca498>"
   },
   "C00619593": {
     "id": "C00619593",
@@ -10600,8 +10600,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 191220,
-    "endorsed_candidates": "#<Set:0x0055ef0d955b80>"
+    "totalContributions": 191220,
+    "endorsed_candidates": "#<Set:0x0055d32e5c98b8>"
   },
   "C00619635": {
     "id": "C00619635",
@@ -10611,8 +10611,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 406,
-    "endorsed_candidates": "#<Set:0x0055ef0d954258>"
+    "totalContributions": 406,
+    "endorsed_candidates": "#<Set:0x0055d32e5c3c88>"
   },
   "C00619759": {
     "id": "C00619759",
@@ -10622,8 +10622,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20000,
-    "endorsed_candidates": "#<Set:0x0055ef0d946d60>"
+    "totalContributions": 20000,
+    "endorsed_candidates": "#<Set:0x0055d32e5bbab0>"
   },
   "C00619890": {
     "id": "C00619890",
@@ -10633,8 +10633,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5024,
-    "endorsed_candidates": "#<Set:0x0055ef0d93ec50>"
+    "totalContributions": 5024,
+    "endorsed_candidates": "#<Set:0x0055d32e5b3b58>"
   },
   "C00620005": {
     "id": "C00620005",
@@ -10644,8 +10644,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1300,
-    "endorsed_candidates": "#<Set:0x0055ef0d932e78>"
+    "totalContributions": 1300,
+    "endorsed_candidates": "#<Set:0x0055d32e5b03b8>"
   },
   "C00620583": {
     "id": "C00620583",
@@ -10655,8 +10655,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 487779,
-    "endorsed_candidates": "#<Set:0x0055ef0d90cd68>"
+    "totalContributions": 487779,
+    "endorsed_candidates": "#<Set:0x0055d32e580f00>"
   },
   "C00620922": {
     "id": "C00620922",
@@ -10666,8 +10666,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 422875,
-    "endorsed_candidates": "#<Set:0x0055ef0d8f5a50>"
+    "totalContributions": 422875,
+    "endorsed_candidates": "#<Set:0x0055d32e564940>"
   },
   "C00620971": {
     "id": "C00620971",
@@ -10677,8 +10677,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7403430,
-    "endorsed_candidates": "#<Set:0x0055ef0d8efba0>"
+    "totalContributions": 7403430,
+    "endorsed_candidates": "#<Set:0x0055d32e55ef68>"
   },
   "C00621524": {
     "id": "C00621524",
@@ -10688,8 +10688,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 50427,
-    "endorsed_candidates": "#<Set:0x0055ef0d8cf350>"
+    "totalContributions": 50427,
+    "endorsed_candidates": "#<Set:0x0055d32e539c68>"
   },
   "C00621755": {
     "id": "C00621755",
@@ -10699,8 +10699,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1420,
-    "endorsed_candidates": "#<Set:0x0055ef0d8c5008>"
+    "totalContributions": 1420,
+    "endorsed_candidates": "#<Set:0x0055d32e525c90>"
   },
   "C00621995": {
     "id": "C00621995",
@@ -10710,8 +10710,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 125526,
-    "endorsed_candidates": "#<Set:0x0055ef0d8b5798>"
+    "totalContributions": 125526,
+    "endorsed_candidates": "#<Set:0x0055d32e515f98>"
   },
   "C00622043": {
     "id": "C00622043",
@@ -10721,8 +10721,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 36557,
-    "endorsed_candidates": "#<Set:0x0055ef0d8afeb0>"
+    "totalContributions": 36557,
+    "endorsed_candidates": "#<Set:0x0055d32e514a58>"
   },
   "C00622159": {
     "id": "C00622159",
@@ -10732,8 +10732,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4739,
-    "endorsed_candidates": "#<Set:0x0055ef0d8ad2c8>"
+    "totalContributions": 4739,
+    "endorsed_candidates": "#<Set:0x0055d32e50dca8>"
   },
   "C00622381": {
     "id": "C00622381",
@@ -10743,8 +10743,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2000,
-    "endorsed_candidates": "#<Set:0x0055ef0d89db70>"
+    "totalContributions": 2000,
+    "endorsed_candidates": "#<Set:0x0055d32e4fecf8>"
   },
   "C00622415": {
     "id": "C00622415",
@@ -10754,8 +10754,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1002,
-    "endorsed_candidates": "#<Set:0x0055ef0d89d0f8>"
+    "totalContributions": 1002,
+    "endorsed_candidates": "#<Set:0x0055d32e4fd650>"
   },
   "C00622647": {
     "id": "C00622647",
@@ -10765,8 +10765,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 80101,
-    "endorsed_candidates": "#<Set:0x0055ef0d889b98>"
+    "totalContributions": 80101,
+    "endorsed_candidates": "#<Set:0x0055d32e4e9268>"
   },
   "C00622951": {
     "id": "C00622951",
@@ -10776,8 +10776,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12591,
-    "endorsed_candidates": "#<Set:0x0055ef0d878460>"
+    "totalContributions": 12591,
+    "endorsed_candidates": "#<Set:0x0055d32e4ce7b0>"
   },
   "C00623082": {
     "id": "C00623082",
@@ -10787,8 +10787,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 104224,
-    "endorsed_candidates": "#<Set:0x0055ef0d867b88>"
+    "totalContributions": 104224,
+    "endorsed_candidates": "#<Set:0x0055d32e4c1ad8>"
   },
   "C00623231": {
     "id": "C00623231",
@@ -10798,8 +10798,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2254,
-    "endorsed_candidates": "#<Set:0x0055ef0d85f028>"
+    "totalContributions": 2254,
+    "endorsed_candidates": "#<Set:0x0055d32e4b8d20>"
   },
   "C00623256": {
     "id": "C00623256",
@@ -10809,8 +10809,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 185697,
-    "endorsed_candidates": "#<Set:0x0055ef0d85e8a8>"
+    "totalContributions": 185697,
+    "endorsed_candidates": "#<Set:0x0055d32e4b82d0>"
   },
   "C00623355": {
     "id": "C00623355",
@@ -10820,8 +10820,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4135,
-    "endorsed_candidates": "#<Set:0x0055ef0d857418>"
+    "totalContributions": 4135,
+    "endorsed_candidates": "#<Set:0x0055d32e4b1160>"
   },
   "C00623371": {
     "id": "C00623371",
@@ -10831,8 +10831,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 400,
-    "endorsed_candidates": "#<Set:0x0055ef0d8568d8>"
+    "totalContributions": 400,
+    "endorsed_candidates": "#<Set:0x0055d32e4b0580>"
   },
   "C00623413": {
     "id": "C00623413",
@@ -10842,8 +10842,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 642886,
-    "endorsed_candidates": "#<Set:0x0055ef0d855848>"
+    "totalContributions": 642886,
+    "endorsed_candidates": "#<Set:0x0055d32e4a71d8>"
   },
   "C00623439": {
     "id": "C00623439",
@@ -10853,8 +10853,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 29231,
-    "endorsed_candidates": "#<Set:0x0055ef0d854f10>"
+    "totalContributions": 29231,
+    "endorsed_candidates": "#<Set:0x0055d32e4a6670>"
   },
   "C00623470": {
     "id": "C00623470",
@@ -10864,8 +10864,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 69381,
-    "endorsed_candidates": "#<Set:0x0055ef0d84b988>"
+    "totalContributions": 69381,
+    "endorsed_candidates": "#<Set:0x0055d32e4a5400>"
   },
   "C00623538": {
     "id": "C00623538",
@@ -10875,8 +10875,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 44275,
-    "endorsed_candidates": "#<Set:0x0055ef0d849138>"
+    "totalContributions": 44275,
+    "endorsed_candidates": "#<Set:0x0055d32e49f500>"
   },
   "C00623595": {
     "id": "C00623595",
@@ -10886,8 +10886,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 933,
-    "endorsed_candidates": "#<Set:0x0055ef0d843710>"
+    "totalContributions": 933,
+    "endorsed_candidates": "#<Set:0x0055d32e49d818>"
   },
   "C00623603": {
     "id": "C00623603",
@@ -10897,8 +10897,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1388786,
-    "endorsed_candidates": "#<Set:0x0055ef0d843008>"
+    "totalContributions": 1388786,
+    "endorsed_candidates": "#<Set:0x0055d32e49d1d8>"
   },
   "C00623926": {
     "id": "C00623926",
@@ -10908,8 +10908,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 22375,
-    "endorsed_candidates": "#<Set:0x0055ef0d82cfd8>"
+    "totalContributions": 22375,
+    "endorsed_candidates": "#<Set:0x0055d32e483508>"
   },
   "C00624056": {
     "id": "C00624056",
@@ -10919,8 +10919,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 208563,
-    "endorsed_candidates": "#<Set:0x0055ef0d824e28>"
+    "totalContributions": 208563,
+    "endorsed_candidates": "#<Set:0x0055d32e47ad18>"
   },
   "C00624114": {
     "id": "C00624114",
@@ -10930,8 +10930,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8902,
-    "endorsed_candidates": "#<Set:0x0055ef0d81f090>"
+    "totalContributions": 8902,
+    "endorsed_candidates": "#<Set:0x0055d32e478f68>"
   },
   "C00624171": {
     "id": "C00624171",
@@ -10941,8 +10941,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7805,
-    "endorsed_candidates": "#<Set:0x0055ef0d81d088>"
+    "totalContributions": 7805,
+    "endorsed_candidates": "#<Set:0x0055d32e472e60>"
   },
   "C00624429": {
     "id": "C00624429",
@@ -10952,8 +10952,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1637,
-    "endorsed_candidates": "#<Set:0x0055ef0d809510>"
+    "totalContributions": 1637,
+    "endorsed_candidates": "#<Set:0x0055d32e45f298>"
   },
   "C00624692": {
     "id": "C00624692",
@@ -10963,8 +10963,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 43974,
-    "endorsed_candidates": "#<Set:0x0055ef0d7f42c8>"
+    "totalContributions": 43974,
+    "endorsed_candidates": "#<Set:0x0055d32e44f280>"
   },
   "C00624718": {
     "id": "C00624718",
@@ -10974,8 +10974,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5000,
-    "endorsed_candidates": "#<Set:0x0055ef0d7ef8e0>"
+    "totalContributions": 5000,
+    "endorsed_candidates": "#<Set:0x0055d32e44e8f8>"
   },
   "C00624767": {
     "id": "C00624767",
@@ -10985,8 +10985,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2500,
-    "endorsed_candidates": "#<Set:0x0055ef0d7edb58>"
+    "totalContributions": 2500,
+    "endorsed_candidates": "#<Set:0x0055d32e44cdc8>"
   },
   "C00624817": {
     "id": "C00624817",
@@ -10996,8 +10996,8 @@ const committee = {
     "designation": "B",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 558074,
-    "endorsed_candidates": "#<Set:0x0055ef0d7ec668>"
+    "totalContributions": 558074,
+    "endorsed_candidates": "#<Set:0x0055d32e447490>"
   },
   "C00625202": {
     "id": "C00625202",
@@ -11007,8 +11007,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4848,
-    "endorsed_candidates": "#<Set:0x0055ef0d7d00f8>"
+    "totalContributions": 4848,
+    "endorsed_candidates": "#<Set:0x0055d32e42adb8>"
   },
   "C00625228": {
     "id": "C00625228",
@@ -11018,8 +11018,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 217319,
-    "endorsed_candidates": "#<Set:0x0055ef0d7cb530>"
+    "totalContributions": 217319,
+    "endorsed_candidates": "#<Set:0x0055d32e42a598>"
   },
   "C00625285": {
     "id": "C00625285",
@@ -11029,8 +11029,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 181640,
-    "endorsed_candidates": "#<Set:0x0055ef0d7c9cf8>"
+    "totalContributions": 181640,
+    "endorsed_candidates": "#<Set:0x0055d32e428428>"
   },
   "C00625509": {
     "id": "C00625509",
@@ -11040,8 +11040,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 913617,
-    "endorsed_candidates": "#<Set:0x0055ef0d7ba708>"
+    "totalContributions": 913617,
+    "endorsed_candidates": "#<Set:0x0055d32e41cee8>"
   },
   "C00625525": {
     "id": "C00625525",
@@ -11051,8 +11051,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9922027,
-    "endorsed_candidates": "#<Set:0x0055ef0d7b9b50>"
+    "totalContributions": 9922027,
+    "endorsed_candidates": "#<Set:0x0055d32e41c330>"
   },
   "C00625533": {
     "id": "C00625533",
@@ -11062,8 +11062,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 803350,
-    "endorsed_candidates": "#<Set:0x0055ef0d7b9538>"
+    "totalContributions": 803350,
+    "endorsed_candidates": "#<Set:0x0055d32e40fbd0>"
   },
   "C00625566": {
     "id": "C00625566",
@@ -11073,8 +11073,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 235618,
-    "endorsed_candidates": "#<Set:0x0055ef0d7b82a0>"
+    "totalContributions": 235618,
+    "endorsed_candidates": "#<Set:0x0055d32e40ee60>"
   },
   "C00625574": {
     "id": "C00625574",
@@ -11084,8 +11084,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3415286,
-    "endorsed_candidates": "#<Set:0x0055ef0d7b3bd8>"
+    "totalContributions": 3415286,
+    "endorsed_candidates": "#<Set:0x0055d32e40e820>"
   },
   "C00625749": {
     "id": "C00625749",
@@ -11095,8 +11095,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10354,
-    "endorsed_candidates": "#<Set:0x0055ef0d7a67d0>"
+    "totalContributions": 10354,
+    "endorsed_candidates": "#<Set:0x0055d32e4020e8>"
   },
   "C00625871": {
     "id": "C00625871",
@@ -11106,8 +11106,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 1205,
-    "endorsed_candidates": "#<Set:0x0055ef0d79ea30>"
+    "totalContributions": 1205,
+    "endorsed_candidates": "#<Set:0x0055d32e3fa0a0>"
   },
   "C00626028": {
     "id": "C00626028",
@@ -11117,8 +11117,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 0,
-    "endorsed_candidates": "#<Set:0x0055ef0d7953b8>"
+    "totalContributions": 0,
+    "endorsed_candidates": "#<Set:0x0055d32e3f1090>"
   },
   "C00626119": {
     "id": "C00626119",
@@ -11128,8 +11128,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 153999,
-    "endorsed_candidates": "#<Set:0x0055ef0d78e400>"
+    "totalContributions": 153999,
+    "endorsed_candidates": "#<Set:0x0055d32e3e6028>"
   },
   "C00626234": {
     "id": "C00626234",
@@ -11139,8 +11139,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7669,
-    "endorsed_candidates": "#<Set:0x0055ef0d782290>"
+    "totalContributions": 7669,
+    "endorsed_candidates": "#<Set:0x0055d32e3de120>"
   },
   "C00626309": {
     "id": "C00626309",
@@ -11150,8 +11150,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 167,
-    "endorsed_candidates": "#<Set:0x0055ef0d77bc88>"
+    "totalContributions": 167,
+    "endorsed_candidates": "#<Set:0x0055d32e3dc118>"
   },
   "C00626366": {
     "id": "C00626366",
@@ -11161,8 +11161,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 121,
-    "endorsed_candidates": "#<Set:0x0055ef0d77a360>"
+    "totalContributions": 121,
+    "endorsed_candidates": "#<Set:0x0055d32e3d5610>"
   },
   "C00626390": {
     "id": "C00626390",
@@ -11172,8 +11172,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 770617,
-    "endorsed_candidates": "#<Set:0x0055ef0d779758>"
+    "totalContributions": 770617,
+    "endorsed_candidates": "#<Set:0x0055d32e3d4710>"
   },
   "C00626432": {
     "id": "C00626432",
@@ -11183,8 +11183,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 316634,
-    "endorsed_candidates": "#<Set:0x0055ef0d778498>"
+    "totalContributions": 316634,
+    "endorsed_candidates": "#<Set:0x0055d32e3caff8>"
   },
   "C00626580": {
     "id": "C00626580",
@@ -11194,8 +11194,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 843,
-    "endorsed_candidates": "#<Set:0x0055ef0d76b568>"
+    "totalContributions": 843,
+    "endorsed_candidates": "#<Set:0x0055d32e3c26a0>"
   },
   "C00626689": {
     "id": "C00626689",
@@ -11205,8 +11205,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2900,
-    "endorsed_candidates": "#<Set:0x0055ef0d768610>"
+    "totalContributions": 2900,
+    "endorsed_candidates": "#<Set:0x0055d32e3bb8f0>"
   },
   "C00626762": {
     "id": "C00626762",
@@ -11216,8 +11216,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9800,
-    "endorsed_candidates": "#<Set:0x0055ef0d761810>"
+    "totalContributions": 9800,
+    "endorsed_candidates": "#<Set:0x0055d32e3b8e48>"
   },
   "C00626861": {
     "id": "C00626861",
@@ -11227,8 +11227,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9993,
-    "endorsed_candidates": "#<Set:0x0055ef0d755c68>"
+    "totalContributions": 9993,
+    "endorsed_candidates": "#<Set:0x0055d32e3b2110>"
   },
   "C00626887": {
     "id": "C00626887",
@@ -11238,8 +11238,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 867260,
-    "endorsed_candidates": "#<Set:0x0055ef0d755100>"
+    "totalContributions": 867260,
+    "endorsed_candidates": "#<Set:0x0055d32e3b1378>"
   },
   "C00627240": {
     "id": "C00627240",
@@ -11249,8 +11249,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 412,
-    "endorsed_candidates": "#<Set:0x0055ef0d739608>"
+    "totalContributions": 412,
+    "endorsed_candidates": "#<Set:0x0055d32e390600>"
   },
   "C00627356": {
     "id": "C00627356",
@@ -11260,8 +11260,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2558,
-    "endorsed_candidates": "#<Set:0x0055ef0d72d100>"
+    "totalContributions": 2558,
+    "endorsed_candidates": "#<Set:0x0055d32e388b30>"
   },
   "C00627620": {
     "id": "C00627620",
@@ -11271,8 +11271,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 500,
-    "endorsed_candidates": "#<Set:0x0055ef0d71caf8>"
+    "totalContributions": 500,
+    "endorsed_candidates": "#<Set:0x0055d32e373bb8>"
   },
   "C00627703": {
     "id": "C00627703",
@@ -11282,8 +11282,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 486190,
-    "endorsed_candidates": "#<Set:0x0055ef0d715d98>"
+    "totalContributions": 486190,
+    "endorsed_candidates": "#<Set:0x0055d32e370e68>"
   },
   "C00627836": {
     "id": "C00627836",
@@ -11293,8 +11293,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1294,
-    "endorsed_candidates": "#<Set:0x0055ef0d70d760>"
+    "totalContributions": 1294,
+    "endorsed_candidates": "#<Set:0x0055d32e3643c0>"
   },
   "C00627844": {
     "id": "C00627844",
@@ -11304,8 +11304,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3893,
-    "endorsed_candidates": "#<Set:0x0055ef0d70d198>"
+    "totalContributions": 3893,
+    "endorsed_candidates": "#<Set:0x0055d32e35fd48>"
   },
   "C00628115": {
     "id": "C00628115",
@@ -11315,8 +11315,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 43481,
-    "endorsed_candidates": "#<Set:0x0055ef0d6f88b0>"
+    "totalContributions": 43481,
+    "endorsed_candidates": "#<Set:0x0055d32e34b5f0>"
   },
   "C00628255": {
     "id": "C00628255",
@@ -11326,8 +11326,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7204,
-    "endorsed_candidates": "#<Set:0x0055ef0d6f0390>"
+    "totalContributions": 7204,
+    "endorsed_candidates": "#<Set:0x0055d32e343bc0>"
   },
   "C00628388": {
     "id": "C00628388",
@@ -11337,8 +11337,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9250,
-    "endorsed_candidates": "#<Set:0x0055ef0d6dfc98>"
+    "totalContributions": 9250,
+    "endorsed_candidates": "#<Set:0x0055d32e33b740>"
   },
   "C00628396": {
     "id": "C00628396",
@@ -11348,8 +11348,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 15763,
-    "endorsed_candidates": "#<Set:0x0055ef0d6df6d0>"
+    "totalContributions": 15763,
+    "endorsed_candidates": "#<Set:0x0055d32e33b178>"
   },
   "C00628420": {
     "id": "C00628420",
@@ -11359,8 +11359,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 101082,
-    "endorsed_candidates": "#<Set:0x0055ef0d6de640>"
+    "totalContributions": 101082,
+    "endorsed_candidates": "#<Set:0x0055d32e33a408>"
   },
   "C70000104": {
     "id": "C70000104",
@@ -11370,8 +11370,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 70346,
-    "endorsed_candidates": "#<Set:0x0055ef0d58ab90>"
+    "totalContributions": 70346,
+    "endorsed_candidates": "#<Set:0x0055d32e1f95d0>"
   },
   "C70000120": {
     "id": "C70000120",
@@ -11381,8 +11381,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1627869,
-    "endorsed_candidates": "#<Set:0x0055ef0d58a028>"
+    "totalContributions": 1627869,
+    "endorsed_candidates": "#<Set:0x0055d32e1f8e28>"
   },
   "C70000211": {
     "id": "C70000211",
@@ -11392,8 +11392,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1024,
-    "endorsed_candidates": "#<Set:0x0055ef0d588980>"
+    "totalContributions": 1024,
+    "endorsed_candidates": "#<Set:0x0055d32e1f8040>"
   },
   "C70000278": {
     "id": "C70000278",
@@ -11403,8 +11403,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4611,
-    "endorsed_candidates": "#<Set:0x0055ef0d583d90>"
+    "totalContributions": 4611,
+    "endorsed_candidates": "#<Set:0x0055d32e1f35e0>"
   },
   "C70000344": {
     "id": "C70000344",
@@ -11414,8 +11414,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 32086,
-    "endorsed_candidates": "#<Set:0x0055ef0d5827b0>"
+    "totalContributions": 32086,
+    "endorsed_candidates": "#<Set:0x0055d32e1f1f38>"
   },
   "C70000492": {
     "id": "C70000492",
@@ -11425,8 +11425,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1331657,
-    "endorsed_candidates": "#<Set:0x0055ef0d57b2a8>"
+    "totalContributions": 1331657,
+    "endorsed_candidates": "#<Set:0x0055d32e1ea710>"
   },
   "C70000518": {
     "id": "C70000518",
@@ -11436,8 +11436,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4080,
-    "endorsed_candidates": "#<Set:0x0055ef0d57ad30>"
+    "totalContributions": 4080,
+    "endorsed_candidates": "#<Set:0x0055d32e1ea148>"
   },
   "C70000716": {
     "id": "C70000716",
@@ -11447,8 +11447,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 794002,
-    "endorsed_candidates": "#<Set:0x0055ef0d578e18>"
+    "totalContributions": 794002,
+    "endorsed_candidates": "#<Set:0x0055d32e1e8708>"
   },
   "C70001227": {
     "id": "C70001227",
@@ -11458,8 +11458,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 3403,
-    "endorsed_candidates": "#<Set:0x0055ef0d55f300>"
+    "totalContributions": 3403,
+    "endorsed_candidates": "#<Set:0x0055d32e1cf7f8>"
   },
   "C70001318": {
     "id": "C70001318",
@@ -11469,8 +11469,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 12867,
-    "endorsed_candidates": "#<Set:0x0055ef0d55ce20>"
+    "totalContributions": 12867,
+    "endorsed_candidates": "#<Set:0x0055d32e1cc9e0>"
   },
   "C70001342": {
     "id": "C70001342",
@@ -11480,8 +11480,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 18940,
-    "endorsed_candidates": "#<Set:0x0055ef0d55c538>"
+    "totalContributions": 18940,
+    "endorsed_candidates": "#<Set:0x0055d32e1cc0f8>"
   },
   "C70001722": {
     "id": "C70001722",
@@ -11491,8 +11491,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 7421,
-    "endorsed_candidates": "#<Set:0x0055ef0d544780>"
+    "totalContributions": 7421,
+    "endorsed_candidates": "#<Set:0x0055d32e1abda8>"
   },
   "C70002118": {
     "id": "C70002118",
@@ -11502,8 +11502,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 10245,
-    "endorsed_candidates": "#<Set:0x0055ef0d529548>"
+    "totalContributions": 10245,
+    "endorsed_candidates": "#<Set:0x0055d32e1988c0>"
   },
   "C70002472": {
     "id": "C70002472",
@@ -11513,8 +11513,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4815894,
-    "endorsed_candidates": "#<Set:0x0055ef0d50f328>"
+    "totalContributions": 4815894,
+    "endorsed_candidates": "#<Set:0x0055d32e17e100>"
   },
   "C70002761": {
     "id": "C70002761",
@@ -11524,8 +11524,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 511516,
-    "endorsed_candidates": "#<Set:0x0055ef0d4ff4c8>"
+    "totalContributions": 511516,
+    "endorsed_candidates": "#<Set:0x0055d32e16b280>"
   },
   "C70003124": {
     "id": "C70003124",
@@ -11535,8 +11535,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 447471,
-    "endorsed_candidates": "#<Set:0x0055ef0d4e8a98>"
+    "totalContributions": 447471,
+    "endorsed_candidates": "#<Set:0x0055d32e158f90>"
   },
   "C70003199": {
     "id": "C70003199",
@@ -11546,8 +11546,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 78961,
-    "endorsed_candidates": "#<Set:0x0055ef0d4e2670>"
+    "totalContributions": 78961,
+    "endorsed_candidates": "#<Set:0x0055d32e152fc8>"
   },
   "C70003223": {
     "id": "C70003223",
@@ -11557,8 +11557,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 136785,
-    "endorsed_candidates": "#<Set:0x0055ef0d4e1c48>"
+    "totalContributions": 136785,
+    "endorsed_candidates": "#<Set:0x0055d32e152258>"
   },
   "C70003298": {
     "id": "C70003298",
@@ -11568,8 +11568,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 19630,
-    "endorsed_candidates": "#<Set:0x0055ef0d4db550>"
+    "totalContributions": 19630,
+    "endorsed_candidates": "#<Set:0x0055d32e150408>"
   },
   "C70003322": {
     "id": "C70003322",
@@ -11579,8 +11579,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 45564,
-    "endorsed_candidates": "#<Set:0x0055ef0d4da4c0>"
+    "totalContributions": 45564,
+    "endorsed_candidates": "#<Set:0x0055d32e147308>"
   },
   "C70003645": {
     "id": "C70003645",
@@ -11590,8 +11590,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 236854,
-    "endorsed_candidates": "#<Set:0x0055ef0d4bef18>"
+    "totalContributions": 236854,
+    "endorsed_candidates": "#<Set:0x0055d32e135630>"
   },
   "C70003959": {
     "id": "C70003959",
@@ -11601,8 +11601,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 31586,
-    "endorsed_candidates": "#<Set:0x0055ef0d4a8b78>"
+    "totalContributions": 31586,
+    "endorsed_candidates": "#<Set:0x0055d32e11b488>"
   },
   "C70004148": {
     "id": "C70004148",
@@ -11612,8 +11612,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 299330,
-    "endorsed_candidates": "#<Set:0x0055ef0d49aca8>"
+    "totalContributions": 299330,
+    "endorsed_candidates": "#<Set:0x0055d32e110808>"
   },
   "C70004171": {
     "id": "C70004171",
@@ -11623,8 +11623,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 16081,
-    "endorsed_candidates": "#<Set:0x0055ef0d499c68>"
+    "totalContributions": 16081,
+    "endorsed_candidates": "#<Set:0x0055d32e10b358>"
   },
   "C70004262": {
     "id": "C70004262",
@@ -11634,8 +11634,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 214345,
-    "endorsed_candidates": "#<Set:0x0055ef0d48f1a0>"
+    "totalContributions": 214345,
+    "endorsed_candidates": "#<Set:0x0055d32e108388>"
   },
   "C70004296": {
     "id": "C70004296",
@@ -11645,8 +11645,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 187,
-    "endorsed_candidates": "#<Set:0x0055ef0d48e480>"
+    "totalContributions": 187,
+    "endorsed_candidates": "#<Set:0x0055d32e0ff878>"
   },
   "C70004361": {
     "id": "C70004361",
@@ -11656,8 +11656,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 454697,
-    "endorsed_candidates": "#<Set:0x0055ef0d48c220>"
+    "totalContributions": 454697,
+    "endorsed_candidates": "#<Set:0x0055d32e0fda28>"
   },
   "C70004403": {
     "id": "C70004403",
@@ -11667,8 +11667,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5883,
-    "endorsed_candidates": "#<Set:0x0055ef0d486c08>"
+    "totalContributions": 5883,
+    "endorsed_candidates": "#<Set:0x0055d32e0fc880>"
   },
   "C70004452": {
     "id": "C70004452",
@@ -11678,8 +11678,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 20985,
-    "endorsed_candidates": "#<Set:0x0055ef0d485650>"
+    "totalContributions": 20985,
+    "endorsed_candidates": "#<Set:0x0055d32e0f6908>"
   },
   "C70004569": {
     "id": "C70004569",
@@ -11689,8 +11689,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 78390,
-    "endorsed_candidates": "#<Set:0x0055ef0d47d2c0>"
+    "totalContributions": 78390,
+    "endorsed_candidates": "#<Set:0x0055d32e0eeb18>"
   },
   "C70004650": {
     "id": "C70004650",
@@ -11700,8 +11700,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 160769,
-    "endorsed_candidates": "#<Set:0x0055ef0d47ab10>"
+    "totalContributions": 160769,
+    "endorsed_candidates": "#<Set:0x0055d32e0ec250>"
   },
   "C70004940": {
     "id": "C70004940",
@@ -11711,8 +11711,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1124,
-    "endorsed_candidates": "#<Set:0x0055ef0d46a620>"
+    "totalContributions": 1124,
+    "endorsed_candidates": "#<Set:0x0055d32e0d3250>"
   },
   "C70005285": {
     "id": "C70005285",
@@ -11722,8 +11722,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 178219,
-    "endorsed_candidates": "#<Set:0x0055ef0d459708>"
+    "totalContributions": 178219,
+    "endorsed_candidates": "#<Set:0x0055d32e0c0e48>"
   },
   "C70005392": {
     "id": "C70005392",
@@ -11733,8 +11733,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 29418,
-    "endorsed_candidates": "#<Set:0x0055ef0d44e060>"
+    "totalContributions": 29418,
+    "endorsed_candidates": "#<Set:0x0055d32e0b9530>"
   },
   "C70005400": {
     "id": "C70005400",
@@ -11744,8 +11744,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5783,
-    "endorsed_candidates": "#<Set:0x0055ef0d44d7a0>"
+    "totalContributions": 5783,
+    "endorsed_candidates": "#<Set:0x0055d32e0b8fe0>"
   },
   "C70005418": {
     "id": "C70005418",
@@ -11755,8 +11755,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 1992,
-    "endorsed_candidates": "#<Set:0x0055ef0d44cff8>"
+    "totalContributions": 1992,
+    "endorsed_candidates": "#<Set:0x0055d32e0b8888>"
   },
   "C70005871": {
     "id": "C70005871",
@@ -11766,8 +11766,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 3735,
-    "endorsed_candidates": "#<Set:0x0055ef0d42b128>"
+    "totalContributions": 3735,
+    "endorsed_candidates": "#<Set:0x0055d32e095270>"
   },
   "C70005889": {
     "id": "C70005889",
@@ -11777,8 +11777,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4215,
-    "endorsed_candidates": "#<Set:0x0055ef0d42ab38>"
+    "totalContributions": 4215,
+    "endorsed_candidates": "#<Set:0x0055d32e0949d8>"
   },
   "C70005897": {
     "id": "C70005897",
@@ -11788,8 +11788,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 80259,
-    "endorsed_candidates": "#<Set:0x0055ef0d42a610>"
+    "totalContributions": 80259,
+    "endorsed_candidates": "#<Set:0x0055d32e0941e0>"
   },
   "C70005905": {
     "id": "C70005905",
@@ -11799,8 +11799,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 251269,
-    "endorsed_candidates": "#<Set:0x0055ef0d42a188>"
+    "totalContributions": 251269,
+    "endorsed_candidates": "#<Set:0x0055d32e08fa50>"
   },
   "C70005913": {
     "id": "C70005913",
@@ -11810,8 +11810,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 314196,
-    "endorsed_candidates": "#<Set:0x0055ef0d429c88>"
+    "totalContributions": 314196,
+    "endorsed_candidates": "#<Set:0x0055d32e08f4d8>"
   },
   "C70005954": {
     "id": "C70005954",
@@ -11821,8 +11821,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 13864,
-    "endorsed_candidates": "#<Set:0x0055ef0d428ba8>"
+    "totalContributions": 13864,
+    "endorsed_candidates": "#<Set:0x0055d32e08df98>"
   },
   "C70005962": {
     "id": "C70005962",
@@ -11832,8 +11832,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 115767,
-    "endorsed_candidates": "#<Set:0x0055ef0d428770>"
+    "totalContributions": 115767,
+    "endorsed_candidates": "#<Set:0x0055d32e08d8e0>"
   },
   "C70006010": {
     "id": "C70006010",
@@ -11843,8 +11843,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5953,
-    "endorsed_candidates": "#<Set:0x0055ef0d422de8>"
+    "totalContributions": 5953,
+    "endorsed_candidates": "#<Set:0x0055d32e087e68>"
   },
   "C70006028": {
     "id": "C70006028",
@@ -11854,8 +11854,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 848,
-    "endorsed_candidates": "#<Set:0x0055ef0d4224b0>"
+    "totalContributions": 848,
+    "endorsed_candidates": "#<Set:0x0055d32e087850>"
   },
   "C70006036": {
     "id": "C70006036",
@@ -11865,8 +11865,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 4418,
-    "endorsed_candidates": "#<Set:0x0055ef0d421ee8>"
+    "totalContributions": 4418,
+    "endorsed_candidates": "#<Set:0x0055d32e0872d8>"
   },
   "C70006069": {
     "id": "C70006069",
@@ -11876,8 +11876,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5708,
-    "endorsed_candidates": "#<Set:0x0055ef0d420ea8>"
+    "totalContributions": 5708,
+    "endorsed_candidates": "#<Set:0x0055d32e086478>"
   },
   "C70006077": {
     "id": "C70006077",
@@ -11887,8 +11887,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 27422,
-    "endorsed_candidates": "#<Set:0x0055ef0d420840>"
+    "totalContributions": 27422,
+    "endorsed_candidates": "#<Set:0x0055d32e085ff0>"
   },
   "C70006085": {
     "id": "C70006085",
@@ -11898,8 +11898,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "L",
     "candidateId": "",
-    "total_contributions": 5105,
-    "endorsed_candidates": "#<Set:0x0055ef0d41bed0>"
+    "totalContributions": 5105,
+    "endorsed_candidates": "#<Set:0x0055d32e085b40>"
   },
   "C90004185": {
     "id": "C90004185",
@@ -11909,8 +11909,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 181211,
-    "endorsed_candidates": "#<Set:0x0055ef0d3ffc58>"
+    "totalContributions": 181211,
+    "endorsed_candidates": "#<Set:0x0055d32e06aca0>"
   },
   "C90005471": {
     "id": "C90005471",
@@ -11920,8 +11920,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 311667,
-    "endorsed_candidates": "#<Set:0x0055ef0d3d8400>"
+    "totalContributions": 311667,
+    "endorsed_candidates": "#<Set:0x0055d32e03ed08>"
   },
   "C90005786": {
     "id": "C90005786",
@@ -11931,8 +11931,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 170581,
-    "endorsed_candidates": "#<Set:0x0055ef0d3c3488>"
+    "totalContributions": 170581,
+    "endorsed_candidates": "#<Set:0x0055d32e02ea48>"
   },
   "C90006149": {
     "id": "C90006149",
@@ -11942,8 +11942,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 24417,
-    "endorsed_candidates": "#<Set:0x0055ef0d3ad8e0>"
+    "totalContributions": 24417,
+    "endorsed_candidates": "#<Set:0x0055d32e01db30>"
   },
   "C90006701": {
     "id": "C90006701",
@@ -11953,8 +11953,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 251,
-    "endorsed_candidates": "#<Set:0x0055ef0d38a7f0>"
+    "totalContributions": 251,
+    "endorsed_candidates": "#<Set:0x0055d32dffbb98>"
   },
   "C90007543": {
     "id": "C90007543",
@@ -11964,8 +11964,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5482,
-    "endorsed_candidates": "#<Set:0x0055ef0d357a08>"
+    "totalContributions": 5482,
+    "endorsed_candidates": "#<Set:0x0055d32dfc52c8>"
   },
   "C90007998": {
     "id": "C90007998",
@@ -11975,8 +11975,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7086,
-    "endorsed_candidates": "#<Set:0x0055ef0d33b718>"
+    "totalContributions": 7086,
+    "endorsed_candidates": "#<Set:0x0055d32dfa7e58>"
   },
   "C90008293": {
     "id": "C90008293",
@@ -11986,8 +11986,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1577,
-    "endorsed_candidates": "#<Set:0x0055ef0d3295e0>"
+    "totalContributions": 1577,
+    "endorsed_candidates": "#<Set:0x0055d32df92f08>"
   },
   "C90009317": {
     "id": "C90009317",
@@ -11997,8 +11997,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 78266,
-    "endorsed_candidates": "#<Set:0x0055ef0d2e2bb8>"
+    "totalContributions": 78266,
+    "endorsed_candidates": "#<Set:0x0055d32df50d88>"
   },
   "C90009762": {
     "id": "C90009762",
@@ -12008,8 +12008,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 43113,
-    "endorsed_candidates": "#<Set:0x0055ef0d2ca298>"
+    "totalContributions": 43113,
+    "endorsed_candidates": "#<Set:0x0055d32df34228>"
   },
   "C90009945": {
     "id": "C90009945",
@@ -12019,8 +12019,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3276709,
-    "endorsed_candidates": "#<Set:0x0055ef0d2c00e0>"
+    "totalContributions": 3276709,
+    "endorsed_candidates": "#<Set:0x0055d32df263a8>"
   },
   "C90010570": {
     "id": "C90010570",
@@ -12030,8 +12030,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1359,
-    "endorsed_candidates": "#<Set:0x0055ef0d2955e8>"
+    "totalContributions": 1359,
+    "endorsed_candidates": "#<Set:0x0055d32def9b00>"
   },
   "C90010588": {
     "id": "C90010588",
@@ -12041,8 +12041,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7898,
-    "endorsed_candidates": "#<Set:0x0055ef0d295138>"
+    "totalContributions": 7898,
+    "endorsed_candidates": "#<Set:0x0055d32def9510>"
   },
   "C90010646": {
     "id": "C90010646",
@@ -12052,8 +12052,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 149137,
-    "endorsed_candidates": "#<Set:0x0055ef0d28f440>"
+    "totalContributions": 149137,
+    "endorsed_candidates": "#<Set:0x0055d32def34f8>"
   },
   "C90011156": {
     "id": "C90011156",
@@ -12063,8 +12063,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3070847,
-    "endorsed_candidates": "#<Set:0x0055ef0d274168>"
+    "totalContributions": 3070847,
+    "endorsed_candidates": "#<Set:0x0055d32decf170>"
   },
   "C90011172": {
     "id": "C90011172",
@@ -12074,8 +12074,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 591679,
-    "endorsed_candidates": "#<Set:0x0055ef0d26b388>"
+    "totalContributions": 591679,
+    "endorsed_candidates": "#<Set:0x0055d32dece108>"
   },
   "C90011313": {
     "id": "C90011313",
@@ -12085,8 +12085,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 441512,
-    "endorsed_candidates": "#<Set:0x0055ef0d262cd8>"
+    "totalContributions": 441512,
+    "endorsed_candidates": "#<Set:0x0055d32dec1520>"
   },
   "C90011412": {
     "id": "C90011412",
@@ -12096,8 +12096,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2513,
-    "endorsed_candidates": "#<Set:0x0055ef0d260618>"
+    "totalContributions": 2513,
+    "endorsed_candidates": "#<Set:0x0055d32debafe0>"
   },
   "C90011438": {
     "id": "C90011438",
@@ -12107,8 +12107,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3866,
-    "endorsed_candidates": "#<Set:0x0055ef0d25bb68>"
+    "totalContributions": 3866,
+    "endorsed_candidates": "#<Set:0x0055d32deba0b8>"
   },
   "C90011677": {
     "id": "C90011677",
@@ -12118,8 +12118,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9810928,
-    "endorsed_candidates": "#<Set:0x0055ef0d251780>"
+    "totalContributions": 9810928,
+    "endorsed_candidates": "#<Set:0x0055d32deabcc0>"
   },
   "C90011693": {
     "id": "C90011693",
@@ -12129,8 +12129,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 28819,
-    "endorsed_candidates": "#<Set:0x0055ef0d250ce0>"
+    "totalContributions": 28819,
+    "endorsed_candidates": "#<Set:0x0055d32deab428>"
   },
   "C90011800": {
     "id": "C90011800",
@@ -12140,8 +12140,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 516580,
-    "endorsed_candidates": "#<Set:0x0055ef0d248c70>"
+    "totalContributions": 516580,
+    "endorsed_candidates": "#<Set:0x0055d32dea36d8>"
   },
   "C90011875": {
     "id": "C90011875",
@@ -12151,8 +12151,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2303,
-    "endorsed_candidates": "#<Set:0x0055ef0d242cf8>"
+    "totalContributions": 2303,
+    "endorsed_candidates": "#<Set:0x0055d32dea1478>"
   },
   "C90012071": {
     "id": "C90012071",
@@ -12162,8 +12162,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 408377,
-    "endorsed_candidates": "#<Set:0x0055ef0d2356c0>"
+    "totalContributions": 408377,
+    "endorsed_candidates": "#<Set:0x0055d32de8f480>"
   },
   "C90012162": {
     "id": "C90012162",
@@ -12173,8 +12173,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 750636,
-    "endorsed_candidates": "#<Set:0x0055ef0d22dce0>"
+    "totalContributions": 750636,
+    "endorsed_candidates": "#<Set:0x0055d32de8cde8>"
   },
   "C90012626": {
     "id": "C90012626",
@@ -12184,8 +12184,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 38319,
-    "endorsed_candidates": "#<Set:0x0055ef0d20b7d0>"
+    "totalContributions": 38319,
+    "endorsed_candidates": "#<Set:0x0055d32de69f00>"
   },
   "C90012691": {
     "id": "C90012691",
@@ -12195,8 +12195,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 438,
-    "endorsed_candidates": "#<Set:0x0055ef0d208f80>"
+    "totalContributions": 438,
+    "endorsed_candidates": "#<Set:0x0055d32de5fcd0>"
   },
   "C90012949": {
     "id": "C90012949",
@@ -12206,8 +12206,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6158,
-    "endorsed_candidates": "#<Set:0x0055ef0d1f9a08>"
+    "totalContributions": 6158,
+    "endorsed_candidates": "#<Set:0x0055d32de54830>"
   },
   "C90013244": {
     "id": "C90013244",
@@ -12217,8 +12217,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6800,
-    "endorsed_candidates": "#<Set:0x0055ef0d1df450>"
+    "totalContributions": 6800,
+    "endorsed_candidates": "#<Set:0x0055d32de445c0>"
   },
   "C90013301": {
     "id": "C90013301",
@@ -12228,8 +12228,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 21086632,
-    "endorsed_candidates": "#<Set:0x0055ef0d1dd588>"
+    "totalContributions": 21086632,
+    "endorsed_candidates": "#<Set:0x0055d32de3a700>"
   },
   "C90013616": {
     "id": "C90013616",
@@ -12239,8 +12239,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3910,
-    "endorsed_candidates": "#<Set:0x0055ef0d1c38e0>"
+    "totalContributions": 3910,
+    "endorsed_candidates": "#<Set:0x0055d32de28d20>"
   },
   "C90013897": {
     "id": "C90013897",
@@ -12250,8 +12250,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20882,
-    "endorsed_candidates": "#<Set:0x0055ef0d1b2b58>"
+    "totalContributions": 20882,
+    "endorsed_candidates": "#<Set:0x0055d32de14410>"
   },
   "C90014085": {
     "id": "C90014085",
@@ -12261,8 +12261,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 51500,
-    "endorsed_candidates": "#<Set:0x0055ef0d1a4aa8>"
+    "totalContributions": 51500,
+    "endorsed_candidates": "#<Set:0x0055d32de06298>"
   },
   "C90014119": {
     "id": "C90014119",
@@ -12272,8 +12272,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8685,
-    "endorsed_candidates": "#<Set:0x0055ef0d19fb70>"
+    "totalContributions": 8685,
+    "endorsed_candidates": "#<Set:0x0055d32de052a8>"
   },
   "C90014176": {
     "id": "C90014176",
@@ -12283,8 +12283,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 274468,
-    "endorsed_candidates": "#<Set:0x0055ef0d19e1d0>"
+    "totalContributions": 274468,
+    "endorsed_candidates": "#<Set:0x0055d32ddff588>"
   },
   "C90014242": {
     "id": "C90014242",
@@ -12294,8 +12294,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1835,
-    "endorsed_candidates": "#<Set:0x0055ef0d197bc8>"
+    "totalContributions": 1835,
+    "endorsed_candidates": "#<Set:0x0055d32ddfd850>"
   },
   "C90014788": {
     "id": "C90014788",
@@ -12305,8 +12305,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d173390>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32dddd078>"
   },
   "C90014895": {
     "id": "C90014895",
@@ -12316,8 +12316,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 132936,
-    "endorsed_candidates": "#<Set:0x0055ef0d16b2a8>"
+    "totalContributions": 132936,
+    "endorsed_candidates": "#<Set:0x0055d32ddd18e0>"
   },
   "C90014978": {
     "id": "C90014978",
@@ -12327,8 +12327,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12463,
-    "endorsed_candidates": "#<Set:0x0055ef0d169728>"
+    "totalContributions": 12463,
+    "endorsed_candidates": "#<Set:0x0055d32ddcb3f0>"
   },
   "C90015025": {
     "id": "C90015025",
@@ -12338,8 +12338,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 61837,
-    "endorsed_candidates": "#<Set:0x0055ef0d1680a8>"
+    "totalContributions": 61837,
+    "endorsed_candidates": "#<Set:0x0055d32ddc9e10>"
   },
   "C90015140": {
     "id": "C90015140",
@@ -12349,8 +12349,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 371636,
-    "endorsed_candidates": "#<Set:0x0055ef0d1600d8>"
+    "totalContributions": 371636,
+    "endorsed_candidates": "#<Set:0x0055d32ddc1940>"
   },
   "C90015181": {
     "id": "C90015181",
@@ -12360,8 +12360,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 173750,
-    "endorsed_candidates": "#<Set:0x0055ef0d156c68>"
+    "totalContributions": 173750,
+    "endorsed_candidates": "#<Set:0x0055d32ddbbce8>"
   },
   "C90015215": {
     "id": "C90015215",
@@ -12371,8 +12371,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 191436,
-    "endorsed_candidates": "#<Set:0x0055ef0d155bd8>"
+    "totalContributions": 191436,
+    "endorsed_candidates": "#<Set:0x0055d32ddbad98>"
   },
   "C90015322": {
     "id": "C90015322",
@@ -12382,8 +12382,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 111978,
-    "endorsed_candidates": "#<Set:0x0055ef0d14e590>"
+    "totalContributions": 111978,
+    "endorsed_candidates": "#<Set:0x0055d32ddaf948>"
   },
   "C90015413": {
     "id": "C90015413",
@@ -12393,8 +12393,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 87266,
-    "endorsed_candidates": "#<Set:0x0055ef0d147bf0>"
+    "totalContributions": 87266,
+    "endorsed_candidates": "#<Set:0x0055d32ddacd60>"
   },
   "C90015439": {
     "id": "C90015439",
@@ -12404,8 +12404,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 392648,
-    "endorsed_candidates": "#<Set:0x0055ef0d147268>"
+    "totalContributions": 392648,
+    "endorsed_candidates": "#<Set:0x0055d32ddac428>"
   },
   "C90015447": {
     "id": "C90015447",
@@ -12415,8 +12415,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 9178,
-    "endorsed_candidates": "#<Set:0x0055ef0d146c28>"
+    "totalContributions": 9178,
+    "endorsed_candidates": "#<Set:0x0055d32dda7e28>"
   },
   "C90015454": {
     "id": "C90015454",
@@ -12426,8 +12426,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2978,
-    "endorsed_candidates": "#<Set:0x0055ef0d146728>"
+    "totalContributions": 2978,
+    "endorsed_candidates": "#<Set:0x0055d32dda7770>"
   },
   "C90015512": {
     "id": "C90015512",
@@ -12437,8 +12437,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1171,
-    "endorsed_candidates": "#<Set:0x0055ef0d145418>"
+    "totalContributions": 1171,
+    "endorsed_candidates": "#<Set:0x0055d32dda5f38>"
   },
   "C90015546": {
     "id": "C90015546",
@@ -12448,8 +12448,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1113,
-    "endorsed_candidates": "#<Set:0x0055ef0d144950>"
+    "totalContributions": 1113,
+    "endorsed_candidates": "#<Set:0x0055d32dda5358>"
   },
   "C90015553": {
     "id": "C90015553",
@@ -12459,8 +12459,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 582,
-    "endorsed_candidates": "#<Set:0x0055ef0d144478>"
+    "totalContributions": 582,
+    "endorsed_candidates": "#<Set:0x0055d32dda4fc0>"
   },
   "C90015561": {
     "id": "C90015561",
@@ -12470,8 +12470,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2348,
-    "endorsed_candidates": "#<Set:0x0055ef0d13bcb0>"
+    "totalContributions": 2348,
+    "endorsed_candidates": "#<Set:0x0055d32dda4b10>"
   },
   "C90015579": {
     "id": "C90015579",
@@ -12481,8 +12481,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 6465,
-    "endorsed_candidates": "#<Set:0x0055ef0d13b670>"
+    "totalContributions": 6465,
+    "endorsed_candidates": "#<Set:0x0055d32dda4688>"
   },
   "C90015587": {
     "id": "C90015587",
@@ -12492,8 +12492,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 758,
-    "endorsed_candidates": "#<Set:0x0055ef0d13b030>"
+    "totalContributions": 758,
+    "endorsed_candidates": "#<Set:0x0055d32dda41d8>"
   },
   "C90015595": {
     "id": "C90015595",
@@ -12503,8 +12503,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1038,
-    "endorsed_candidates": "#<Set:0x0055ef0d13a8b0>"
+    "totalContributions": 1038,
+    "endorsed_candidates": "#<Set:0x0055d32dd9bd80>"
   },
   "C90015603": {
     "id": "C90015603",
@@ -12514,8 +12514,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 16283,
-    "endorsed_candidates": "#<Set:0x0055ef0d13a400>"
+    "totalContributions": 16283,
+    "endorsed_candidates": "#<Set:0x0055d32dd9b858>"
   },
   "C90015637": {
     "id": "C90015637",
@@ -12525,8 +12525,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2051,
-    "endorsed_candidates": "#<Set:0x0055ef0d139050>"
+    "totalContributions": 2051,
+    "endorsed_candidates": "#<Set:0x0055d32dd9a458>"
   },
   "C90015652": {
     "id": "C90015652",
@@ -12536,8 +12536,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 367,
-    "endorsed_candidates": "#<Set:0x0055ef0d138bc8>"
+    "totalContributions": 367,
+    "endorsed_candidates": "#<Set:0x0055d32dd99a30>"
   },
   "C90015660": {
     "id": "C90015660",
@@ -12547,8 +12547,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 63627,
-    "endorsed_candidates": "#<Set:0x0055ef0d138718>"
+    "totalContributions": 63627,
+    "endorsed_candidates": "#<Set:0x0055d32dd99148>"
   },
   "C90015678": {
     "id": "C90015678",
@@ -12558,8 +12558,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 297664,
-    "endorsed_candidates": "#<Set:0x0055ef0d1381f0>"
+    "totalContributions": 297664,
+    "endorsed_candidates": "#<Set:0x0055d32dd98748>"
   },
   "C90015686": {
     "id": "C90015686",
@@ -12569,8 +12569,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 868,
-    "endorsed_candidates": "#<Set:0x0055ef0d133da8>"
+    "totalContributions": 868,
+    "endorsed_candidates": "#<Set:0x0055d32dd98248>"
   },
   "C90015702": {
     "id": "C90015702",
@@ -12580,8 +12580,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 54675,
-    "endorsed_candidates": "#<Set:0x0055ef0d133380>"
+    "totalContributions": 54675,
+    "endorsed_candidates": "#<Set:0x0055d32dd93798>"
   },
   "C90015710": {
     "id": "C90015710",
@@ -12591,8 +12591,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 288439,
-    "endorsed_candidates": "#<Set:0x0055ef0d132e58>"
+    "totalContributions": 288439,
+    "endorsed_candidates": "#<Set:0x0055d32dd931d0>"
   },
   "C90015744": {
     "id": "C90015744",
@@ -12602,8 +12602,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 330,
-    "endorsed_candidates": "#<Set:0x0055ef0d132340>"
+    "totalContributions": 330,
+    "endorsed_candidates": "#<Set:0x0055d32dd92230>"
   },
   "C90015769": {
     "id": "C90015769",
@@ -12613,8 +12613,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 529,
-    "endorsed_candidates": "#<Set:0x0055ef0d1319b8>"
+    "totalContributions": 529,
+    "endorsed_candidates": "#<Set:0x0055d32dd916f0>"
   },
   "C90015777": {
     "id": "C90015777",
@@ -12624,8 +12624,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 914,
-    "endorsed_candidates": "#<Set:0x0055ef0d131378>"
+    "totalContributions": 914,
+    "endorsed_candidates": "#<Set:0x0055d32dd91150>"
   },
   "C90015785": {
     "id": "C90015785",
@@ -12635,8 +12635,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 14534,
-    "endorsed_candidates": "#<Set:0x0055ef0d130ae0>"
+    "totalContributions": 14534,
+    "endorsed_candidates": "#<Set:0x0055d32dd90c28>"
   },
   "C90015793": {
     "id": "C90015793",
@@ -12646,8 +12646,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 739,
-    "endorsed_candidates": "#<Set:0x0055ef0d130298>"
+    "totalContributions": 739,
+    "endorsed_candidates": "#<Set:0x0055d32dd907c8>"
   },
   "C90015819": {
     "id": "C90015819",
@@ -12657,8 +12657,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1000,
-    "endorsed_candidates": "#<Set:0x0055ef0d12b9a0>"
+    "totalContributions": 1000,
+    "endorsed_candidates": "#<Set:0x0055d32dd8bf20>"
   },
   "C90015827": {
     "id": "C90015827",
@@ -12668,8 +12668,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2096,
-    "endorsed_candidates": "#<Set:0x0055ef0d12b248>"
+    "totalContributions": 2096,
+    "endorsed_candidates": "#<Set:0x0055d32dd8b868>"
   },
   "C90015835": {
     "id": "C90015835",
@@ -12679,8 +12679,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 816,
-    "endorsed_candidates": "#<Set:0x0055ef0d12ab90>"
+    "totalContributions": 816,
+    "endorsed_candidates": "#<Set:0x0055d32dd8af30>"
   },
   "C90015868": {
     "id": "C90015868",
@@ -12690,8 +12690,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1069,
-    "endorsed_candidates": "#<Set:0x0055ef0d129808>"
+    "totalContributions": 1069,
+    "endorsed_candidates": "#<Set:0x0055d32dd89b30>"
   },
   "C90015876": {
     "id": "C90015876",
@@ -12701,8 +12701,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20520,
-    "endorsed_candidates": "#<Set:0x0055ef0d1291a0>"
+    "totalContributions": 20520,
+    "endorsed_candidates": "#<Set:0x0055d32dd896f8>"
   },
   "C90015884": {
     "id": "C90015884",
@@ -12712,8 +12712,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 683,
-    "endorsed_candidates": "#<Set:0x0055ef0d128cc8>"
+    "totalContributions": 683,
+    "endorsed_candidates": "#<Set:0x0055d32dd89270>"
   },
   "C90015892": {
     "id": "C90015892",
@@ -12723,8 +12723,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 334,
-    "endorsed_candidates": "#<Set:0x0055ef0d1287a0>"
+    "totalContributions": 334,
+    "endorsed_candidates": "#<Set:0x0055d32dd88cf8>"
   },
   "C90015934": {
     "id": "C90015934",
@@ -12734,8 +12734,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 415,
-    "endorsed_candidates": "#<Set:0x0055ef0d1233e0>"
+    "totalContributions": 415,
+    "endorsed_candidates": "#<Set:0x0055d32dd83640>"
   },
   "C90015942": {
     "id": "C90015942",
@@ -12745,8 +12745,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1045,
-    "endorsed_candidates": "#<Set:0x0055ef0d122e18>"
+    "totalContributions": 1045,
+    "endorsed_candidates": "#<Set:0x0055d32dd83140>"
   },
   "C90015959": {
     "id": "C90015959",
@@ -12756,8 +12756,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 7668,
-    "endorsed_candidates": "#<Set:0x0055ef0d122a08>"
+    "totalContributions": 7668,
+    "endorsed_candidates": "#<Set:0x0055d32dd82b78>"
   },
   "C90015967": {
     "id": "C90015967",
@@ -12767,8 +12767,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 3967,
-    "endorsed_candidates": "#<Set:0x0055ef0d122670>"
+    "totalContributions": 3967,
+    "endorsed_candidates": "#<Set:0x0055d32dd826c8>"
   },
   "C90015975": {
     "id": "C90015975",
@@ -12778,8 +12778,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 29114,
-    "endorsed_candidates": "#<Set:0x0055ef0d122210>"
+    "totalContributions": 29114,
+    "endorsed_candidates": "#<Set:0x0055d32dd82218>"
   },
   "C90015983": {
     "id": "C90015983",
@@ -12789,8 +12789,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4480,
-    "endorsed_candidates": "#<Set:0x0055ef0d121c20>"
+    "totalContributions": 4480,
+    "endorsed_candidates": "#<Set:0x0055d32dd81d68>"
   },
   "C90015991": {
     "id": "C90015991",
@@ -12800,8 +12800,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 4179,
-    "endorsed_candidates": "#<Set:0x0055ef0d1215e0>"
+    "totalContributions": 4179,
+    "endorsed_candidates": "#<Set:0x0055d32dd818e0>"
   },
   "C90016007": {
     "id": "C90016007",
@@ -12811,8 +12811,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20070,
-    "endorsed_candidates": "#<Set:0x0055ef0d121040>"
+    "totalContributions": 20070,
+    "endorsed_candidates": "#<Set:0x0055d32dd812a0>"
   },
   "C90016015": {
     "id": "C90016015",
@@ -12822,8 +12822,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10000,
-    "endorsed_candidates": "#<Set:0x0055ef0d120a00>"
+    "totalContributions": 10000,
+    "endorsed_candidates": "#<Set:0x0055d32dd80d28>"
   },
   "C90016072": {
     "id": "C90016072",
@@ -12833,8 +12833,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 141059,
-    "endorsed_candidates": "#<Set:0x0055ef0d116870>"
+    "totalContributions": 141059,
+    "endorsed_candidates": "#<Set:0x0055d32dd7b058>"
   },
   "C90016098": {
     "id": "C90016098",
@@ -12844,8 +12844,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 307587,
-    "endorsed_candidates": "#<Set:0x0055ef0d115fd8>"
+    "totalContributions": 307587,
+    "endorsed_candidates": "#<Set:0x0055d32dd7a310>"
   },
   "C90016106": {
     "id": "C90016106",
@@ -12855,8 +12855,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 245136,
-    "endorsed_candidates": "#<Set:0x0055ef0d115970>"
+    "totalContributions": 245136,
+    "endorsed_candidates": "#<Set:0x0055d32dd79d48>"
   },
   "C90016114": {
     "id": "C90016114",
@@ -12866,8 +12866,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 173297,
-    "endorsed_candidates": "#<Set:0x0055ef0d1151a0>"
+    "totalContributions": 173297,
+    "endorsed_candidates": "#<Set:0x0055d32dd79690>"
   },
   "C90016205": {
     "id": "C90016205",
@@ -12877,8 +12877,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 97003,
-    "endorsed_candidates": "#<Set:0x0055ef0d10ee68>"
+    "totalContributions": 97003,
+    "endorsed_candidates": "#<Set:0x0055d32dd6f7f8>"
   },
   "C90016213": {
     "id": "C90016213",
@@ -12888,8 +12888,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 519117,
-    "endorsed_candidates": "#<Set:0x0055ef0d10e9e0>"
+    "totalContributions": 519117,
+    "endorsed_candidates": "#<Set:0x0055d32dd6f398>"
   },
   "C90016221": {
     "id": "C90016221",
@@ -12899,8 +12899,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1663816,
-    "endorsed_candidates": "#<Set:0x0055ef0d10e3a0>"
+    "totalContributions": 1663816,
+    "endorsed_candidates": "#<Set:0x0055d32dd6ec18>"
   },
   "C90016247": {
     "id": "C90016247",
@@ -12910,8 +12910,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 93192,
-    "endorsed_candidates": "#<Set:0x0055ef0d10d950>"
+    "totalContributions": 93192,
+    "endorsed_candidates": "#<Set:0x0055d32dd6dea8>"
   },
   "C90016288": {
     "id": "C90016288",
@@ -12921,8 +12921,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 2995005,
-    "endorsed_candidates": "#<Set:0x0055ef0d10c5a0>"
+    "totalContributions": 2995005,
+    "endorsed_candidates": "#<Set:0x0055d32dd6cb98>"
   },
   "C90016338": {
     "id": "C90016338",
@@ -12932,8 +12932,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 224601,
-    "endorsed_candidates": "#<Set:0x0055ef0d106ce0>"
+    "totalContributions": 224601,
+    "endorsed_candidates": "#<Set:0x0055d32dd67670>"
   },
   "C90016346": {
     "id": "C90016346",
@@ -12943,8 +12943,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 12000,
-    "endorsed_candidates": "#<Set:0x0055ef0d106510>"
+    "totalContributions": 12000,
+    "endorsed_candidates": "#<Set:0x0055d32dd66dd8>"
   },
   "C90016379": {
     "id": "C90016379",
@@ -12954,8 +12954,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 57325,
-    "endorsed_candidates": "#<Set:0x0055ef0d105890>"
+    "totalContributions": 57325,
+    "endorsed_candidates": "#<Set:0x0055d32dd65f00>"
   },
   "C90016403": {
     "id": "C90016403",
@@ -12965,8 +12965,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 105000,
-    "endorsed_candidates": "#<Set:0x0055ef0d104b48>"
+    "totalContributions": 105000,
+    "endorsed_candidates": "#<Set:0x0055d32dd65280>"
   },
   "C90016445": {
     "id": "C90016445",
@@ -12976,8 +12976,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 19817,
-    "endorsed_candidates": "#<Set:0x0055ef0d0ffd28>"
+    "totalContributions": 19817,
+    "endorsed_candidates": "#<Set:0x0055d32dd5fe20>"
   },
   "C90016551": {
     "id": "C90016551",
@@ -12987,8 +12987,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20081,
-    "endorsed_candidates": "#<Set:0x0055ef0d0f3f50>"
+    "totalContributions": 20081,
+    "endorsed_candidates": "#<Set:0x0055d32dd57d88>"
   },
   "C90016577": {
     "id": "C90016577",
@@ -12998,8 +12998,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 24719,
-    "endorsed_candidates": "#<Set:0x0055ef0d0f32f8>"
+    "totalContributions": 24719,
+    "endorsed_candidates": "#<Set:0x0055d32dd57090>"
   },
   "C90016585": {
     "id": "C90016585",
@@ -13009,8 +13009,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 5047,
-    "endorsed_candidates": "#<Set:0x0055ef0d0f2c18>"
+    "totalContributions": 5047,
+    "endorsed_candidates": "#<Set:0x0055d32dd569d8>"
   },
   "C90016684": {
     "id": "C90016684",
@@ -13020,8 +13020,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 77082,
-    "endorsed_candidates": "#<Set:0x0055ef0d0eb878>"
+    "totalContributions": 77082,
+    "endorsed_candidates": "#<Set:0x0055d32dd4b790>"
   },
   "C90016726": {
     "id": "C90016726",
@@ -13031,8 +13031,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 17932,
-    "endorsed_candidates": "#<Set:0x0055ef0d0eac48>"
+    "totalContributions": 17932,
+    "endorsed_candidates": "#<Set:0x0055d32dd4a7c8>"
   },
   "C90016742": {
     "id": "C90016742",
@@ -13042,8 +13042,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 25178,
-    "endorsed_candidates": "#<Set:0x0055ef0d0ea540>"
+    "totalContributions": 25178,
+    "endorsed_candidates": "#<Set:0x0055d32dd49be8>"
   },
   "C90016791": {
     "id": "C90016791",
@@ -13053,8 +13053,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10500,
-    "endorsed_candidates": "#<Set:0x0055ef0d0e8948>"
+    "totalContributions": 10500,
+    "endorsed_candidates": "#<Set:0x0055d32dd43f40>"
   },
   "C90016833": {
     "id": "C90016833",
@@ -13064,8 +13064,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 10802,
-    "endorsed_candidates": "#<Set:0x0055ef0d0e2db8>"
+    "totalContributions": 10802,
+    "endorsed_candidates": "#<Set:0x0055d32dd423e8>"
   },
   "C90016924": {
     "id": "C90016924",
@@ -13075,8 +13075,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 248901,
-    "endorsed_candidates": "#<Set:0x0055ef0d0d72d8>"
+    "totalContributions": 248901,
+    "endorsed_candidates": "#<Set:0x0055d32dd3b7f0>"
   },
   "C90016940": {
     "id": "C90016940",
@@ -13086,8 +13086,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 8145,
-    "endorsed_candidates": "#<Set:0x0055ef0d0d6568>"
+    "totalContributions": 8145,
+    "endorsed_candidates": "#<Set:0x0055d32dd3af58>"
   },
   "C90016973": {
     "id": "C90016973",
@@ -13097,8 +13097,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 20609,
-    "endorsed_candidates": "#<Set:0x0055ef0d0d55f0>"
+    "totalContributions": 20609,
+    "endorsed_candidates": "#<Set:0x0055d32dd39e78>"
   },
   "C90017021": {
     "id": "C90017021",
@@ -13108,8 +13108,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 700000,
-    "endorsed_candidates": "#<Set:0x0055ef0d0cfee8>"
+    "totalContributions": 700000,
+    "endorsed_candidates": "#<Set:0x0055d32dd38690>"
   },
   "C90017039": {
     "id": "C90017039",
@@ -13119,8 +13119,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 27791,
-    "endorsed_candidates": "#<Set:0x0055ef0d0cf920>"
+    "totalContributions": 27791,
+    "endorsed_candidates": "#<Set:0x0055d32dd38078>"
   },
   "C90017187": {
     "id": "C90017187",
@@ -13130,8 +13130,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 401,
-    "endorsed_candidates": "#<Set:0x0055ef0d0c6c30>"
+    "totalContributions": 401,
+    "endorsed_candidates": "#<Set:0x0055d32dd27138>"
   },
   "C90017211": {
     "id": "C90017211",
@@ -13141,8 +13141,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 881,
-    "endorsed_candidates": "#<Set:0x0055ef0d0c5fb0>"
+    "totalContributions": 881,
+    "endorsed_candidates": "#<Set:0x0055d32dd26288>"
   },
   "C90017237": {
     "id": "C90017237",
@@ -13152,8 +13152,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "",
     "candidateId": "",
-    "total_contributions": 1895,
-    "endorsed_candidates": "#<Set:0x0055ef0d0c5498>"
+    "totalContributions": 1895,
+    "endorsed_candidates": "#<Set:0x0055d32dd25680>"
   },
   "C99002396": {
     "id": "C99002396",
@@ -13163,8 +13163,8 @@ const committee = {
     "designation": "U",
     "interestGroupCategory": "M",
     "candidateId": "",
-    "total_contributions": 84556,
-    "endorsed_candidates": "#<Set:0x0055ef0d0c4958>"
+    "totalContributions": 84556,
+    "endorsed_candidates": "#<Set:0x0055d32dd24b40>"
   }
 };
 

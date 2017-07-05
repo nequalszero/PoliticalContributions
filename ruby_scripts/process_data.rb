@@ -56,7 +56,7 @@ def process_candidate_row(line, column_map, result)
       id: candidate_id,
       name: candidate_name,
       party: party,
-      total_contributions: 0
+      totalContributions: 0
     }
   end
 end
@@ -112,7 +112,7 @@ def process_committee_row(line, column_map, result)
       designation: committee_designation,
       interestGroupCategory: interest_group_category,
       candidateId: candidate_id,
-      total_contributions: 0,
+      totalContributions: 0,
       endorsed_candidates: Set.new
     }
   end
@@ -126,8 +126,8 @@ def calculate_contributions_per_committee(result)
     candidate_id = contribution[:candidateId]
     amount = contribution[:amount]
 
-    result[:candidate][candidate_id][:total_contributions] += amount
-    result[:committee][committee_id][:total_contributions] += amount
+    result[:candidate][candidate_id][:totalContributions] += amount
+    result[:committee][committee_id][:totalContributions] += amount
     result[:committee][committee_id][:endorsed_candidates] << candidate_id
   end
 end
@@ -140,13 +140,13 @@ def calculate_largest_contributions(result)
 end
 
 def find_candidates_with_contributions(result)
-  result[:candidate].map { |candidate_id, candidate| { candidate_id: candidate_id, amount: candidate[:total_contributions] } }
+  result[:candidate].map { |candidate_id, candidate| { candidate_id: candidate_id, amount: candidate[:totalContributions] } }
                     .select { |candidate| candidate[:amount] > 0 }
                     .map { |candidate| candidate[:candidate_id] }
 end
 
 def calculate_most_revenue_candidates(result)
-  amount_proc = Proc.new { |id| result[:candidate][id][:total_contributions] }
+  amount_proc = Proc.new { |id| result[:candidate][id][:totalContributions] }
   candidate_ids = result[:candidatesWithContributions];
 
   candidate_ids.sort { |a, b| amount_proc.call(b) <=> amount_proc.call(a) }
@@ -154,7 +154,7 @@ def calculate_most_revenue_candidates(result)
 end
 
 def calculate_most_donation_committees(result)
-  result[:committee].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:total_contributions] } }
+  result[:committee].map { |committee_id, committee| { committee_id: committee_id, amount: committee[:totalContributions] } }
                     .sort { |a, b| b[:amount] <=> a[:amount] }
                     .take(50)
                     .map { |committee| committee[:committee_id] }
