@@ -1,6 +1,7 @@
 # Presidential Campaign Contributions by Committee 2015-20164
 
 [Live Link][live]
+
 [live]: https://nequalszero.github.io/PoliticalContributions/
 
 ## Setup
@@ -21,6 +22,7 @@ Several writing scripts: `write_associations.rb`, `write_results.rb`, and `write
 
 ## JavaScript-side Information
 Note: Due to time constraints, the client side portion of this project was hastily adapted from my [SearchTesting project][searchtest]
+
 [searchtest]: https://nequalszero.github.io/SearchTesting/
 The JavaScript objects written by the Ruby side are imported into the App component, found at `frontend/components/app`.  There are only 2 main components currently, the `BarChart` and the `NavigationTabs`.  The `BarChart` itself is split into several subcomponents, the `axes`, the `chart area`, the `grid`, and the `chart` title.  The `axes` are rendered first, and `refs` to their scales are used to then create the `grid` and `chart area`.  A combination of `d3` and `React` are used to update the `DOM Tree`.
 
